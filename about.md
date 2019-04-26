@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg"<!--  caption="A sassy caption here" --> width=300 align="right" %}
+{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
 
 I am a second-year PhD student at the University of Michigan, School of Information. My research interests are broadly in the areas of usable privacy and security, specifically understanding and supporting users' self-protective behavior in face of security and privacy threats. My work spans multiple contexts such as data breach notifications, anti-phishing warnings, and website privacy choices.
 
