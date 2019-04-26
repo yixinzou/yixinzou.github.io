@@ -11,9 +11,9 @@ baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 url: "https://yixinzou.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: github_username
-linkedin_username: linkedin_username
-facebook_username: facebook_username
+github_username: yixinzou
+linkedin_username: yixinzou
+facebook_username: yixin1124
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
