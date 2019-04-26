@@ -12,13 +12,13 @@ Describe your research interests here.
 		<b>You 'Might' Be Affected: An Empirical Analysis of Readability and Usability Issues in Data Breach Notifications</b><br>
 		<b>Yixin Zou</b>, Shawn Danino, Kaiwen Sun, Florian Schaub<br>
 		ACM CHI Conference on Human Factors in Computing Systems, 2019<br>
-		<a href="https://doi.org/10.1145/3290605.3300424"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		<a href="/research/chi2019-zou.pdf"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>"Paper title #1"</b><br>
-		<i>List of authors</i><br>
-		Conference, Year<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		<b>Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings</b><br>
+		Justin Petelka, <b>Yixin Zou</b>, Florian Schaub<br>
+		ACM CHI Conference on Human Factors in Computing Systems, 2019<br>
+			<a href="/research/chi2019-petelka.pdf"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 </ul>
 
