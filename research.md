@@ -42,6 +42,7 @@ Describe your research interests here.
 </ul>
 
 <h3>Posters</h3>
+<ul>
 	<li>
 		<b>Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings</b><br>
   	<b>Yixin Zou</b>, Florian Schaub<br>
