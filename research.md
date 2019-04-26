@@ -31,7 +31,7 @@ Describe your research interests here.
 		<b>Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings</b><br>
 		Justin Petelka, <b>Yixin Zou</b>, Florian Schaub<br>
 		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2019<br>
-			<a href="/research/chi2019-petelka.pdf"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+			<a href="https://github.com/yixinzou/academic-portfolio/blob/master/research/chi2019-petelka.pdf"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 	<li>
 		<b>"I've Got Nothing to Lose": Consumers’ Risk Perceptions and Protective Actions after the Equifax Data Breach</b><br>
