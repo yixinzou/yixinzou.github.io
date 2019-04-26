@@ -14,7 +14,7 @@ twitter_username: yixin1124
 # github_username: yixinzou
 linkedin_username: yixinzou
 facebook_username: yixin1124
-# feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
+# feel free to add other links here; you will have to add the SVG icon in _includes/footer.html
 
 # Build settings
 markdown: kramdown
