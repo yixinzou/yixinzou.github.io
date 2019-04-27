@@ -44,7 +44,7 @@ Describe your research interests here.
 <h3>Posters</h3>
 <ul>
 	<li>
-		<b>Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings</b><br>
+		<b>Concern But No Action: Consumers' Reactions to the Equifax Data Breach</b><br>
   	<b>Yixin Zou</b>, Florian Schaub<br>
 		<i>Extended Abstracts of ACM CHI Conference on Human Factors in Computing Systems</i>, 2018<br>
 			<a href="https://yixinzou.github.io/academic-portfolio/research/chi2018-zou.pdf"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
