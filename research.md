@@ -30,8 +30,8 @@ Describe your research interests here.
 		<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
 	</li><br>
 	<li>
-		<b>Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings (Best Paper Honorable Mention!)</b><br>
-		<img src="/images/profile.png"><b>Best Paper Honorable Mention!</b><br>
+		<b>Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings</b><br>
+		<img src="/images/profile.png" width=10><b>Best Paper Honorable Mention!</b><br>
 		Justin Petelka, <b>Yixin Zou</b>, Florian Schaub<br>
 		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2019. (Acceptance rate: 23.8%)<br>
 			<a href="https://yixinzou.github.io/research/chi2019-petelka.pdf"><div class="color-button">pdf</div></a><a href="https://github.com/spilab-umich/phishing-experiment"><div class="color-button">code</div></a>
