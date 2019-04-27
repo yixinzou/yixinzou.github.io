@@ -31,17 +31,15 @@ Describe your research interests here.
 	</li><br>
 	<li>
 		<b>Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings</b><br>
-		<img src="/images/trophy.png" width="20"><b>Best Paper Honorable Mention!</b><br>
 		Justin Petelka, <b>Yixin Zou</b>, Florian Schaub<br>
-		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2019. (Acceptance rate: 23.8%)<br>
+		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2019. (Acceptance rate: 23.8%) <img src="/images/trophy.png" width="20"><i>Best Paper Honorable Mention!</i><br>
 			<a href="https://yixinzou.github.io/research/chi2019-petelka.pdf"><div class="color-button">pdf</div></a><a href="https://github.com/spilab-umich/phishing-experiment"><div class="color-button">code</div></a>
 			<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
 	</li><br>
 	<li>
 		<b>"I've Got Nothing to Lose": Consumers' Risk Perceptions and Protective Actions after the Equifax Data Breach</b><br>
-		<img src="/images/trophy.png" width="20"><b>Distinguished Paper Award!</b><br>
 		<b>Yixin Zou</b>, Abraham H. Mhaidli, Austin McCall, Florian Schaub<br>
-		<i>Fourteenth Symposium on Usable Privacy and Security</i>, 2018. (Acceptance rate: 22.8%)<br>
+		<i>Fourteenth Symposium on Usable Privacy and Security</i>, 2018. (Acceptance rate: 22.8%) <img src="/images/trophy.png" width="20"><i>Distinguished Paper Award!</i><br>
 			<a href="https://yixinzou.github.io/research/soups2018-zou.pdf"><div class="color-button">pdf</div></a><a href="https://www.nytimes.com/2018/09/14/your-money/credit-freeze-free.html"><div class="color-button">press</div></a>
 			<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
 	</li>
