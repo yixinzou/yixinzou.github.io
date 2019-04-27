@@ -14,8 +14,9 @@ Describe your research interests here.
 <li>
 	<b>Beyond Mandatory: Making Data Breach Notifications Useful for Consumers</b><br>
 	<b>Yixin Zou</b>, Florian Schaub<br>
-	<i>IEEE Security & Privacy</i>, 17(2), 67-72<br>
-		<a href="https://yixinzou.github.io/academic-portfolio/research/ieee2019-zou.pdf"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+	<i>IEEE Security & Privacy</i>, 17(2), 67-72.<br>
+		<a href="https://yixinzou.github.io/academic-portfolio/research/ieee2019-zou.pdf"><div class="color-button">pdf</div></a>
+		<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
 </li>
 </ul>
 
@@ -24,20 +25,23 @@ Describe your research interests here.
 	<li>
 		<b>You 'Might' Be Affected: An Empirical Analysis of Readability and Usability Issues in Data Breach Notifications</b><br>
 		<b>Yixin Zou</b>, Shawn Danino, Kaiwen Sun, Florian Schaub<br>
-		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2019<br>
-		<a href="https://yixinzou.github.io/academic-portfolio/research/chi2019-zou.pdf"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2019. (Acceptance rate: 23.8%)<br>
+		<a href="https://yixinzou.github.io/academic-portfolio/research/chi2019-zou.pdf"><div class="color-button">pdf</div></a>
+		<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
 	</li><br>
 	<li>
-		<b>Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings</b><br>
+		<b>Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings (Best Paper Honorable Mention!)</b><br>
 		Justin Petelka, <b>Yixin Zou</b>, Florian Schaub<br>
-		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2019<br>
-			<a href="https://yixinzou.github.io/academic-portfolio/research/chi2019-petelka.pdf"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		<i>ACM CHI Conference on Human Factors in Computing Systems</i>, 2019. (Acceptance rate: 23.8%)<br>
+			<a href="https://yixinzou.github.io/academic-portfolio/research/chi2019-petelka.pdf"><div class="color-button">pdf</div></a>
+			<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
 	</li><br>
 	<li>
-		<b>"I've Got Nothing to Lose": Consumers’ Risk Perceptions and Protective Actions after the Equifax Data Breach</b><br>
+		<b>"I've Got Nothing to Lose": Consumers' Risk Perceptions and Protective Actions after the Equifax Data Breach (Distinguished Paper Award!)</b><br>
 		<b>Yixin Zou</b>, Abraham H. Mhaidli, Austin McCall, Florian Schaub<br>
-		<i>Fourteenth Symposium on Usable Privacy and Security</i>, 2018<br>
-			<a href="https://yixinzou.github.io/academic-portfolio/research/soups2018-zou.pdf"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		<i>Fourteenth Symposium on Usable Privacy and Security</i>, 2018. (Acceptance rate: 22.8%)<br>
+			<a href="https://yixinzou.github.io/academic-portfolio/research/soups2018-zou.pdf"><div class="color-button">pdf</div></a>
+			<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
 	</li>
 </ul>
 
@@ -46,8 +50,9 @@ Describe your research interests here.
 	<li>
 		<b>Concern But No Action: Consumers' Reactions to the Equifax Data Breach</b><br>
   	<b>Yixin Zou</b>, Florian Schaub<br>
-		<i>Extended Abstracts of ACM CHI Conference on Human Factors in Computing Systems</i>, 2018<br>
-			<a href="https://yixinzou.github.io/academic-portfolio/research/chi2018-zou.pdf"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		<i>Extended Abstracts of ACM CHI Conference on Human Factors in Computing Systems</i>, 2018. (Acceptance rate: 39.8%)<br>
+			<a href="https://yixinzou.github.io/academic-portfolio/research/chi2018-zou.pdf"><div class="color-button">pdf</div></a>
+			<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
 	</li><br>
 </ul>
 
