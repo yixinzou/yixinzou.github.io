@@ -3,14 +3,14 @@ title: Yixin Zou
 # general_email: your_general_email@gmail.com
 academic_email: yixinz@umich.edu
 
-# description: > # this means to ignore newlines until "baseurl:"
-#   Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
+description: > # this means to ignore newlines until "baseurl:"
+Site copyright <a href="https://ys1998.github.io/academic-portfolio/">@ys1998</a>, last updated in July 2019.
 #
 # baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
 url: "https://yixinzou.github.io" # the base hostname & protocol for your site
 
-twitter_username: yixin1124
+twitter_username: yixinzou1124
 # github_username: yixinzou
 linkedin_username: yixinzou
 facebook_username: yixin1124
