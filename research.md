@@ -6,7 +6,7 @@ title: Research
 
 <h2>Publications</h2>
 
-<h3>Journal Publications</h3>
+<h3>Referred Journal & Magazine Publications</h3>
 
 <ul>
 <li>
@@ -18,7 +18,7 @@ title: Research
 </li>
 </ul>
 
-<h3>Conference Publications</h3>
+<h3>Referred Conference Papers</h3>
 <ul>
 <li>
 	<b>An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites</b><br>
@@ -38,7 +38,7 @@ title: Research
 		<b>You 'Might' Be Affected: An Empirical Analysis of Readability and Usability Issues in Data Breach Notifications</b><br>
 		<u>Yixin Zou</u>, Shawn Danino, Kaiwen Sun, Florian Schaub<br>
 		<i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Glasgow, UK, 2019.<br>
-		<a href="https://yixinzou.github.io/research/chi2019-zou.pdf"><div class="color-button">pdf</div></a><a href="https://yixinzou.github.io/research/chi2019-zou.bib"><div class="color-button">bib</div></a><a href="https://yixinzou.github.io/research/chi2019-zou-aux.xlsx"><div class="color-button">aux</div></a><a href="https://www.futurity.org/data-breaches-notifications-2066072/"><div class="color-button">press</div></a>
+		<a href="https://yixinzou.github.io/research/chi2019-zou.pdf"><div class="color-button">pdf</div></a><a href="https://yixinzou.github.io/research/chi2019-zou-aux.xlsx"><div class="color-button">aux</div></a><a href="https://www.futurity.org/data-breaches-notifications-2066072/"><div class="color-button">press</div></a>
 		<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
 	</li><br>
 	<li>
@@ -46,7 +46,7 @@ title: Research
 		<img src="/images/medal.png" width="20"><i>Best Paper Honorable Mention</i><br>
 		Justin Petelka, <u>Yixin Zou</u>, Florian Schaub<br>
 		<i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Glasgow, UK, 2019.<br>
-			<a href="https://yixinzou.github.io/research/chi2019-petelka.pdf"><div class="color-button">pdf</div></a><a href="https://yixinzou.github.io/research/chi2019-petelka.bib"><div class="color-button">bib</div></a><a href="https://github.com/spilab-umich/phishing-warning-experiment"><div class="color-button">code</div></a><a href="https://yixinzou.github.io/research/chi2019-petelka-aux.pdf"><div class="color-button">aux</div></a>
+			<a href="https://yixinzou.github.io/research/chi2019-petelka.pdf"><div class="color-button">pdf</div></a><a href="https://github.com/spilab-umich/phishing-warning-experiment"><div class="color-button">code</div></a><a href="https://yixinzou.github.io/research/chi2019-petelka-aux.pdf"><div class="color-button">aux</div></a>
 			<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
 	</li><br>
 	<li>
@@ -59,8 +59,15 @@ title: Research
 	</li>
 </ul>
 
-<h3>Posters</h3>
+<h3>Referred Conference Work-in-Progress and Workshop Papers</h3>
 <ul>
+	<li>
+		<b>An Empirical Analysis of Online Consent and Opt-Out Experiences</b><br>
+  	Hana Habib, <u>Yixin Zou</u>, Aditi Jannu, Chelse Swoopes, Lorrie Faith Cranor, Florian Schaub<br>
+		<i>The 11th Annual Privacy Law Scholars Conference (PLSC)</i>. Washington D.C., USA, 2018.<br>
+			<a href="https://yixinzou.github.io/research/plsc2018-habib.pdf"><div class="color-button">pdf</div></a>
+			<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
+	</li><br>
 	<li>
 		<b>Concern But No Action: Consumers' Reactions to the Equifax Data Breach</b><br>
   	<u>Yixin Zou</u>, Florian Schaub<br>
