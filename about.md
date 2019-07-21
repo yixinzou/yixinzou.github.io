@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+{% include image.html url="/images/profile.jpg" caption="Me at the Nuremberg Imperial Castle, Germany in Summer 2017." width=300 align="right" %}
 
-I am a second-year PhD student at the University of Michigan, School of Information advised by Dr. <a href="https://www.si.umich.edu/people/florian-schaub">Florian Schaub</a>. My research interests are broadly in the areas of usable privacy and security, specifically understanding and supporting users' self-protective behavior in face of security and privacy threats. My work spans multiple contexts such as data breach notifications, anti-phishing warnings, and website privacy choices. Prior to my PhD journey, I received a Bachelor of Science in Advertising from the University of Illinois at Urbana Champaign.
+Prior to my PhD journey, I received my B.Sc. degree in Advertising from the University of Illinois at Urbana Champaign. Being in one of the top advertising programs in the U.S., we were encouraged to not only hammer out ideas into ad campaigns as prospective copywriters and graphic designers, but also acquire relevant skills for ad targeting and placement in the digital world. Throughout the learning, one thing that I rarely saw in advertising curriculum, at least back to my days, was the ethical implications behind - Who are the consumers that pay attention to certain ads? When does that happen, and Why? To what extent are consumers aware that massive data about their likes, wants, interests, and needs are collected, and what are their stances regarding such practice? On the other end, how do businesses modify consumer behavior to serve their own interests, and how much regulatory oversight is given?
 
-At Michigan, I am actively involved in the Security and Privacy Interaction (SPI) Lab and the <a href="https://www.usableprivacy.org/">Michigan Interactive and Social Computing (MISC)</a> group. I am also a member of the <a href="https://www.usableprivacy.org/">Usable Privacy Policy Project</a> at Carnegie Mellon University.
+With all these questions in mind, I decided to take up the challenge of grad school and learn more about the dark side of advertising and technology in general. Gradually, my interest in privacy branched out to the security field as well. My non-technical background makes me stumble a lot in my research, but also gives me the unique perspective to uncover problems when I am confused by the complicated working mechanism of a privacy-enhancing tool or unmotivated to react to a security warning. Knowing that risks do exist, I feel the momentum to give other non-expert users both effective and actionable recommendations, and design systems and technologies that empower them to better protect themselves when they should.
+
+Outside of my academic life, I spend a lot of time following politics and basketball news (Splash Brothers for the win!). Other than that, I do sports (gym, badminton, swimming etc. - though I am not good at any one of them :P), experiment in my kitchen, or chill in my soft watching movies/TV shows.
+
+I was born and raised in Guangzhou (广州), a beautiful city in southern China. Cantonese food is undoubtedly the thing I miss most after coming to the US. Here's a little bit of preview - and my sincere apologies, if you happen to be here during the midnight :)
+
+<iframe width="840" height="630"
+src="https://www.youtube.com/embed/8RT99hfmZw0">
+</iframe>
