@@ -46,7 +46,7 @@ title: Research
 		<img src="/images/medal.png" width="20"><i>Best Paper Honorable Mention</i><br>
 		Justin Petelka, <u>Yixin Zou</u>, Florian Schaub<br>
 		<i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Glasgow, UK, 2019.<br>
-			<a href="https://yixinzou.github.io/research/chi2019-petelka.pdf"><div class="color-button">pdf</div></a><a href="https://github.com/spilab-umich/phishing-warning-experiment"><div class="color-button">code</div></a><a href="https://yixinzou.github.io/research/chi2019-petelka-aux.pdf"><div class="color-button">aux</div></a>
+			<a href="https://yixinzou.github.io/research/chi2019-petelka.pdf"><div class="color-button">pdf</div></a><a href="https://yixinzou.github.io/research/chi2019-petelka.bib"><div class="color-button">bib</div></a><a href="https://github.com/spilab-umich/phishing-warning-experiment"><div class="color-button">code</div></a><a href="https://yixinzou.github.io/research/chi2019-petelka-aux.pdf"><div class="color-button">aux</div></a>
 			<!-- <a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a> -->
 	</li><br>
 	<li>
