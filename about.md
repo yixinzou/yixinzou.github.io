@@ -12,6 +12,6 @@ Outside of my academic life, I spend a lot of time following politics and basket
 
 I was born and raised in Guangzhou (广州), a beautiful city in southern China. Cantonese food is undoubtedly the thing I miss most after coming to the US. Here's a little bit of preview - and my sincere apologies, if you happen to be here during midnight :)
 
-<iframe width="840" height="630"
+<iframe width="630" height="420"
 src="https://www.youtube.com/embed/8RT99hfmZw0">
 </iframe>
