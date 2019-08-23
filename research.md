@@ -51,12 +51,15 @@ For most updated publication records, please refer to my <a target="_blank" href
 	Hana Habib, <u>Yixin Zou</u>, Aditi Jannu, Neha Sridhar, Chelse Swoopes, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub<br>
 	<i>Proceedings of the Fifteen Symposium On Usable Privacy and Security (SOUPS)</i>. Santa Clara, CA, 2019. <br>
 	<a target="_blank" href="https://yixinzou.github.io/research/soups2019-habib.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/research/soups2019-habib-slides.pdf"><div class="color-button">slides</div></a>
 </li><br>
 <li>
 	<b>"We Can't Live Without Them!" App Developers' Adoption of Ad Networks and Their Considerations of Consumer Risks</b><br>
 	Abraham H. Mhaidli, <u>Yixin Zou</u>, Florian Schaub<br>
 	<i>Proceedings of the Fifteen Symposium On Usable Privacy and Security (SOUPS)</i>. Santa Clara, CA, 2019. <br>
 	<a target="_blank" href="https://yixinzou.github.io/research/soups2019-mhaidli.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/research/soups2019-mhaidli-slides.pdf"><div class="color-button">slides</div></a>
+  <a target="_blank" href="https://news.umich.edu/advertising-in-apps-decisions-behind-those-targeted-sometimes-invasive-ads-we-see/"><div class="color-button">press</div></a>
 </li><br>
 	<li>
 		<b>You 'Might' Be Affected: An Empirical Analysis of Readability and Usability Issues in Data Breach Notifications</b><br>
