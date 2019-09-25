@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Click <a target="_blank" href="zou-cv-long.pdf">here</a> to download my cv. (Last updated in July 2019)
+Click <a target="_blank" href="zou-cv-long.pdf">here</a> to download my cv. (Last updated in September 2019)
 
 <embed src="zou-cv-long.pdf" width="800px" height="2100px" />
 <!-- <ul>
