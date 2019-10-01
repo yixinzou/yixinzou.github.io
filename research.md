@@ -52,6 +52,7 @@ For most updated publication records, please refer to my <a target="_blank" href
 	<i>Proceedings of the Fifteen Symposium On Usable Privacy and Security (SOUPS)</i>. Santa Clara, CA, 2019. <br>
 	<a target="_blank" href="https://yixinzou.github.io/research/soups2019-habib.pdf"><div class="color-button">pdf</div></a>
   <a target="_blank" href="https://yixinzou.github.io/research/soups2019-habib-slides.pdf"><div class="color-button">slides</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/research/soups2019-habib.mp4"><div class="color-button">video</div></a>
 </li><br>
 <li>
 	<b>"We Can't Live Without Them!" App Developers' Adoption of Ad Networks and Their Considerations of Consumer Risks</b><br>
