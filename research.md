@@ -40,7 +40,7 @@ For most updated publication records, please refer to my <a target="_blank" href
 	<b>Listen Only When Spoken To: Interpersonal Communication Cues as Smart Speaker Privacy Controls</b><br>
 	Abraham H. Mhaidli, Manikandan Venkatesh, <u>Yixin Zou</u>, Florian Schaub<br>
 	<i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>, 2020(2) (forthcoming).<br>
-</li>
+</li><br>
 
 <li>
 	<b>Beyond Mandatory: Making Data Breach Notifications Useful for Consumers</b><br>
