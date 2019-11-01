@@ -35,16 +35,25 @@ For most updated publication records, please refer to my <a target="_blank" href
 <h3>Referred Journal & Magazine Publications</h3>
 
 <ol>
+
+<li>
+	<b>Listen Only When Spoken To: Interpersonal Communication Cues as Smart Speaker Privacy Controls</b><br>
+	Abraham H. Mhaidli, Manikandan Venkatesh, <u>Yixin Zou</u>, Florian Schaub<br>
+	<i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>, 2020(2), upcoming.<br>
+</li>
+
 <li>
 	<b>Beyond Mandatory: Making Data Breach Notifications Useful for Consumers</b><br>
 	<u>Yixin Zou</u>, Florian Schaub<br>
 	<i>IEEE Security & Privacy</i>, 17(2), 67-72.<br>
 		<a target="_blank" href="https://yixinzou.github.io/research/ieee2019-zou.pdf"><div class="color-button">pdf</div></a>
 </li>
+
 </ol>
 
 <br>
 <h3>Referred Conference Papers</h3>
+
 <ol>
 <li>
 	<b>An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites</b><br>
