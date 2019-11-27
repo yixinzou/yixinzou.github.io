@@ -11,17 +11,17 @@ title: Research
   <style>
     ul li { line-height: -10px; }
   </style>
+  <li>
+  UMSI Field Prelim Milestone Distinction Award, 2019
+  </li><br>
 <li>
-Symantec Research Labs Graduate Fellowship, 2019   <a target="_blank" href="https://www.symantec.com/about/careers/graduate-fellowship"><img src="/images/question-mark.png" width="10"></a>
+NortonLifeLock Research Group Graduate Fellowship, 2019   <a target="_blank" href="https://www.nortonlifelock.com/about/careers/graduate-fellowship"><img src="/images/question-mark.png" width="10"></a>
 </li><br>
 <li>
 Best Paper Honorable Mention, ACM SIGCHI Conference on Human Factors in Computing Systems (CHI), 2019   <a target="_blank" href="https://chi2019.acm.org/2019/03/15/chi-2019-best-papers-honourable-mentions/"><img src="/images/question-mark.png" width="10"></a>
 </li><br>
 <li>
 Distinguished Paper Award, Symposium on Usable Privacy and Security (SOUPS), 2018   <a target="_blank" href="https://www.usenix.org/conference/soups2018"><img src="/images/question-mark.png" width="10"></a>
-</li><br>
-<li>
-UMSI Pre-candidacy Paper Distinguished Award, 2018
 </li>
 </ul>
 
