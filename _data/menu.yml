@@ -1,8 +1,8 @@
-- title: "About"
-  href: "/about/"
+# - title: "About"
+#   href: "/about/"
 
-- title: "Research"
-  href: "/research/"
+- title: "Publications"
+  href: "/publications/"
 
 # - title: "Projects"
 #   href: "/projects/"
