@@ -59,21 +59,26 @@ For most updated publication records, please refer to my <a target="_blank" href
 		<b>You 'Might' Be Affected: An Empirical Analysis of Readability and Usability Issues in Data Breach Notifications</b><br>
 		<u>Yixin Zou</u>, Shawn Danino, Kaiwen Sun, Florian Schaub<br>
 		<i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Glasgow, UK, 2019.<br>
-		<a target="_blank" href="https://yixinzou.github.io/publications/chi2019-zou.pdf"><div class="color-button">pdf</div></a><a target="_blank" href="https://yixinzou.github.io/publications/chi2019-zou-aux.xlsx"><div class="color-button">aux</div></a><a target="_blank" href="https://www.futurity.org/data-breaches-notifications-2066072/"><div class="color-button">press</div></a>
+		<a target="_blank" href="https://yixinzou.github.io/publications/chi2019-zou.pdf"><div class="color-button">pdf</div></a>
+		<a target="_blank" href="https://yixinzou.github.io/publications/chi2019-zou-aux.xlsx"><div class="color-button">aux</div></a>
+		<a target="_blank" href="https://www.futurity.org/data-breaches-notifications-2066072/"><div class="color-button">press</div></a>
 	</li><br>
 	<li>
 		<b>Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings</b><br>
 		<img src="/images/medal.png" width="20"><i>Best Paper Honorable Mention</i><br>
 		Justin Petelka, <u>Yixin Zou</u>, Florian Schaub<br>
 		<i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Glasgow, UK, 2019.<br>
-			<a target="_blank" href="https://yixinzou.github.io/publications/chi2019-petelka.pdf"><div class="color-button">pdf</div></a><a target="_blank" href="https://github.com/spilab-umich/phishing-warning-experiment"><div class="color-button">code</div></a><a target="_blank" href="https://yixinzou.github.io/publications/chi2019-petelka-aux.pdf"><div class="color-button">aux</div></a>
+			<a target="_blank" href="https://yixinzou.github.io/publications/chi2019-petelka.pdf"><div class="color-button">pdf</div></a>
+			<a target="_blank" href="https://github.com/spilab-umich/phishing-warning-experiment"><div class="color-button">code</div></a>
+			<a target="_blank" href="https://yixinzou.github.io/publications/chi2019-petelka-aux.pdf"><div class="color-button">aux</div></a>
 	</li><br>
 	<li>
 		<b>"I've Got Nothing to Lose": Consumers' Risk Perceptions and Protective Actions after the Equifax Data Breach</b><br>
 		<img src="/images/trophy.png" width="20"><i>Distinguished Paper Award</i><br>
 		<u>Yixin Zou</u>, Abraham H. Mhaidli, Austin McCall, Florian Schaub<br>
 		<i>Proceedings of the Fourteenth Symposium On Usable Privacy and Security (SOUPS)</i>. Baltimore, MD, 2018. <br>
-			<a target="_blank" href="https://yixinzou.github.io/publications/soups2018-zou.pdf"><div class="color-button">pdf</div></a><a target="_blank" href="https://www.nytimes.com/2018/09/14/your-money/credit-freeze-free.html"><div class="color-button">press</div></a>
+			<a target="_blank" href="https://yixinzou.github.io/publications/soups2018-zou.pdf"><div class="color-button">pdf</div></a>
+			<a target="_blank" href="https://www.nytimes.com/2018/09/14/your-money/credit-freeze-free.html"><div class="color-button">press</div></a>
 	</li>
 </ol>
 
