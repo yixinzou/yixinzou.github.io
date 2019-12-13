@@ -14,6 +14,7 @@ For most updated publication records, please refer to my <a target="_blank" href
 	<b>Listen Only When Spoken To: Interpersonal Communication Cues as Smart Speaker Privacy Controls</b><br>
 	Abraham H. Mhaidli, Manikandan Venkatesh, <u>Yixin Zou</u>, Florian Schaub<br>
 	To appear in <i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>, 2020(2).<br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/popets2020-mhaidli.pdf"><div class="color-button">pdf</div></a>
 </li><br>
 
 <li>
