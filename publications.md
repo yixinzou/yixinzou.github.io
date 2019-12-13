@@ -20,7 +20,7 @@ For most updated publication records, please refer to my <a target="_blank" href
 <li>
 	<b>Beyond Mandatory: Making Data Breach Notifications Useful for Consumers</b><br>
 	<u>Yixin Zou</u>, Florian Schaub<br>
-	<i>IEEE Security & Privacy</i>, 17(2), 67-72. 2020.<br>
+	<i>IEEE Security & Privacy</i>, 17(2), 67-72. 2019.<br>
 		<a target="_blank" href="https://yixinzou.github.io/publications/ieee2019-zou.pdf"><div class="color-button">pdf</div></a>
 </li>
 
