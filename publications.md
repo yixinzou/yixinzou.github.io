@@ -1,8 +1,25 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+<!-- title: Publications -->
 ---
+
+<h1>Selected Honors and Awards</h1>
+
+<!-- <div class="honors" style="height: 10em;"> -->
+<ul>
+  <li>UMSI Field Prelim Milestone Distinction Award, 2019</li>
+  <li>NortonLifeLock Research Group Graduate Fellowship, 2019   <a target="_blank" href="https://www.nortonlifelock.com/about/careers/graduate-fellowship"><img src="/images/question-mark.png" width="10"></a>
+</li>
+  <li>Best Paper Honorable Mention, ACM SIGCHI Conference on Human Factors in Computing Systems (CHI), 2019   <a target="_blank" href="https://chi2019.acm.org/2019/03/15/chi-2019-best-papers-honourable-mentions/"><img src="/images/question-mark.png" width="10"></a>
+</li>
+  <li>Distinguished Paper Award, Symposium on Usable Privacy and Security (SOUPS), 2018   <a target="_blank" href="https://www.usenix.org/conference/soups2018"><img src="/images/question-mark.png" width="10"></a>
+</li>
+</ul>
+
+<br>
+
+<h1>Publications</h1>
 
 For most updated publication records, please refer to my <a target="_blank" href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en&oi=ao">Google Scholar Profile</a>.
 
@@ -34,11 +51,14 @@ For most updated publication records, please refer to my <a target="_blank" href
 	<b>Examining Adoption and Abandonment of Security, Privacy, and Identity Theft Protection Practices</b><br>
 	<u>Yixin Zou</u>, Kevin Roundy, Acar Tamersoy, Saurabh Shintre, Johann Roturier, Florian Schaub<br>
 	To appear in <i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Honolulu, HI, 2020. <br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/chi2020-zou.pdf"><div class="color-button">pdf</div></a>
 </li><br>
 <li>
 	<b>"It's a scavenger hunt": Usability of Websites' Opt-Out and Data Deletion Choices </b><br>
 	Hana Habib, Sarah Pearman, Jiamin Wang, <u>Yixin Zou</u>, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub<br>
 	To appear in <i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Honolulu, HI, 2020. <br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/chi2020-habib-aux.zip"><div class="color-button">aux</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/chi2020-habib.pdf"><div class="color-button">pdf</div></a>
 </li><br>
 <li>
 	<b>An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites</b><br>
