@@ -8,6 +8,8 @@ permalink: /publications/
 
 <!-- <div class="honors" style="height: 10em;"> -->
 <ul>
+<li>Facebook Fellowship Finalist, 2019, 2020   <a target="_blank" href="https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/"><img src="/images/question-mark.png" width="10"></a>
+</li>
   <li>UMSI Field Prelim Milestone Distinction Award, 2019</li>
   <li>NortonLifeLock Research Group Graduate Fellowship, 2019   <a target="_blank" href="https://www.nortonlifelock.com/about/careers/graduate-fellowship"><img src="/images/question-mark.png" width="10"></a>
 </li>
@@ -51,7 +53,8 @@ For most updated publication records, please refer to my <a target="_blank" href
 	<b>Examining Adoption and Abandonment of Security, Privacy, and Identity Theft Protection Practices</b><br>
 	<u>Yixin Zou</u>, Kevin Roundy, Acar Tamersoy, Saurabh Shintre, Johann Roturier, Florian Schaub<br>
 	To appear in <i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Honolulu, HI, 2020. <br>
-	<a target="_blank" href="https://yixinzou.github.io/publications/chi2020-zou.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/chi2020-zou-aux.zip"><div class="color-button">aux</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/chi2020-zou.pdf"><div class="color-button">pdf</div></a>
 </li><br>
 <li>
 	<b>"It's a scavenger hunt": Usability of Websites' Opt-Out and Data Deletion Choices </b><br>
