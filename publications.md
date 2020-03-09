@@ -50,7 +50,8 @@ For most updated publication records, please refer to my <a target="_blank" href
 
 <ol>
 <li>
-	<b>Examining Adoption and Abandonment of Security, Privacy, and Identity Theft Protection Practices</b><br>
+	<b>Examining the Adoption and Abandonment of Security, Privacy, and Identity Theft Protection Practices</b><br>
+  <img src="/images/medal.png" width="20"><i>Best Paper Honorable Mention</i><br>
 	<u>Yixin Zou</u>, Kevin Roundy, Acar Tamersoy, Saurabh Shintre, Johann Roturier, Florian Schaub<br>
 	To appear in <i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Honolulu, HI, 2020. <br>
   <a target="_blank" href="https://yixinzou.github.io/publications/chi2020-zou-aux.zip"><div class="color-button">aux</div></a>
