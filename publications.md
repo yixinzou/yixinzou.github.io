@@ -25,7 +25,7 @@ permalink: /publications/
 
 For most updated publication records, please refer to my <a target="_blank" href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ&hl=en&oi=ao">Google Scholar Profile</a>.
 
-<h2>Referred Journal & Magazine Publications</h2>
+<h2>Refereed Journal & Magazine Publications</h2>
 
 <ol>
 
@@ -46,7 +46,7 @@ For most updated publication records, please refer to my <a target="_blank" href
 </ol>
 
 <br>
-<h2>Referred Conference Papers</h2>
+<h2>Refereed Conference Papers</h2>
 
 <ol>
 <li>
@@ -108,7 +108,7 @@ For most updated publication records, please refer to my <a target="_blank" href
 </ol>
 
 <br>
-<h2>Referred Conference Work-in-Progress and Workshop Papers</h2>
+<h2>Refereed Conference Work-in-Progress and Workshop Papers</h2>
 <ol>
 	<li>
 		<b>An Empirical Analysis of Online Consent and Opt-Out Experiences</b><br>
