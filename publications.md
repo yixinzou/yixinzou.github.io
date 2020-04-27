@@ -56,6 +56,7 @@ For most updated publication records, please refer to my <a target="_blank" href
 	To appear in <i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Honolulu, HI, 2020. <br>
   <a target="_blank" href="https://yixinzou.github.io/publications/chi2020-zou-aux.zip"><div class="color-button">aux</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/chi2020-zou.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://news.umich.edu/why-we-adopt-then-abandon-online-safety-practices/"><div class="color-button">press</div></a>
 </li><br>
 <li>
 	<b>"It's a scavenger hunt": Usability of Websites' Opt-Out and Data Deletion Choices </b><br>
@@ -69,6 +70,7 @@ For most updated publication records, please refer to my <a target="_blank" href
 	Hana Habib, <u>Yixin Zou</u>, Aditi Jannu, Neha Sridhar, Chelse Swoopes, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub<br>
 	<i>Proceedings of the Fifteen Symposium On Usable Privacy and Security (SOUPS)</i>. Santa Clara, CA, 2019. <br>
 	<a target="_blank" href="https://yixinzou.github.io/publications/soups2019-habib.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://theconversation.com/website-privacy-options-arent-much-of-a-choice-since-theyre-hard-to-find-and-use-124631"><div class="color-button">press</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/soups2019-habib-slides.pdf"><div class="color-button">slides</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/soups2019-habib.mp4"><div class="color-button">video</div></a>
 </li><br>
