@@ -32,7 +32,7 @@ For most updated publication records, please refer to my <a target="_blank" href
 <li>
 	<b>Listen Only When Spoken To: Interpersonal Communication Cues as Smart Speaker Privacy Controls</b><br>
 	Abraham H. Mhaidli, Manikandan Venkatesh, <u>Yixin Zou</u>, Florian Schaub<br>
-	To appear in <i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>, 2020(2).<br>
+	<i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>, 2020(2).<br>
 	<a target="_blank" href="https://yixinzou.github.io/publications/popets2020-mhaidli.pdf"><div class="color-button">pdf</div></a>
 </li><br>
 
@@ -53,7 +53,7 @@ For most updated publication records, please refer to my <a target="_blank" href
 	<b>Examining the Adoption and Abandonment of Security, Privacy, and Identity Theft Protection Practices</b><br>
   <img src="/images/medal.png" width="20"><i>Best Paper Honorable Mention</i><br>
 	<u>Yixin Zou</u>, Kevin Roundy, Acar Tamersoy, Saurabh Shintre, Johann Roturier, Florian Schaub<br>
-	To appear in <i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Honolulu, HI, 2020. <br>
+	<i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Honolulu, HI, 2020. <br>
   <a target="_blank" href="https://yixinzou.github.io/publications/chi2020-zou-aux.zip"><div class="color-button">aux</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/chi2020-zou.pdf"><div class="color-button">pdf</div></a>
   <a target="_blank" href="https://news.umich.edu/why-we-adopt-then-abandon-online-safety-practices/"><div class="color-button">press</div></a>
@@ -61,7 +61,7 @@ For most updated publication records, please refer to my <a target="_blank" href
 <li>
 	<b>"It's a scavenger hunt": Usability of Websites' Opt-Out and Data Deletion Choices </b><br>
 	Hana Habib, Sarah Pearman, Jiamin Wang, <u>Yixin Zou</u>, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub<br>
-	To appear in <i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Honolulu, HI, 2020. <br>
+	<i>Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. Honolulu, HI, 2020. <br>
 	<a target="_blank" href="https://yixinzou.github.io/publications/chi2020-habib-aux.zip"><div class="color-button">aux</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/chi2020-habib.pdf"><div class="color-button">pdf</div></a>
 </li><br>
