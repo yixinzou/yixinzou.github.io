@@ -127,3 +127,22 @@ For most updated publication records, please refer to my <a target="_blank" href
 </ol>
 
 <br>
+
+<br>
+<h2>Technical Reports</h2>
+<ol>
+	<li>
+		<b>User Testing of the Proposed CCPA Do-Not-Sell Icon</b><br>
+  	Lorrie Faith Cranor, Hana Habib, <u>Yixin Zou</u>, Alessandro Acquisti, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
+	  Report submitted to the California Office of the Attorney General to support the preliminary rulemaking of the California Consumer Privacy Act (CCPA). 2020.<br>
+			<a target="_blank" href="https://yixinzou.github.io/publications/ccpa20200224-cranor.pdf"><div class="color-button">pdf</div></a>
+	</li><br>
+	<li>
+  <b>Design and Evaluation of a Usable Icon and Tagline to Signal an Opt-Out of the Sale of Personal Information as Required by CCPA</b><br>
+  Lorrie Faith Cranor, Hana Habib, <u>Yixin Zou</u>, Alessandro Acquisti, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
+  Report submitted to the California Office of the Attorney General to support the preliminary rulemaking of the California Consumer Privacy Act (CCPA). 2020.<br>
+    <a target="_blank" href="https://yixinzou.github.io/publications/ccpa20200204-cranor.pdf"><div class="color-button">pdf</div></a>
+	</li><br>
+</ol>
+
+<br>
