@@ -45,7 +45,6 @@ For most updated publication records, please refer to my <a target="_blank" href
 
 </ol>
 
-<br>
 <h2>Refereed Conference Papers</h2>
 
 <ol>
@@ -109,7 +108,6 @@ For most updated publication records, please refer to my <a target="_blank" href
 	</li>
 </ol>
 
-<br>
 <h2>Refereed Conference Work-in-Progress and Workshop Papers</h2>
 <ol>
 	<li>
@@ -126,9 +124,6 @@ For most updated publication records, please refer to my <a target="_blank" href
 	</li><br>
 </ol>
 
-<br>
-
-<br>
 <h2>Technical Reports</h2>
 <ol>
 	<li>
