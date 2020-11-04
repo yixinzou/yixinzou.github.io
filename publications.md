@@ -121,7 +121,7 @@ For most updated publication records, please refer to my <a target="_blank" href
   	<u>Yixin Zou</u>, Florian Schaub<br>
 		<i>Extended Abstracts of ACM CHI Conference on Human Factors in Computing Systems</i>. Montreal, Canada, 2018.<br>
 			<a target="_blank" href="https://yixinzou.github.io/publications/chi2018-zou.pdf"><div class="color-button">pdf</div></a>
-	</li><br>
+	</li>
 </ol>
 
 <h2>Technical Reports</h2>
@@ -137,7 +137,7 @@ For most updated publication records, please refer to my <a target="_blank" href
   Lorrie Faith Cranor, Hana Habib, <u>Yixin Zou</u>, Alessandro Acquisti, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
   Report submitted to the California Office of the Attorney General to support the preliminary rulemaking of the California Consumer Privacy Act (CCPA). 2020.<br>
     <a target="_blank" href="https://yixinzou.github.io/publications/ccpa20200204-cranor.pdf"><div class="color-button">pdf</div></a>
-	</li><br>
+	</li>
 </ol>
 
 <br>
