@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-<a target="_blank" href="zou-cv.pdf">Academic Curriculum Vitae</a> (Last updated in November 2020)
+<a target="_blank" href="zou-cv.pdf">Academic Curriculum Vitae</a> (Last updated in December 2020)
 
 <embed src="zou-cv.pdf" width="800px" height="2100px" />
 <!-- <ul>
