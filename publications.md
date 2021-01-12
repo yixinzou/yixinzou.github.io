@@ -54,9 +54,7 @@ permalink: /publications/
   <!-- <img src="/images/medal.png" width="20"><i>Best Paper Honorable Mention</i><br> -->
 	Hana Habib*, <u>Yixin Zou*</u>, Yaxing Yao, Alessandro Acquisti, Lorrie Faith Cranor, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
 	<i>ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)</i>. 2021. (forthcoming)<br>
-  <!-- <a target="_blank" href="https://yixinzou.github.io/publications/chi2020-zou-aux.zip"><div class="color-button">aux</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/chi2020-zou.pdf"><div class="color-button">pdf</div></a>
-  <a target="_blank" href="https://news.umich.edu/why-we-adopt-then-abandon-online-safety-practices/"><div class="color-button">press</div></a> -->
+  <a target="_blank" href="https://yixinzou.github.io/publications/chi2021-habib-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
 	<b>Examining the Adoption and Abandonment of Security, Privacy, and Identity Theft Protection Practices</b><br>
