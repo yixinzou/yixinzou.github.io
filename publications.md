@@ -8,14 +8,14 @@ permalink: /publications/
 
 <!-- <div class="honors" style="height: 10em;"> -->
 <ul>
-<li>Best Paper Honorable Mention, ACM SIGCHI Conference on Human Factors in Computing Systems (2019, 2020)   <a target="_blank" href="https://chi2019.acm.org/2019/03/15/chi-2019-best-papers-honourable-mentions/"><img src="/images/question-mark.png" width="10"></a>
+<li>Best Paper Honorable Mention, ACM Conference on Human Factors in Computing Systems (2019, 2020)   <a target="_blank" href="https://chi2019.acm.org/2019/03/15/chi-2019-best-papers-honourable-mentions/"><img src="/images/question-mark.png" width="10"></a>
 </li>
 <li>Facebook Fellowship Finalist (2019, 2020)   <a target="_blank" href="https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/"><img src="/images/question-mark.png" width="10"></a>
 </li>
   <li>UMSI Field Prelim Milestone Distinction Award (2019) </li>
   <li>NortonLifeLock Research Group Graduate Fellowship (2019)   <a target="_blank" href="https://www.nortonlifelock.com/about/careers/graduate-fellowship"><img src="/images/question-mark.png" width="10"></a>
 </li>
-  <li>Distinguished Paper Award, USENIX Symposium on Usable Privacy and Security (2018)   <a target="_blank" href="https://www.usenix.org/conference/soups2018"><img src="/images/question-mark.png" width="10"></a>
+  <li>Distinguished Paper Award, Symposium on Usable Privacy and Security (2018)   <a target="_blank" href="https://www.usenix.org/conference/soups2018"><img src="/images/question-mark.png" width="10"></a>
 </li>
 </ul>
 
