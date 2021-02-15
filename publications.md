@@ -34,7 +34,7 @@ permalink: /publications/
 	<i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>, 2020(2), 251-270. 2020.<br>
   <a target="_blank" href="https://content.sciendo.com/view/journals/popets/2020/2/article-p251.xml"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2020-mhaidli.pdf"><div class="color-button">pdf</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/mhaidli2020listen.bib"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/mhaidli2020listen.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 
 <li>
@@ -130,14 +130,14 @@ permalink: /publications/
 		<b>An Empirical Analysis of Online Consent and Opt-Out Experiences</b><br>
   	Hana Habib, <u>Yixin Zou</u>, Aditi Jannu, Chelse Swoopes, Lorrie Faith Cranor, Florian Schaub<br>
 		<i>Annual Privacy Law Scholars Conference (PLSC)</i>. 2018.<br>
-		<a target="_blank" href="https://yixinzou.github.io/publications/plsc2018-habib.pdf"><div class="color-button">pdf</div></a>
+		<a target="_blank" href="https://yixinzou.github.io/publications/pdf/plsc2018-habib.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
 		<b>Concern But No Action: Consumers' Reactions to the Equifax Data Breach</b><br>
   	<u>Yixin Zou</u>, Florian Schaub<br>
 		<i>ACM Conference on Human Factors in Computing Systems (CHI), Late Breaking Work</i>. 2018.<br>
     <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3170427.3188510"><div class="color-button">link</div></a>
-		<a target="_blank" href="https://yixinzou.github.io/publications/chi2018-zou.pdf"><div class="color-button">pdf</div></a>
+		<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2018-zou.pdf"><div class="color-button">pdf</div></a>
 	</li>
 </ol>
 
@@ -147,19 +147,19 @@ permalink: /publications/
   <b>CCPA Opt-Out Icon Testing – Phase 2</b><br>
   Lorrie Faith Cranor, Hana Habib, Yaxing Yao, <u>Yixin Zou</u>, Alessandro Acquisti, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
   Report submitted to the California Office of the Attorney General to support the preliminary rulemaking of the California Consumer Privacy Act (CCPA). 2020.<br>
-    <a target="_blank" href="https://yixinzou.github.io/publications/ccpa20200528-cranor.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/pdf/ccpa20200528-cranor.pdf"><div class="color-button">pdf</div></a>
 </li><br>
 	<li>
 		<b>User Testing of the Proposed CCPA Do-Not-Sell Icon</b><br>
   	Lorrie Faith Cranor, Hana Habib, <u>Yixin Zou</u>, Alessandro Acquisti, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
 	  Report submitted to the California Office of the Attorney General to support the preliminary rulemaking of the California Consumer Privacy Act (CCPA). 2020.<br>
-			<a target="_blank" href="https://yixinzou.github.io/publications/ccpa20200224-cranor.pdf"><div class="color-button">pdf</div></a>
+			<a target="_blank" href="https://yixinzou.github.io/publications/pdf/ccpa20200224-cranor.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
   <b>Design and Evaluation of a Usable Icon and Tagline to Signal an Opt-Out of the Sale of Personal Information as Required by CCPA</b><br>
   Lorrie Faith Cranor, Hana Habib, <u>Yixin Zou</u>, Alessandro Acquisti, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
   Report submitted to the California Office of the Attorney General to support the preliminary rulemaking of the California Consumer Privacy Act (CCPA). 2020.<br>
-    <a target="_blank" href="https://yixinzou.github.io/publications/ccpa20200204-cranor.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/pdf/ccpa20200204-cranor.pdf"><div class="color-button">pdf</div></a>
 	</li>
 </ol>
 
