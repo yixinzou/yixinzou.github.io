@@ -55,7 +55,7 @@ permalink: /publications/
 	<b>"Now I'm a bit angry:" Individuals' Awareness, Perception, and Responses to Data Breaches that Affected Them</b><br>
 	Peter Mayer*, <u>Yixin Zou*</u>, Florian Schaub, Adam Aviv<br>
 	<i>USENIX Security Symposium</i>. 2021.<br>
-  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec-mayer-2021.pdf"><div class="color-button">preprint</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec2021-mayer-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
 	<b>Toggles, Dollar Signs, and Triangles: How to (In)Effectively Convey Privacy Choices with Icons and Link Texts</b><br>
