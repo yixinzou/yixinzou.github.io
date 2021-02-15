@@ -1,7 +1,0 @@
-We have included two files as supplementary material.
-
-Codebook for Survey Reasons.pdf
-This file contains the codebook developed by the authors to categorize free-form text responses into themes. Each code pertains to one of four categories and a code name, description, and example reason is provided for each, with clarifying notes provided for some of the codes.
-
-Adoption and Abandonment Survey of Best Practices.pdf
-This file contains a transcript of the survey that was shared with participants on Prolific, with the addition of practice names in italicized and bracketed text for the benefit of the reader. 

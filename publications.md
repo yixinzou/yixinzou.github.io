@@ -43,6 +43,7 @@ permalink: /publications/
 	<i>IEEE Security & Privacy</i>, 17(2), 67-72. 2019.<br>
   <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8677354"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/ieee2019-zou.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2019beyond.bib"><div class="color-button">BibTeX</div></a>
 </li>
 
 </ol>
@@ -52,7 +53,6 @@ permalink: /publications/
 <ol>
 <li>
 	<b>Toggles, Dollar Signs, and Triangles: How to (In)Effectively Convey Privacy Choices with Icons and Link Texts</b><br>
-  <!-- <img src="/images/medal.png" width="20"><i>Best Paper Honorable Mention</i><br> -->
 	Hana Habib*, <u>Yixin Zou*</u>, Yaxing Yao, Alessandro Acquisti, Lorrie Faith Cranor, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
 	<i>ACM Conference on Human Factors in Computing Systems (CHI)</i>. 2021. (forthcoming)<br>
   <a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2021-habib-preprint.pdf"><div class="color-button">preprint</div></a>
@@ -64,6 +64,7 @@ permalink: /publications/
 	<i>ACM Conference on Human Factors in Computing Systems (CHI)</i>. 2020. <br>
   <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3313831.3376570"><div class="color-button">link</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2020-zou.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2020examining.bib"><div class="color-button">BibTeX</div></a>
   <a target="_blank" href="https://news.umich.edu/why-we-adopt-then-abandon-online-safety-practices/"><div class="color-button">press</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/slides/chi2020-zou-slides.pdf"><div class="color-button">slides</div></a>
 </li><br>
@@ -73,17 +74,8 @@ permalink: /publications/
 	<i>ACM Conference on Human Factors in Computing Systems (CHI)</i>. 2020. <br>
 	<a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3313831.3376511"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2020-habib.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/habib2020usability.bib"><div class="color-button">BibTeX</div></a>
   <a target="_blank" href="https://www.youtube.com/watch?v=zl01PuvPEn0"><div class="color-button">video</div></a>
-</li><br>
-<li>
-	<b>An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites</b><br>
-	Hana Habib, <u>Yixin Zou</u>, Aditi Jannu, Neha Sridhar, Chelse Swoopes, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub<br>
-	<i>Symposium On Usable Privacy and Security (SOUPS)</i>. 2019. <br>
-  <a target="_blank" href="https://www.usenix.org/system/files/soups2019-habib.pdf"><div class="color-button">link</div></a>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/soups2019-habib.pdf"><div class="color-button">pdf</div></a>
-  <a target="_blank" href="https://theconversation.com/website-privacy-options-arent-much-of-a-choice-since-theyre-hard-to-find-and-use-124631"><div class="color-button">press</div></a>
-  <a target="_blank" href="https://www.usenix.org/sites/default/files/conference/protected-files/soups19_slides_habib.pdf"><div class="color-button">slides</div></a>
-  <a target="_blank" href="https://www.youtube.com/watch?v=rPuiWbqVYlc"><div class="color-button">video</div></a>
 </li><br>
 <li>
 	<b>"We Can't Live Without Them!" App Developers' Adoption of Ad Networks and Their Considerations of Consumer Risks</b><br>
@@ -91,9 +83,21 @@ permalink: /publications/
 	<i>Symposium On Usable Privacy and Security (SOUPS)</i>. 2019. <br>
   <a target="_blank" href="https://www.usenix.org/system/files/soups2019-mhaidli.pdf"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/soups2019-mhaidli.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/mhaidli2019we.bib"><div class="color-button">BibTeX</div></a>
   <a target="_blank" href="https://news.umich.edu/advertising-in-apps-decisions-behind-those-targeted-sometimes-invasive-ads-we-see/"><div class="color-button">press</div></a>
 	<a target="_blank" href="https://www.usenix.org/sites/default/files/conference/protected-files/soups19_slides_mhaidli.pdf"><div class="color-button">slides</div></a>
   <a target="_blank" href="https://www.youtube.com/watch?v=uTDotoV5Avc"><div class="color-button">video</div></a>
+</li><br>
+<li>
+	<b>An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites</b><br>
+	Hana Habib, <u>Yixin Zou</u>, Aditi Jannu, Neha Sridhar, Chelse Swoopes, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub<br>
+	<i>Symposium On Usable Privacy and Security (SOUPS)</i>. 2019. <br>
+  <a target="_blank" href="https://www.usenix.org/system/files/soups2019-habib.pdf"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/soups2019-habib.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/habib2019empirical.bib"><div class="color-button">BibTeX</div></a>
+  <a target="_blank" href="https://theconversation.com/website-privacy-options-arent-much-of-a-choice-since-theyre-hard-to-find-and-use-124631"><div class="color-button">press</div></a>
+  <a target="_blank" href="https://www.usenix.org/sites/default/files/conference/protected-files/soups19_slides_habib.pdf"><div class="color-button">slides</div></a>
+  <a target="_blank" href="https://www.youtube.com/watch?v=rPuiWbqVYlc"><div class="color-button">video</div></a>
 </li><br>
 	<li>
 		<b>You 'Might' Be Affected: An Empirical Analysis of Readability and Usability Issues in Data Breach Notifications</b><br>
@@ -101,6 +105,7 @@ permalink: /publications/
 		<i>ACM Conference on Human Factors in Computing Systems (CHI)</i>. 2019.<br>
     <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3290605.3300424"><div class="color-button">link</div></a>
 		<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2019-zou.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2019you.bib"><div class="color-button">BibTeX</div></a>
 		<a target="_blank" href="https://www.futurity.org/data-breaches-notifications-2066072/"><div class="color-button">press</div></a>
     <a target="_blank" href="https://yixinzou.github.io/publications/slides/chi2019-zou-slides.pdf"><div class="color-button">slides</div></a>
 	</li><br>
@@ -111,6 +116,7 @@ permalink: /publications/
 		<i>ACM Conference on Human Factors in Computing Systems (CHI)</i>. 2019.<br>
     <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3290605.3300748"><div class="color-button">link</div></a>
     <a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2019-petelka.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/petelka2019put.bib"><div class="color-button">BibTeX</div></a>
 	</li><br>
 	<li>
 		<b>"I've Got Nothing to Lose": Consumers' Risk Perceptions and Protective Actions after the Equifax Data Breach</b><br>
@@ -119,6 +125,7 @@ permalink: /publications/
 	  <i>Symposium On Usable Privacy and Security (SOUPS)</i>. 2018. <br>
     <a target="_blank" href="https://www.usenix.org/system/files/conference/soups2018/soups2018-zou.pdf"><div class="color-button">link</div></a>
 		<a target="_blank" href="https://yixinzou.github.io/publications/pdf/soups2018-zou.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2018consumers.bib"><div class="color-button">BibTeX</div></a>
 		<a target="_blank" href="https://www.nytimes.com/2018/09/14/your-money/credit-freeze-free.html"><div class="color-button">press</div></a>
     <a target="_blank" href="https://www.usenix.org/sites/default/files/conference/protected-files/soups18_slides_zou.pdf"><div class="color-button">slides</div></a>
 	</li>
@@ -131,6 +138,7 @@ permalink: /publications/
   	Hana Habib, <u>Yixin Zou</u>, Aditi Jannu, Chelse Swoopes, Lorrie Faith Cranor, Florian Schaub<br>
 		<i>Annual Privacy Law Scholars Conference (PLSC)</i>. 2018.<br>
 		<a target="_blank" href="https://yixinzou.github.io/publications/pdf/plsc2018-habib.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/habib2019plsc.bib"><div class="color-button">BibTeX</div></a>
 	</li><br>
 	<li>
 		<b>Concern But No Action: Consumers' Reactions to the Equifax Data Breach</b><br>
@@ -138,6 +146,7 @@ permalink: /publications/
 		<i>ACM Conference on Human Factors in Computing Systems (CHI), Late Breaking Work</i>. 2018.<br>
     <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3170427.3188510"><div class="color-button">link</div></a>
 		<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2018-zou.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2018concern.bib"><div class="color-button">BibTeX</div></a>
 	</li>
 </ol>
 
@@ -148,18 +157,21 @@ permalink: /publications/
   Lorrie Faith Cranor, Hana Habib, Yaxing Yao, <u>Yixin Zou</u>, Alessandro Acquisti, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
   Report submitted to the California Office of the Attorney General to support the preliminary rulemaking of the California Consumer Privacy Act (CCPA). 2020.<br>
     <a target="_blank" href="https://yixinzou.github.io/publications/pdf/ccpa20200528-cranor.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/cranor2020ccpa.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 	<li>
 		<b>User Testing of the Proposed CCPA Do-Not-Sell Icon</b><br>
   	Lorrie Faith Cranor, Hana Habib, <u>Yixin Zou</u>, Alessandro Acquisti, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
 	  Report submitted to the California Office of the Attorney General to support the preliminary rulemaking of the California Consumer Privacy Act (CCPA). 2020.<br>
-			<a target="_blank" href="https://yixinzou.github.io/publications/pdf/ccpa20200224-cranor.pdf"><div class="color-button">pdf</div></a>
+		<a target="_blank" href="https://yixinzou.github.io/publications/pdf/ccpa20200224-cranor.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/cranor2020user.bib"><div class="color-button">BibTeX</div></a>
 	</li><br>
 	<li>
   <b>Design and Evaluation of a Usable Icon and Tagline to Signal an Opt-Out of the Sale of Personal Information as Required by CCPA</b><br>
   Lorrie Faith Cranor, Hana Habib, <u>Yixin Zou</u>, Alessandro Acquisti, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
   Report submitted to the California Office of the Attorney General to support the preliminary rulemaking of the California Consumer Privacy Act (CCPA). 2020.<br>
-    <a target="_blank" href="https://yixinzou.github.io/publications/pdf/ccpa20200204-cranor.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/ccpa20200204-cranor.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/cranor2020design.bib"><div class="color-button">BibTeX</div></a>
 	</li>
 </ol>
 
