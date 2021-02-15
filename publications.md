@@ -48,19 +48,19 @@ permalink: /publications/
 
 </ol>
 
-<h2>Refereed Conference Papers</h2>
+<h2>Refereed Conference Publications</h2>
 
 <ol>
 <li>
 	<b>"Now I'm a bit angry:" Individuals' Awareness, Perception, and Responses to Data Breaches that Affected Them</b><br>
 	Peter Mayer*, <u>Yixin Zou*</u>, Florian Schaub, Adam Aviv<br>
-	<i>USENIX Security Symposium</i>. 2021. (forthcoming)<br>
+	<i>USENIX Security Symposium</i>. 2021.<br>
   <a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec-mayer-2021.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
 	<b>Toggles, Dollar Signs, and Triangles: How to (In)Effectively Convey Privacy Choices with Icons and Link Texts</b><br>
 	Hana Habib*, <u>Yixin Zou*</u>, Yaxing Yao, Alessandro Acquisti, Lorrie Faith Cranor, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
-	<i>ACM Conference on Human Factors in Computing Systems (CHI)</i>. 2021. (forthcoming)<br>
+	<i>ACM Conference on Human Factors in Computing Systems (CHI)</i>. 2021.<br>
   <a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2021-habib-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
