@@ -81,6 +81,7 @@ permalink: /publications/
 	<a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3313831.3376511"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2020-habib.pdf"><div class="color-button">pdf</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/habib2020usability.bib"><div class="color-button">BibTeX</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/slides/chi2020-habib-slides.pdf"><div class="color-button">slides</div></a>
   <a target="_blank" href="https://www.youtube.com/watch?v=zl01PuvPEn0"><div class="color-button">video</div></a>
 </li><br>
 <li>
