@@ -23,7 +23,7 @@ permalink: /publications/
 
 <h1>Publications</h1>
 
-(* indicates these authors contributed equally to the paper.)
+Publications can also be found on <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Google Scholar</a> and <a href="https://dblp.org/pid/218/0356.html">DBLP</a>. * indicates that these authors contributed equally to the paper.
 
 <h2>Refereed Journal & Magazine Publications</h2>
 
