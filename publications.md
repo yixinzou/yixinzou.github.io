@@ -20,7 +20,9 @@ permalink: /publications/
 
 Publications can also be found on <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Google Scholar</a> and <a href="https://dblp.org/pid/218/0356.html">DBLP</a>. * indicates that these authors contributed equally to the paper.
 
-<h2>Refereed Journal & Magazine Publications</h2>
+<br>
+
+<h2>Journal & Magazine Publications</h2>
 
 <ol>
 
@@ -44,9 +46,16 @@ Publications can also be found on <a href="https://scholar.google.com/citations?
 
 </ol>
 
-<h2>Refereed Conference Publications</h2>
+<br>
+
+<h2>Conference Publications</h2>
 
 <ol>
+<li>
+	<b>The Role of Computer Security Customer Support in Helping Survivors of Intimate Partner Violence</b><br>
+	<u>Yixin Zou</u>, Allison McDonald, Julia Narakornpichit, Nicola Dell, Thomas Ristenpart, Kevin Roundy, Florian Schaub, Acar Tamersoy<br>
+	<i>USENIX Security Symposium</i>. 2021.<br>
+</li><br>
 <li>
 	<b>"Now I'm a bit angry:" Individuals' Awareness, Perception, and Responses to Data Breaches that Affected Them</b><br>
 	Peter Mayer*, <u>Yixin Zou*</u>, Florian Schaub, Adam Aviv<br>
@@ -135,7 +144,9 @@ Publications can also be found on <a href="https://scholar.google.com/citations?
 	</li>
 </ol>
 
-<h2>Refereed Conference Work-in-Progress and Workshop Papers</h2>
+<br>
+
+<h2>Conference Work-in-Progress and Workshop Papers</h2>
 <ol>
 	<li>
 		<b>An Empirical Analysis of Online Consent and Opt-Out Experiences</b><br>
@@ -153,6 +164,8 @@ Publications can also be found on <a href="https://scholar.google.com/citations?
     <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2018concern.bib"><div class="color-button">BibTeX</div></a>
 	</li>
 </ol>
+
+<br>
 
 <h2>Technical Reports</h2>
 <ol>
