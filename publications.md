@@ -4,21 +4,7 @@ permalink: /publications/
 <!-- title: Publications -->
 ---
 
-<h1>Selected Honors and Awards</h1>
-
-<ul>
-<li>Annual Privacy Papers for Policymakers Award: Student Paper Honorable Mention, Future of Privacy Forum (2021)</li>
-<li>Best Paper Honorable Mention, ACM Conference on Human Factors in Computing Systems (2019, 2020)</li>
-<li>Facebook Fellowship Finalist (2020, 2021)</li>
-<li>NortonLifeLock Research Group Graduate Fellowship (2019)</li>
-<li>Distinguished Paper Award, Symposium on Usable Privacy and Security (2018)</li>
-</ul>
-
-<br>
-
-<h1>Publications</h1>
-
-Publications can also be found on <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Google Scholar</a> and <a href="https://dblp.org/pid/218/0356.html">DBLP</a>. * indicates that these authors contributed equally to the paper.
+Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Google Scholar</a> and <a href="https://dblp.org/pid/218/0356.html">DBLP</a> for a full list of publications. * indicates equal contributions to the paper.
 
 <br>
 
