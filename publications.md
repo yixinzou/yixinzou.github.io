@@ -53,7 +53,11 @@ Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Go
 	<b>Toggles, Dollar Signs, and Triangles: How to (In)Effectively Convey Privacy Choices with Icons and Link Texts</b><br>
 	Hana Habib*, <u>Yixin Zou*</u>, Yaxing Yao, Alessandro Acquisti, Lorrie Faith Cranor, Joel Reidenberg, Norman Sadeh, Florian Schaub<br>
 	<i>ACM Conference on Human Factors in Computing Systems (CHI)</i>. 2021.<br>
-  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2021-habib-preprint.pdf"><div class="color-button">preprint</div></a>
+	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3411764.3445387"><div class="color-button">link</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2021-habib.pdf"><div class="color-button">pdf</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/bibtex/habib2021toggles.bib"><div class="color-button">BibTeX</div></a>
+	<a target="_blank" href="https://www.si.umich.edu/about-umsi/news/umsi-researchers-design-privacy-icon-be-used-california-law"><div class="color-button">press</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/slides/chi2021-habib-slides.pdf"><div class="color-button">slides</div></a>
 </li><br>
 <li>
 	<b>Examining the Adoption and Abandonment of Security, Privacy, and Identity Theft Protection Practices</b><br>
