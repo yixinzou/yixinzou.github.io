@@ -58,6 +58,7 @@ Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Go
 	<a target="_blank" href="https://yixinzou.github.io/publications/bibtex/habib2021toggles.bib"><div class="color-button">BibTeX</div></a>
 	<a target="_blank" href="https://www.si.umich.edu/about-umsi/news/umsi-researchers-design-privacy-icon-be-used-california-law"><div class="color-button">press</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/slides/chi2021-habib-slides.pdf"><div class="color-button">slides</div></a>
+	<a target="_blank" href="https://www.youtube.com/watch?v=QrrJYHc0yJQ"><div class="color-button">video</div></a>
 </li><br>
 <li>
 	<b>Examining the Adoption and Abandonment of Security, Privacy, and Identity Theft Protection Practices</b><br>
