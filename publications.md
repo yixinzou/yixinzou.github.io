@@ -41,6 +41,7 @@ Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Go
 	<b>The Role of Computer Security Customer Support in Helping Survivors of Intimate Partner Violence</b><br>
 	<u>Yixin Zou</u>, Allison McDonald, Julia Narakornpichit, Nicola Dell, Thomas Ristenpart, Kevin Roundy, Florian Schaub, Acar Tamersoy<br>
 	<i>USENIX Security Symposium</i>. 2021.<br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec2021-zou-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
 	<b>"Now I'm a bit angry:" Individuals' Awareness, Perception, and Responses to Data Breaches that Affected Them</b><br>
