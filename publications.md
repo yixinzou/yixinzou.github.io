@@ -13,6 +13,12 @@ Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Go
 <ol>
 
 <li>
+  <b>Child Safety in the Smart Home: Parents' Perceptions, Needs, and Mitigation Strategies</b><br>
+	Kaiwen Sun, <u>Yixin Zou</u>, Jenny Radesky, Christopher Brooks, Florian Schaub<br>
+	<i>CSCW: Proceedings of the ACM on Human-Computer Interaction</i>, 2021 (to appear).
+</li><br>
+
+<li>
 	<b>Listen Only When Spoken To: Interpersonal Communication Cues as Smart Speaker Privacy Controls</b><br>
 	Abraham H. Mhaidli, Manikandan Venkatesh, <u>Yixin Zou</u>, Florian Schaub<br>
 	<i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>, 2020(2), 251-270. 2020.<br>
