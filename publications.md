@@ -15,7 +15,7 @@ Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Go
 <li>
   <b>Child Safety in the Smart Home: Parents' Perceptions, Needs, and Mitigation Strategies</b><br>
 	Kaiwen Sun, <u>Yixin Zou</u>, Jenny Radesky, Christopher Brooks, Florian Schaub<br>
-	<i>CSCW: Proceedings of the ACM on Human-Computer Interaction</i>, 2021 (to appear).
+	<i>Proceedings of the ACM on Human-Computer Interaction (CSCW)</i>, 2021 (to appear).
 </li><br>
 
 <li>
