@@ -1,4 +1,4 @@
-I";<p>Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Google Scholar</a> and <a href="https://dblp.org/pid/218/0356.html">DBLP</a> for a full list of publications. * indicates equal contributions to the paper.</p>
+I"G><p>Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Google Scholar</a> and <a href="https://dblp.org/pid/218/0356.html">DBLP</a> for a full list of publications. * indicates equal contributions to the paper.</p>
 
 <p><br /></p>
 
@@ -41,24 +41,30 @@
 	<b>The Role of Computer Security Customer Support in Helping Survivors of Intimate Partner Violence</b><br />
 	<u>Yixin Zou</u>, Allison McDonald, Julia Narakornpichit, Nicola Dell, Thomas Ristenpart, Kevin Roundy, Florian Schaub, Acar Tamersoy<br />
 	<i>USENIX Security Symposium</i>. 2021.<br />
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec2021-zou-preprint.pdf"><div class="color-button">preprint</div></a>
+	<a target="_blank" href="https://www.usenix.org/system/files/sec21-zou.pdf"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec2021-zou.pdf"><div class="color-button">pdf</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2021role.bib"><div class="color-button">BibTeX</div></a>
+	<a target="_blank" href="https://news.umich.edu/computer-security-personnel-need-tools-training-to-assist-survivors-of-intimate-partner-violence/"><div class="color-button">press</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/slides/usenixsec2021-zou-slides.pdf"><div class="color-button">slides</div></a>
+	<a target="_blank" href="https://www.usenix.org/conference/usenixsecurity21/presentation/zou"><div class="color-button">video</div></a>
 </li><br />
 <li>
 	<b>"Now I'm a bit angry:" Individuals' Awareness, Perception, and Responses to Data Breaches that Affected Them</b><br />
 	Peter Mayer*, <u>Yixin Zou*</u>, Florian Schaub, Adam Aviv<br />
 	<i>USENIX Security Symposium</i>. 2021.<br />
-  <a target="_blank" href="https://www.usenix.org/system/files/sec21fall-mayer.pdf"><div class="color-button">link</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec2021-mayer.pdf"><div class="color-button">pdf</div></a>
-  <a target="_blank" href="https://www.si.umich.edu/about-umsi/news/data-breaches-most-victims-unaware-when-shown-evidence-multiple-compromised"><div class="color-button">press</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/slides/usenixsec2021-mayer-slides.pdf"><div class="color-button">slides</div></a>
+  	<a target="_blank" href="https://www.usenix.org/system/files/sec21-mayer.pdf"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec2021-mayer.pdf"><div class="color-button">pdf</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/bibtex/mayer2021now.bib"><div class="color-button">BibTeX</div></a>
+	<a target="_blank" href="https://www.si.umich.edu/about-umsi/news/data-breaches-most-victims-unaware-when-shown-evidence-multiple-compromised"><div class="color-button">press</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/slides/usenixsec2021-mayer-slides.pdf"><div class="color-button">slides</div></a>
+	<a target="_blank" href="https://www.usenix.org/conference/usenixsecurity21/presentation/mayer"><div class="color-button">video</div></a>
 </li><br />
 <li>
 	<b>Toggles, Dollar Signs, and Triangles: How to (In)Effectively Convey Privacy Choices with Icons and Link Texts</b><br />
 	Hana Habib*, <u>Yixin Zou*</u>, Yaxing Yao, Alessandro Acquisti, Lorrie Faith Cranor, Joel Reidenberg, Norman Sadeh, Florian Schaub<br />
 	<i>ACM Conference on Human Factors in Computing Systems (CHI)</i>. 2021.<br />
 	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3411764.3445387"><div class="color-button">link</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2021-habib.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2021-habib.pdf"><div class="color-button">pdf</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/bibtex/habib2021toggles.bib"><div class="color-button">BibTeX</div></a>
 	<a target="_blank" href="https://www.si.umich.edu/about-umsi/news/umsi-researchers-design-privacy-icon-be-used-california-law"><div class="color-button">press</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/slides/chi2021-habib-slides.pdf"><div class="color-button">slides</div></a>
