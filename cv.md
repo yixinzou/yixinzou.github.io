@@ -4,8 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
-<a target="_blank" href="zou-cv.pdf">Academic Curriculum Vitae</a> (Last updated in June 2021) <br>
-<a target="_blank" href="zou-resume.pdf">One-page resume</a> (Last updated in April 2021)
+<a target="_blank" href="zou-cv.pdf">Academic Curriculum Vitae</a><br>
+<a target="_blank" href="zou-resume.pdf">One-page resume</a>
 
 <!-- <embed src="zou-cv.pdf" width="800px" height="2100px" /> -->
 <!-- <ul>
