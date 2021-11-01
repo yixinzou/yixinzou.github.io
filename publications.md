@@ -15,7 +15,10 @@ Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Go
 <li>
   <b>Child Safety in the Smart Home: Parents' Perceptions, Needs, and Mitigation Strategies</b><br>
 	Kaiwen Sun, <u>Yixin Zou</u>, Jenny Radesky, Christopher Brooks, Florian Schaub<br>
-	<i>Proceedings of the ACM on Human-Computer Interaction (CSCW)</i>, 2021 (to appear).
+	<i>Proceedings of the ACM on Human-Computer Interaction</i>, 5(CSCW2), 471:1--471:41. 2021.<br>
+  <a target="_blank" href="https://dl.acm.org/doi/10.1145/3479858"><div class="color-button">link</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/cscw2021-sun.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/sun2021child.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 
 <li>
@@ -23,7 +26,7 @@ Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Go
 	Abraham H. Mhaidli, Manikandan Venkatesh, <u>Yixin Zou</u>, Florian Schaub<br>
 	<i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>, 2020(2), 251-270. 2020.<br>
   <a target="_blank" href="https://content.sciendo.com/view/journals/popets/2020/2/article-p251.xml"><div class="color-button">link</div></a>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2020-mhaidli.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2020-mhaidli.pdf"><div class="color-button">pdf</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/mhaidli2020listen.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 
