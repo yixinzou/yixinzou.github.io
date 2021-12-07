@@ -1,41 +1,8 @@
-I"È?<p>Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Google Scholar</a> and <a href="https://dblp.org/pid/218/0356.html">DBLP</a> for a full list of publications. * indicates equal contributions to the paper.</p>
+I"{@<p>Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Google Scholar</a> and <a href="https://dblp.org/pid/218/0356.html">DBLP</a> for a full list of publications.</p>
 
-<p><br /></p>
+<p>Conferences are the top-tier academic publishing venues in computer science and information science (CS/IS). Thus, the majority of my research is published in CS/IS conference proceedings.</p>
 
-<h2>Journal &amp; Magazine Publications</h2>
-
-<ol>
-
-<li>
-  <b>Child Safety in the Smart Home: Parents' Perceptions, Needs, and Mitigation Strategies</b><br />
-	Kaiwen Sun, <u>Yixin Zou</u>, Jenny Radesky, Christopher Brooks, Florian Schaub<br />
-	<i>Proceedings of the ACM on Human-Computer Interaction</i>, 5(CSCW2), 471:1--471:41. 2021.<br />
-  <a target="_blank" href="https://dl.acm.org/doi/10.1145/3479858"><div class="color-button">link</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/cscw2021-sun.pdf"><div class="color-button">pdf</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/sun2021child.bib"><div class="color-button">BibTeX</div></a>
-</li><br />
-
-<li>
-	<b>Listen Only When Spoken To: Interpersonal Communication Cues as Smart Speaker Privacy Controls</b><br />
-	Abraham H. Mhaidli, Manikandan Venkatesh, <u>Yixin Zou</u>, Florian Schaub<br />
-	<i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>, 2020(2), 251-270. 2020.<br />
-  <a target="_blank" href="https://content.sciendo.com/view/journals/popets/2020/2/article-p251.xml"><div class="color-button">link</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2020-mhaidli.pdf"><div class="color-button">pdf</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/mhaidli2020listen.bib"><div class="color-button">BibTeX</div></a>
-</li><br />
-
-<li>
-	<b>Beyond Mandatory: Making Data Breach Notifications Useful for Consumers</b><br />
-	<u>Yixin Zou</u>, Florian Schaub<br />
-	<i>IEEE Security &amp; Privacy</i>, 17(2), 67-72. 2019.<br />
-  <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8677354"><div class="color-button">link</div></a>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/ieee2019-zou.pdf"><div class="color-button">pdf</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2019beyond.bib"><div class="color-button">BibTeX</div></a>
-</li>
-
-</ol>
-
-<p><br /></p>
+<p>* indicates equal contributions to the paper.</p>
 
 <h2>Conference Publications</h2>
 
@@ -150,7 +117,42 @@
 
 <p><br /></p>
 
-<h2>Conference Work-in-Progress and Workshop Papers</h2>
+<h2>Journal &amp; Magazine Publications</h2>
+
+<ol>
+
+<li>
+  <b>Child Safety in the Smart Home: Parents' Perceptions, Needs, and Mitigation Strategies</b><br />
+	Kaiwen Sun, <u>Yixin Zou</u>, Jenny Radesky, Christopher Brooks, Florian Schaub<br />
+	<i>Proceedings of the ACM on Human-Computer Interaction</i>, 5(CSCW2), 471:1--471:41. 2021.<br />
+  <a target="_blank" href="https://dl.acm.org/doi/10.1145/3479858"><div class="color-button">link</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/cscw2021-sun.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/sun2021child.bib"><div class="color-button">BibTeX</div></a>
+</li><br />
+
+<li>
+	<b>Listen Only When Spoken To: Interpersonal Communication Cues as Smart Speaker Privacy Controls</b><br />
+	Abraham H. Mhaidli, Manikandan Venkatesh, <u>Yixin Zou</u>, Florian Schaub<br />
+	<i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>, 2020(2), 251-270. 2020.<br />
+  <a target="_blank" href="https://content.sciendo.com/view/journals/popets/2020/2/article-p251.xml"><div class="color-button">link</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2020-mhaidli.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/mhaidli2020listen.bib"><div class="color-button">BibTeX</div></a>
+</li><br />
+
+<li>
+	<b>Beyond Mandatory: Making Data Breach Notifications Useful for Consumers</b><br />
+	<u>Yixin Zou</u>, Florian Schaub<br />
+	<i>IEEE Security &amp; Privacy</i>, 17(2), 67-72. 2019.<br />
+  <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8677354"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/ieee2019-zou.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2019beyond.bib"><div class="color-button">BibTeX</div></a>
+</li>
+
+</ol>
+
+<p><br /></p>
+
+<h2>Work-in-Progress and Workshop Papers</h2>
 <ol>
 	<li>
 		<b>An Empirical Analysis of Online Consent and Opt-Out Experiences</b><br />
