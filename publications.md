@@ -10,11 +10,14 @@ Conferences are the top-tier academic publishing venues in computer science and 
 
 \* indicates shared first authorship.
 
-<br>
-
 <h2>Conference Publications</h2>
 
 <ol>
+<li>
+	<b>Trauma-Informed Computing: Towards Safer Technology Experiences for All</b><br>
+	Janet Chen*, Allison McDonald*, <u>Yixin Zou*</u>, Emily Tseng, Kevin Roundy, Acar Tamersoy, Florian Schaub, Thomas Ristenpart, Nicola Dell<br>
+	<i>ACM Conference on Human Factors in Computing Systems (CHI)</i>. 2022.<br>
+</li><br>
 <li>
 	<b>The Role of Computer Security Customer Support in Helping Survivors of Intimate Partner Violence</b><br>
 	<u>Yixin Zou</u>, Allison McDonald, Julia Narakornpichit, Nicola Dell, Thomas Ristenpart, Kevin Roundy, Florian Schaub, Acar Tamersoy<br>
