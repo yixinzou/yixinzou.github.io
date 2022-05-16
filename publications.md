@@ -14,6 +14,11 @@ Conferences are the top-tier academic publishing venues in computer science and 
 
 <ol>
 <li>
+	<b>Aunties, Strangers, and the FBI: Online Privacy Concerns and Experiences of Muslim-American Women</b><br>
+	Tanisha Afnan, <u>Yixin Zou</u>, Maryam Mustafa, Mustafa Naseem, Florian Schaub<br>
+	<i>Symposium On Usable Privacy and Security (SOUPS)</i>. 2022. <br>
+</li><br>
+<li>
 	<b>Trauma-Informed Computing: Towards Safer Technology Experiences for All</b><br>
 	Janet Chen*, Allison McDonald*, <u>Yixin Zou*</u>, Emily Tseng, Kevin Roundy, Acar Tamersoy, Florian Schaub, Thomas Ristenpart, Nicola Dell<br>
 	<i>ACM Conference on Human Factors in Computing Systems (CHI)</i>. 2022.<br>
