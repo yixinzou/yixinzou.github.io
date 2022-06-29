@@ -17,6 +17,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<b>Aunties, Strangers, and the FBI: Online Privacy Concerns and Experiences of Muslim-American Women</b><br>
 	Tanisha Afnan, <u>Yixin Zou</u>, Maryam Mustafa, Mustafa Naseem, Florian Schaub<br>
 	<i>Symposium On Usable Privacy and Security (SOUPS)</i>. 2022. <br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/soups2022-afnan-preprint.pdf"><div class="color-button">pdf</div></a>
 </li><br>
 <li>
 	<b>Trauma-Informed Computing: Towards Safer Technology Experiences for All</b><br>
@@ -25,6 +26,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3491102.3517475"><div class="color-button">link</div></a>
     <a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2022-chen.pdf"><div class="color-button">pdf</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/bibtex/chen2022trauma.bib"><div class="color-button">BibTeX</div></a>
+	<a target="_blank" href="https://news.cornell.edu/stories/2022/06/considering-trauma-tech-design-could-benefit-all-users"><div class="color-button">press</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/slides/chi2022-chen-slides.pdf"><div class="color-button">slides</div></a>
 	<a target="_blank" href="https://www.youtube.com/watch?v=sF05FsOwF28"><div class="color-button">video</div></a>
 </li><br>
@@ -171,9 +173,9 @@ Conferences are the top-tier academic publishing venues in computer science and 
 
 </ol>
 
-<br>
+<!-- <br> -->
 
-<h2>Workshop Papers</h2>
+<!-- <h2>Workshop Papers</h2>
 <ol>
 	<li>
 		<b>An Empirical Analysis of Online Consent and Opt-Out Experiences</b><br>
@@ -190,7 +192,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 		<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2018-zou.pdf"><div class="color-button">pdf</div></a>
     <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2018concern.bib"><div class="color-button">BibTeX</div></a>
 	</li>
-</ol>
+</ol> -->
 
 <br>
 
