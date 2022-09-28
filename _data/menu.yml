@@ -1,14 +1,15 @@
 # - title: "About"
 #   href: "/about/"
 
+- title: "Bio"
+  href: "/bio/"
+
 - title: "Publications"
   href: "/publications/"
 
-# - title: "Projects"
-#   href: "/projects/"
-#
-- title: "Bio"
-  href: "/bio/"
+- title: "Group"
+  href: "/group/"
+
 
 # - title: "CV"
 #   href: "/cv/"
