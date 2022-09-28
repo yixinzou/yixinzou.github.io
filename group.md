@@ -44,7 +44,7 @@ Before joining MPI-SP, I was lucky to mentor some amazing undergraduate and grad
 <li><a href="https://www.kaiwensun.info/">Kaiwen Sun</a> (PhD student at UMich, 2018-2022)</li>
 <li><a href="https://www.linkedin.com/in/tanisha-afnan/">Tanisha Afnan</a> (PhD student at UMich, 2021-2022)</li>
 <li><a href="https://janetchen.ca/">Janet Chen</a> (PhD student at Cornell, 2021-2022)</li>
-<!-- <li><a href="https://www.linkedin.com/in/khue-le/">Shay (Khue) Le</a> (Undergraduate student at UMich, 2021-2022)</li> -->
+<li><a href="https://www.linkedin.com/in/khue-le/">Shay (Khue) Le</a> (Undergraduate student at UMich, 2021-2022)</li>
 <li><a href="https://www.linkedin.com/in/anniechen10/">Annie Chen</a> (Undergraduate student at UMich, 2022)</li>
 <li><a href="https://www.linkedin.com/in/sean-scarnecchia/">Sean Scarnecchia</a> (Undergraduate student at UMich, 2022)</li>
 </ul>
