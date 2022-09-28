@@ -20,6 +20,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<a target="_blank" href="https://www.usenix.org/system/files/soups2022-afnan.pdf"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/soups2022-afnan.pdf"><div class="color-button">pdf</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/bibtex/afnan2022aunties.bib"><div class="color-button">BibTeX</div></a>
+	<a target="_blank" href="https://www.si.umich.edu/about-umsi/news/understanding-unique-privacy-concerns-muslim-american-women-can-improve-digital"><div class="color-button">press</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/slides/soups2022-afnan-slides.pdf"><div class="color-button">slides</div></a>
 </li><br>
 <li>
