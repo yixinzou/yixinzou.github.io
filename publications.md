@@ -22,6 +22,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<a target="_blank" href="https://yixinzou.github.io/publications/bibtex/afnan2022aunties.bib"><div class="color-button">BibTeX</div></a>
 	<a target="_blank" href="https://www.si.umich.edu/about-umsi/news/understanding-unique-privacy-concerns-muslim-american-women-can-improve-digital"><div class="color-button">press</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/slides/soups2022-afnan-slides.pdf"><div class="color-button">slides</div></a>
+	<a target="_blank" href="https://www.youtube.com/watch?v=44sb16-4tNg"><div class="color-button">video</div></a>
 </li><br>
 <li>
 	<b>Trauma-Informed Computing: Towards Safer Technology Experiences for All</b><br>
