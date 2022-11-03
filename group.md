@@ -23,7 +23,7 @@ In addition, you are welcome to contact me individually if you are applying for 
 <ul>
 <li>Briefly introduce yourself, such as educational background and research experiences</li>
 <li>What you are looking for (e.g., an advisor, a dissertation committee member, a funded research assistantship, or some light exposure to research without formal commitment); indicate a time range if you are looking for a visiting position</li>
-<li>1-2 paragraphs of your interests and motivations (e.g., you could state what you found interesting in one of my publications and how you would like to extend the work; alternatively, you could describe a particular research question you are set on exploring, your thoughts of why that question is important and how you think we could work together) </li>
+<li>1-2 paragraphs of your motivations and expectations regarding working with me  (e.g., you could state what you found interesting in one of my publications and how you would like to extend the work; alternatively, you could describe a particular research question you are set on exploring, your thoughts of why that question is important and how you think we could work together) </li>
 <li>Your CV and transcript</li>
 <li>Name and contact information of 2-3 references who can provide letters of recommendation upon request</li>
 </ul>
