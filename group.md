@@ -30,7 +30,7 @@ In addition, you are welcome to apply to me individually (e.g., for postdoc posi
 
 <h2>Want to have an informal chat?</h2>
 
-Absolutely! I am happy to answer any questions you may have via email or set up a time to talk. I also offer public office hours on Tuesdays and Thursdays (time permitting) -- schedule via <a href="https://calendly.com/yixinz">Calendly</a>.
+Absolutely! I am happy to answer any questions you may have via email or set up a time to talk. I also offer public office hours (time permitting) -- schedule via <a href="https://calendly.com/yixinz">Calendly</a>.
 
 Want to assess if there could be a mutual fit between us before reaching out? Feel free to take a look at my <a target="_blank" href="https://yixinzou.github.io/statements/zou-research.pdf">research statement</a> and <a target="_blank" href="https://yixinzou.github.io/statements/zou-teaching.pdf">teaching statement</a> (last updated: January 2022) to get a sense of my research interests and mentoring philosophy.
 
