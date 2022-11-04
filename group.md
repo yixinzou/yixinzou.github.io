@@ -16,7 +16,7 @@ There are several programs affiliated with MPI-SP, with fixed deadlines for appl
 <li><a href="https://www.cis.mpg.de/internships/">CS@Max Planck internship program</a> (open to Bachelor's, Master's, and doctoral students as well as individuals from industry interested in gaining academic research experience)</li>
 </ul>
 
-If you apply through these standardized programs, you are encouraged to mention my name in your application (e.g., when you are asked to identify potential faculty advisors and in your statement). Feel free to reach out to me prior to applying if you would like to. I may not be able to get back to you --- this does not say anything about your strengths and merits, it just means I receive way more emails than I can attend to. Please be assured that I will see and carefully review your application if you have indicated interest in working with me, whether you contact me prior to applying or not.
+If you apply through these standardized programs, you do not need to reach out to me individually, but you are encouraged to mention my name in your application (e.g., when you are asked to identify potential faculty advisors and in your statement). If you do reach out but I end up not getting back to you, this does not say anything about your strengths and merits --- it just means I receive way more emails than I can attend to. Please be assured that I will see and carefully review your application if you have indicated interests in working with me, whether you contact me prior to applying or not.
 
 In addition, you are welcome to contact me individually if you are applying for postdoc positions or visiting positions outside the CS@Max Planck application cycle. When contacting me, please include the following information:
 
