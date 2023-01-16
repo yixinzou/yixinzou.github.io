@@ -4,29 +4,38 @@ title: Human-Centered Security and Privacy Group at MPI-SP
 permalink: /group/
 ---
 
-I will join MPI-SP in January 2023 as a tenure-track faculty member leading the Human-Centered Security and Privacy group. My group currently has openings for a postdoc, a Ph.D. student, and several interns/visiting scholars.
+I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy. I am looking for PhD students, postdocs, and interns/visiting scholars to join my group. Please feel free to get in touch if you are interested in working with me.
+
+<b>Note: I am no longer accepting applications for internships during Summer 2023. Applications for internships at other times are still welcome.</b>
 
 <h2>How to apply?</h2>
 
-The preferred way is to apply to the official programs affiliated with MPI-SP. By doing this, your application could also be considered by other faculty at MPI-SP and across <a href="https://www.cis.mpg.de/">CS@MPI</a> if there is a match. A few options:
+<h3>Apply through MPI-SP affiliated programs</h3>
+
+If you apply through one of these programs, your application could also be considered by other faculty at MPI-SP and across <a href="https://www.cis.mpg.de/">CS@MPI</a> if there is a match. 
 
 <ul>
 <li><a href="https://www.cis.mpg.de/cs-max-planck/">CS@Max Planck doctoral program</a></li>
+<li><a href="https://informatik.rub.de/en/phd/">CS doctoral program at Ruhr University Bochum</a></li>
 <li><a href="https://www.cs.umd.edu/maryland-max-planck">Maryland Max Planck Ph.D. Program</a> (students apply to the UMD graduate program first with the option to be considered for the joint program)</li>
 <li><a href="https://www.cis.mpg.de/internships/">CS@Max Planck internship program</a> (open to Bachelor's, Master's, and doctoral students as well as individuals from industry interested in gaining academic research experience)</li>
 </ul>
 
-If you apply to these programs, you do not need to reach out to me individually, but you are encouraged to mention my name in your application (e.g., when you are asked to identify potential faculty advisors and in your statement). If you do reach out but I end up not getting back to you, this does not say anything about your strengths and merits --- it just means I receive way more emails than I can attend to. Please be assured that I will see and carefully review your application if you have indicated interests in working with me, whether you contact me prior to applying or not.
+Please make sure to mention my name (e.g., when you are asked to identify potential faculty advisors and in your research statement) to help me identify your application.
 
-Depending on my availability, I may accept applications for postdoc positions or visiting positions outside the CS@Max Planck application cycle. If you are interested, please contact me and provide the following information:
+<h3>Apply to me individually</h3>
+
+If you are interested in working with me in particular independent of the programs mentioned above, please email me with the following information:
 
 <ul>
-<li>Briefly introduce yourself, such as educational background and research experiences</li>
+<li>Briefly introduce yourself, such as your educational background and research experiences</li>
 <li>What you are looking for (e.g., an advisor, a dissertation committee member, a funded research assistantship, or some light exposure to research without formal commitment); indicate a time range if you are looking for a visiting position</li>
 <li>1-2 paragraphs of your motivations and expectations regarding working with me  (e.g., you could state what you found interesting in one of my publications and how you would like to extend the work; alternatively, you could describe a particular research question you are set on exploring, your thoughts of why that question is important and how you think we could work together) </li>
 <li>Your CV and transcript</li>
 <li>Name and contact information of 2-3 references who can provide letters of recommendation upon request</li>
 </ul>
+
+I may not be able to respond to every email --- please do not take it personally, as this reflects my limited bandwidth and does not say anything about your strengths and merits --- but I promise to read your email.
 
 <h2>Want to have an informal chat?</h2>
 
