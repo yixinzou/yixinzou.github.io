@@ -16,7 +16,6 @@ If you apply through one of these programs, your application could also be consi
 
 <ul>
 <li><a href="https://www.cis.mpg.de/cs-max-planck/">CS@Max Planck doctoral program</a></li>
-<li><a href="https://informatik.rub.de/en/phd/">CS doctoral program at Ruhr University Bochum</a></li>
 <li><a href="https://www.cs.umd.edu/maryland-max-planck">Maryland Max Planck Ph.D. Program</a> (students apply to the UMD graduate program first with the option to be considered for the joint program)</li>
 <li><a href="https://www.cis.mpg.de/internships/">CS@Max Planck internship program</a> (open to Bachelor's, Master's, and doctoral students as well as individuals from industry interested in gaining academic research experience)</li>
 </ul>
