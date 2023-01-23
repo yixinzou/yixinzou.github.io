@@ -150,6 +150,12 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <ol>
 
 <li>
+  <b>Awareness, Intention, (In)Action: Individuals' Reactions to Data Breaches</b><br>
+	Peter Mayer, <u>Yixin Zou</u>, Byron Lowens, Hunter Dyer, Khue Le, Florian Schaub, Adam Aviv<br>
+	<i>ACM Transactions on Computer-Human Interaction (TOCHI)</i>. Forthcoming.<br>
+</li><br>
+
+<li>
   <b>Child Safety in the Smart Home: Parents' Perceptions, Needs, and Mitigation Strategies</b><br>
 	Kaiwen Sun, <u>Yixin Zou</u>, Jenny Radesky, Christopher Brooks, Florian Schaub<br>
 	<i>Proceedings of the ACM on Human-Computer Interaction</i>, 5(CSCW2), 471:1--471:41. 2021.<br>
