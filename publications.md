@@ -4,7 +4,7 @@ permalink: /publications/
 <!-- title: Publications -->
 ---
 
-Please check <a href="https://scholar.google.com/citations?user=3sEYZIEAAAAJ">Google Scholar</a> and <a href="https://dblp.org/pid/218/0356.html">DBLP</a> for a full list of publications. 
+Please check <a href="https://scholar.google.com/citations?user=ukyCsPAAAAAJ">Google Scholar</a> and <a href="https://dblp.org/pid/218/0356.html">DBLP</a> for a full list of publications. 
 
 Conferences are the top-tier academic publishing venues in computer science and information science (CS/IS). Thus, the majority of my research is published in CS/IS conference proceedings.
 
