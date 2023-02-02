@@ -6,7 +6,7 @@ permalink: /group/
 
 I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy. I am looking for PhD students, postdocs, and interns/visiting scholars to join my group. Please feel free to get in touch if you are interested in working with me.
 
-<b>Note: I am no longer accepting applications for internships during Summer 2023. Applications for internships at other times are still welcome.</b>
+<b>Note: I am no longer accepting applications for internships during Summer 2023. Applications for internships in Fall 2023 and later are still welcome.</b>
 
 <h2>How to apply?</h2>
 
