@@ -4,7 +4,7 @@ title: Human-Centered Security and Privacy Group at MPI-SP
 permalink: /group/
 ---
 
-I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy. I am looking for PhD students, postdocs, and interns/visiting scholars to join my group. Please feel free to get in touch if you are interested in working with me.
+I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy. My group currently has openings for postdocs and interns/visiting scholars. Please feel free to get in touch if you are interested in working with me.
 
 <b>Note: I am no longer accepting applications for internships during Summer 2023. Applications for internships in Fall 2023 and later are still welcome.</b>
 
@@ -12,15 +12,13 @@ I lead the Human-Centered Security and Privacy group at the Max Planck Institute
 
 <h3>Apply through MPI-SP affiliated programs</h3>
 
-If you apply through one of these programs, your application could also be considered by other faculty at MPI-SP and across <a href="https://www.cis.mpg.de/">CS@MPI</a> if there is a match. 
+Applications to these programs are reviewed by faculty across several Max Planck Institutes performing computer science research, i.e., <a href="https://www.cis.mpg.de/">CS@MPI</a>. Please make sure to mention my name (e.g., when you are asked to identify potential faculty advisors and in your research statement) to help me identify your application.
 
 <ul>
 <li><a href="https://www.cis.mpg.de/cs-max-planck/">CS@Max Planck doctoral program</a></li>
 <li><a href="https://www.cs.umd.edu/maryland-max-planck">Maryland Max Planck Ph.D. Program</a> (students apply to the UMD graduate program first with the option to be considered for the joint program)</li>
 <li><a href="https://www.cis.mpg.de/internships/">CS@Max Planck internship program</a> (open to Bachelor's, Master's, and doctoral students as well as individuals from industry interested in gaining academic research experience)</li>
 </ul>
-
-Please make sure to mention my name (e.g., when you are asked to identify potential faculty advisors and in your research statement) to help me identify your application.
 
 <h3>Apply to me individually</h3>
 
@@ -44,17 +42,34 @@ Want to assess if there is a good fit between my work and your interests before 
 
 <h2>Group Members</h2>
 
-Currently empty :P 
-
-Before joining MPI-SP, I was lucky to mentor some amazing undergraduate and graduate students over the years, most recently:
+<h3>Incoming Ph.D. Advisees</h3>
 
 <ul>
-<li><a href="https://www.kaiwensun.info/">Kaiwen Sun</a> (PhD student at UMich, 2018-2022)</li>
-<li><a href="https://www.linkedin.com/in/tanisha-afnan/">Tanisha Afnan</a> (PhD student at UMich, 2021-2022)</li>
-<li><a href="https://janetchen.ca/">Janet Chen</a> (PhD student at Cornell, 2021-2022)</li>
-<li><a href="https://www.linkedin.com/in/khue-le/">Shay (Khue) Le</a> (Undergraduate student at UMich, 2021-2022)</li>
-<li><a href="https://www.linkedin.com/in/anniechen10/">Annie Chen</a> (Undergraduate student at UMich, 2022)</li>
-<li><a href="https://www.linkedin.com/in/sean-scarnecchia/">Sean Scarnecchia</a> (Undergraduate student at UMich, 2022)</li>
+<li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (since Fall 2023)</li>
+</ul>
+
+<h3>Incoming Research Interns</h3>
+
+<ul>
+<li><a href="https://id.linkedin.com/in/princessa-cintaqia-5b2973147">Princessa Cintaqia</a> (Summer 2023)</li>
+<li><a href="https://johannagunawan.com">Johanna Gunawan</a> (Summer 2023)</li>
+<li><a href="https://ischool.illinois.edu/people/smirity-kaushik">Smirity Kaushik</a> (Summer 2023)</li>
+<li><a href="https://xinrutang.github.io">Xinru Tang</a> (Summer 2023)</li>
+<li><a href="https://www.linkedin.com/in/yjackiehu/">Jackie Hu</a> (Summer 2023, co-advised with Dr. Elissa Redmiles)</li>
+<li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (Summer 2023, co-advised with Dr. Elissa Redmiles)</li>
+</ul>
+
+<h3>Alumni</h3>
+
+Before joining MPI-SP, I was lucky to mentor some amazing undergraduate and graduate students while at University of Michigan:
+
+<ul>
+<li><a href="https://www.kaiwensun.info/">Kaiwen Sun</a> (2018-2022)</li>
+<li><a href="https://www.linkedin.com/in/tanisha-afnan/">Tanisha Afnan</a> (2021-2022)</li>
+<li><a href="https://janetchen.ca/">Janet Chen</a> (2021-2022)</li>
+<li><a href="https://www.linkedin.com/in/khue-le/">Shay (Khue) Le</a> (2021-2022)</li>
+<li><a href="https://www.linkedin.com/in/anniechen10/">Annie Chen</a> (2022)</li>
+<li><a href="https://www.linkedin.com/in/sean-scarnecchia/">Sean Scarnecchia</a> (2022)</li>
 </ul>
 
 Feel free to reach out to any of them to learn more about their experience working with me.
