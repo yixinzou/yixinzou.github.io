@@ -46,6 +46,7 @@ Want to assess if there is a good fit between my work and your interests before 
 
 <ul>
 <li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (since Fall 2023)</li>
+<li><a href="https://www.nimishakarnatak.com">Nimisha Karnatak</a> (since Fall 2023)</li>
 </ul>
 
 <h3>Incoming Research Interns</h3>
