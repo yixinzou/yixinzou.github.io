@@ -153,6 +153,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <b>Awareness, Intention, (In)Action: Individuals' Reactions to Data Breaches</b><br>
 	Peter Mayer, <u>Yixin Zou</u>, Byron Lowens, Hunter Dyer, Khue Le, Florian Schaub, Adam Aviv<br>
 	<i>ACM Transactions on Computer-Human Interaction (TOCHI)</i>. Forthcoming.<br>
+	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3589958"><div class="color-button">link</div></a>
 </li><br>
 
 <li>
