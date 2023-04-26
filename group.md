@@ -77,4 +77,4 @@ Feel free to reach out to any of them to learn more about their experience worki
 
 <h2>Credit</h2>
 
-Big thanks to <a target="_blank" href="https://www.nazaninandalibi.net/working-with-me">Nazanin Andalibi</a>, <a target="_blank" href="https://users.cs.duke.edu/~pardis/mentorship.html">Pardis Emami-Naeini</a>, and <a target="_blank" href="http://shift-3.com/prospective.html">Haojian Jin</a> for giving me inspirations about how to write this page :)
+Big thanks to <a target="_blank" href="https://users.cs.duke.edu/~pardis/mentorship.html">Pardis Emami-Naeini</a> and <a target="_blank" href="http://shift-3.com/prospective.html">Haojian Jin</a> for giving me inspirations about how to write this page :)
