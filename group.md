@@ -4,9 +4,7 @@ title: Human-Centered Security and Privacy Group at MPI-SP
 permalink: /group/
 ---
 
-I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy. My group currently has openings for postdocs and interns/visiting scholars. Please feel free to get in touch if you are interested in working with me.
-
-<b>Note: I am no longer accepting applications for internships during Summer 2023. Applications for internships in Fall 2023 and later are still welcome.</b>
+I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy. My group is operating at full capacity now, although I might be hiring in 2024. Please feel free to get in touch if you are interested in my work or would like to explore collaboration opportunities.
 
 <h2>How to apply?</h2>
 
@@ -22,7 +20,7 @@ Applications to these programs are reviewed by faculty across several Max Planck
 
 <h3>Apply to me individually</h3>
 
-If you are interested in working with me in particular independent of the programs mentioned above, please email me with the following information:
+If you are interested in working with me in particular (independent of the programs mentioned above), please email me with the following information:
 
 <ul>
 <li>Briefly introduce yourself, such as your educational background and research experiences</li>
@@ -42,27 +40,29 @@ Want to assess if there is a good fit between my work and your interests before 
 
 <h2>Group Members</h2>
 
-<h3>Incoming Ph.D. Advisees</h3>
+I am fortunate to work with the following people while at MPI-SP:
+
+<h3>Ph.D. Advisees</h3>
 
 <ul>
 <li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (since Fall 2023)</li>
 <li><a href="https://www.nimishakarnatak.com">Nimisha Karnatak</a> (since Fall 2023)</li>
 </ul>
 
-<h3>Incoming Research Interns</h3>
+<h3>Research Interns/Visiting Scholars</h3>
 
 <ul>
-<li><a href="https://id.linkedin.com/in/princessa-cintaqia-5b2973147">Princessa Cintaqia</a> (Summer 2023)</li>
-<li><a href="https://johannagunawan.com">Johanna Gunawan</a> (Summer 2023)</li>
-<li><a href="https://ischool.illinois.edu/people/smirity-kaushik">Smirity Kaushik</a> (Summer 2023)</li>
-<li><a href="https://xinrutang.github.io">Xinru Tang</a> (Summer 2023)</li>
-<li><a href="https://www.linkedin.com/in/yjackiehu/">Jackie Hu</a> (Summer 2023, co-advised with Dr. Elissa Redmiles)</li>
-<li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (Summer 2023, co-advised with Dr. Elissa Redmiles)</li>
+<li><a href="https://id.linkedin.com/in/princessa-cintaqia-5b2973147">Princessa Cintaqia</a> (2023)</li>
+<li><a href="https://johannagunawan.com">Johanna Gunawan</a> (2023)</li>
+<li><a href="https://www.linkedin.com/in/yjackiehu/">Jackie Hu</a> (2023, co-advised with Dr. Elissa Redmiles)</li>
+<li><a href="https://ischool.illinois.edu/people/smirity-kaushik">Smirity Kaushik</a> (2023)</li>
+<li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (2023, co-advised with Dr. Elissa Redmiles)</li>
+<li><a href="https://xinrutang.github.io">Xinru Tang</a> (2023)</li>
 </ul>
 
 <h3>Alumni</h3>
 
-Before joining MPI-SP, I was lucky to mentor some amazing undergraduate and graduate students while at University of Michigan:
+Before joining MPI-SP, I mentored some amazing undergraduate and graduate students while at University of Michigan, including:
 
 <ul>
 <li><a href="https://www.kaiwensun.info/">Kaiwen Sun</a> (2018-2022)</li>
