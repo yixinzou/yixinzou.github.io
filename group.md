@@ -46,7 +46,7 @@ I am fortunate to work with the following people while at MPI-SP:
 
 <ul>
 <li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (since Fall 2023)</li>
-<li><a href="https://www.nimishakarnatak.com">Nimisha Karnatak</a> (since Fall 2023)</li>
+<!-- <li><a href="https://www.nimishakarnatak.com">Nimisha Karnatak</a> (since Fall 2023)</li> -->
 </ul>
 
 <h3>Research Interns/Visiting Scholars</h3>
