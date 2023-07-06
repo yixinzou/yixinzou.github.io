@@ -22,7 +22,7 @@ If you miss the summer application deadline or would like to work with me starti
 <ul>
 <li>Your CV and transcript(s)</li>
 <li>A statement of purpose describing your relevant experience and research interests (e.g., you could state what you find interesting in one of my publications and how you would like to extend the work; alternatively, you could describe a particular research question you are set on exploring, your thoughts of why that question is important and how you think we could work together)</li>
-<li><i>[Optional]</i> Any demonstration of your past projects, such as a thesis and a publication (workshop/work-in-progress papers and posters also count)</li>
+<li><i>[Optional]</i> Any demonstration of your past projects, such as a thesis or a publication (workshop/work-in-progress papers and posters also count)</li>
 <li>Your preferred timeline for the internship or visiting position</li>
 <li>Name and contact information of two references, who can provide letters of recommendation upon request</li>
 </ul>
