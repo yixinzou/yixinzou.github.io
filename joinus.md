@@ -37,6 +37,6 @@ Alternatively, if you are broadly interested in topics related to human-computer
 
 If you simply want some advice or informal chats, please send me an email with your detailed question(s). Feel free to take a look at my <a target="_blank" href="https://yixinzou.github.io/statements/zou-research.pdf">research statement</a> and <a target="_blank" href="https://yixinzou.github.io/statements/zou-teaching.pdf">teaching statement</a> (last updated: January 2022) to get a sense of whether I am the right person to answer your question(s). I am happy to answer via email or set up a time to chat. I also offer public office hours (time permitting) -- schedule via <a href="https://calendly.com/yixinz/virtual-office-hours">Calendly</a>.
 
-<h2>Credit</h2>
+<h3>Credit</h3>
 
 I write this page with inspirations taken from many senior colleagues and peers, including <a target="_blank" href="https://asiabiega.github.io">Asia Biega</a>, <a target="_blank" href="https://www.usabart.nl/portfolio/#advising.html">Bart Knijnenburg</a>, <a target="_blank" href="https://super.cs.uchicago.edu/contact.html">Blase Ur</a>, <a target="_blank" href="http://shift-3.com/prospective.html">Haojian Jin</a>, and <a target="_blank" href="https://users.cs.duke.edu/~pardis/mentorship.html">Pardis Emami-Naeini</a>. Big thanks to you all :)
