@@ -14,6 +14,11 @@ Conferences are the top-tier academic publishing venues in computer science and 
 
 <ol>
 <li>
+	<b>Digital Security — A Question of Perspective. A Large-Scale Telephone Survey with Four At-Risk User Groups</b><br>
+	Franziska Herbert, Steffen Becker, Annalina Buckmann, Marvin Kowalewski, Jonas Hielscher, Yasemin Acar, Markus Dürmuth, <u>Yixin Zou</u>, Angela Sasse<br>
+	<i>IEEE Symposium on Security and Privacy (Oakland)</i>. 2024. <br>
+</li><br>
+<li>
 	<b>Aunties, Strangers, and the FBI: Online Privacy Concerns and Experiences of Muslim-American Women</b><br>
 	Tanisha Afnan, <u>Yixin Zou</u>, Maryam Mustafa, Mustafa Naseem, Florian Schaub<br>
 	<i>Symposium On Usable Privacy and Security (SOUPS)</i>. 2022. <br>
@@ -152,7 +157,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <li>
   <b>Awareness, Intention, (In)Action: Individuals' Reactions to Data Breaches</b><br>
 	Peter Mayer, <u>Yixin Zou</u>, Byron Lowens, Hunter Dyer, Khue Le, Florian Schaub, Adam Aviv<br>
-	<i>ACM Transactions on Computer-Human Interaction (TOCHI)</i>. Forthcoming.<br>
+	<i>ACM Transactions on Computer-Human Interaction (TOCHI)</i>. 2023.<br>
 	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3589958"><div class="color-button">link</div></a>
 </li><br>
 
