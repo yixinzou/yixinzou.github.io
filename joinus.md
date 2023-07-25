@@ -5,7 +5,9 @@ permalink: /joinus/
 
 Hi there, thank you so much for your interest! Below, I have described some most likely avenues for joining my group. <br>
 
-Notes for reaching out in general: I receive many emails a day and may not be able to respond to all. Please do not take it personally, as this reflects my limited bandwidth and does not say anything about your strengths and merits — but I promise to read your email. If this is the first time that you email me, I encourage you to send a lot of information. The more I know about you and your interests, the more likely it is that I will find your idea so fully awesome that I must write back.
+Note for reaching out in general: I receive many emails a day and may not be able to respond to all. Please do not take it personally, as this reflects my limited bandwidth and does not say anything about your strengths and merits — but I promise to read your email. If this is the first time that you email me, I encourage you to send a lot of information. The more I know about you and your interests, the more likely it is that I will find your idea so fully awesome that I must write back.
+
+<b>Note (July 2023): I am not recruiting Ph.D. students and internships at the moment. The situation might change in a few months so please do check back if you are still interested.</b>
 
 <h3>Prospective postdocs/Ph.D. students</h3>
 
