@@ -155,6 +155,12 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <ol>
 
 <li>
+  <b>Cross-Contextual Examination of Older Adults' Privacy Concerns, Behaviors, and Vulnerabilities</b><br>
+	<u>Yixin Zou</u>, Kaiwen Sun, Tanisha Afnan, Ruba Abu-Salma, Robin Brewer, Florian Schaub<br>
+	<i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>. 2024.<br>
+</li><br>
+
+<li>
   <b>Awareness, Intention, (In)Action: Individuals' Reactions to Data Breaches</b><br>
 	Peter Mayer, <u>Yixin Zou</u>, Byron Lowens, Hunter Dyer, Khue Le, Florian Schaub, Adam Aviv<br>
 	<i>ACM Transactions on Computer-Human Interaction (TOCHI)</i>. 2023.<br>
