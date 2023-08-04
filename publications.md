@@ -4,13 +4,13 @@ permalink: /publications/
 <!-- title: Publications -->
 ---
 
-Please check <a href="https://scholar.google.com/citations?user=ukyCsPAAAAAJ">Google Scholar</a> and <a href="https://dblp.org/pid/218/0356.html">DBLP</a> for a full list of publications. 
+Please check my <a href="https://scholar.google.com/citations?user=ukyCsPAAAAAJ">Google Scholar</a>, <a href="https://dblp.org/pid/218/0356.html">DBLP</a>, and <a target="_blank" href="https://yixinzou.github.io/cv/zou-cv.pdf">CV</a> for a full list of publications. 
 
 Conferences are the top-tier academic publishing venues in computer science and information science (CS/IS). Thus, the majority of my research is published in CS/IS conference proceedings.
 
-\* indicates shared first authorship.
+\* shared first authorship.
 
-<h2>Conference Publications</h2>
+<h2>Peer-reviewed Conference Proceedings</h2>
 
 <ol>
 <li>
@@ -149,8 +149,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 </ol>
 
 <br>
-
-<h2>Journal & Magazine Publications</h2>
+<h2>Peer-reviewed Journal Articles</h2>
 
 <ol>
 
@@ -185,6 +184,13 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/mhaidli2020listen.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 
+</ol>
+
+<br>
+<h2>Magazine Articles</h2>
+
+<ol>
+
 <li>
 	<b>Beyond Mandatory: Making Data Breach Notifications Useful for Consumers</b><br>
 	<u>Yixin Zou</u>, Florian Schaub<br>
@@ -218,7 +224,6 @@ Conferences are the top-tier academic publishing venues in computer science and 
 </ol> -->
 
 <br>
-
 <h2>Technical Reports</h2>
 <ol>
 <li>
