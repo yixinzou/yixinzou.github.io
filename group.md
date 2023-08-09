@@ -33,5 +33,3 @@ Before joining MPI-SP, I mentored several amazing undergraduate and graduate stu
 <li><a href="https://www.linkedin.com/in/sean-scarnecchia/">Sean Scarnecchia</a> (2022)</li>
 <li><a href="https://www.kaiwensun.info/">Kaiwen Sun</a> (2018-2022)</li>
 </ul>
-
-If you are interested in joining our group or seeking any form of advising/collaboration, please read <a href="https://yixinzou.github.io/joinus/">this page</a>  first before reaching out to me.
