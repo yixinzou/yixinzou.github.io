@@ -9,18 +9,26 @@ I lead the Human-Centered Security and Privacy group at the Max Planck Institute
 <h3>Ph.D. Student</h3>
 
 <ul>
-<li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (since Fall 2023)</li>
+<li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (since 2023)</li>
 </ul>
 
 <h3>Research Intern/Visiting Scholar</h3>
 
 <ul>
-<li><a href="https://id.linkedin.com/in/princessa-cintaqia-5b2973147">Princessa Cintaqia</a> (2023)</li>
-<li><a href="https://johannagunawan.com">Johanna Gunawan</a> (2023)</li>
-<li><a href="https://www.linkedin.com/in/yjackiehu/">Jackie Hu</a> (2023, co-advised with Dr. Elissa Redmiles)</li>
-<li><a href="https://ischool.illinois.edu/people/smirity-kaushik">Smirity Kaushik</a> (2023)</li>
-<li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (2023, co-advised with Dr. Elissa Redmiles)</li>
+<li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (2023)</li>
 <li><a href="https://xinrutang.github.io">Xinru Tang</a> (2023)</li>
+</ul>
+
+<h3>Alumni</h3>
+
+<ul>
+<li><a href="https://id.linkedin.com/in/princessa-cintaqia-5b2973147">Princessa Cintaqia</a> (research intern, 2023)</li>
+<li><a href="https://johannagunawan.com">Johanna Gunawan</a> (visiting PhD student, Northeastern University, 2023)</li>
+<li><a href="https://www.linkedin.com/in/yjackiehu/">Jackie Hu</a>* (research intern, 2023)</li>
+<li><a href="https://ischool.illinois.edu/people/smirity-kaushik">Smirity Kaushik</a> (visiting PhD student, UIUC, 2023)</li>
+<li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a>* (visiting PhD student, The George Washington University, 2023)</li>
+
+<font size="2">(* co-advised with Dr. Elissa Redmiles)</font>
 </ul>
 
 Before joining MPI-SP, I mentored several amazing undergraduate and graduate students while at University of Michigan, including:

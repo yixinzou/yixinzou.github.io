@@ -7,7 +7,7 @@ Hi there, thank you so much for your interest! Below, I have described some most
 
 Note for reaching out in general: I receive many emails a day and may not be able to respond to all. Please do not take it personally, as this reflects my limited bandwidth and does not say anything about your strengths and merits — but I promise to read your email. If this is the first time that you email me, I encourage you to send a lot of information. The more I know about you and your interests, the more likely it is that I will find your idea so fully awesome that I must write back.
 
-<b>Note (July 2023): I am not recruiting Ph.D. students and interns at the moment. The situation might change in a few months so please do check back if you are still interested.</b>
+<b>Note (September 2023): I will be recruiting for one postdoc/Ph.D. student and 2-3 research interns/visiting scholars with a start date in 2024.</b>
 
 <h3>Prospective postdocs/Ph.D. students</h3>
 
@@ -15,7 +15,7 @@ Being a postdoc or Ph.D. student in Germany, at least in computer science and ad
 
 For Ph.D. positions, you can also apply through official programs that MPI-SP is affiliated with, such as the <a href="https://www.cis.mpg.de/cs-max-planck/">CS@Max Planck doctoral program</a> and the <a href="https://www.cs.umd.edu/maryland-max-planck">Maryland Max Planck Ph.D. Program</a>. Because admissions are usually administered by a central committee and I may not serve on these committees every year, please make sure to mention my name in your research statement to increase the chance that your application will reach me eventually, and email me a short note after you submit your application.
 
-<h3>Prospective interns/visiting scholars (funded positions)</h3>
+<h3>Prospective research interns/visiting scholars (funded positions)</h3>
 
 The best way is to apply through the <a href="https://www.cis.mpg.de/internships/">CS@Max Planck internship program</a>, which is open to Bachelor's, Master's, and doctoral students as well as individuals from industry interested in gaining academic research experience. In this way, your application may also be considered by other research group leaders conducting computer science research at the Max Planck Society. The application deadline for summer internships (i.e., those starting between May and August) is November 1 of the previous year.<br>
 
