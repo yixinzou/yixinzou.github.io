@@ -17,6 +17,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<b>Digital Security — A Question of Perspective. A Large-Scale Telephone Survey with Four At-Risk User Groups</b><br>
 	Franziska Herbert, Steffen Becker, Annalina Buckmann, Marvin Kowalewski, Jonas Hielscher, Yasemin Acar, Markus Dürmuth, <u>Yixin Zou</u>, Angela Sasse<br>
 	<i>IEEE Symposium on Security and Privacy (Oakland)</i>. 2024. <br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/oakland2024-herbert-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
 	<b>Aunties, Strangers, and the FBI: Online Privacy Concerns and Experiences of Muslim-American Women</b><br>
