@@ -158,6 +158,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <b>Cross-Contextual Examination of Older Adults' Privacy Concerns, Behaviors, and Vulnerabilities</b><br>
 	<u>Yixin Zou</u>, Kaiwen Sun, Tanisha Afnan, Ruba Abu-Salma, Robin Brewer, Florian Schaub<br>
 	<i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>. 2024.<br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2024-zou-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 
 <li>
