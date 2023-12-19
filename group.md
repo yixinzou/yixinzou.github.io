@@ -9,15 +9,15 @@ I lead the Human-Centered Security and Privacy group at the Max Planck Institute
 <h3>Ph.D. Student</h3>
 
 <ul>
-<li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (2023-)</li>
+<li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (since 2023)</li>
 </ul>
 
 <h3>Research Intern/Visiting Scholar</h3>
 
 <ul>
-<li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (2023-)</li>
 <li><a href="https://ischool.illinois.edu/people/smirity-kaushik">Smirity Kaushik</a> (2023-2024)</li>
 <li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a>* (2023-2024)</li>
+<li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (2023-2024)</li>
 </ul>
 
 <h3>Alumni</h3>
