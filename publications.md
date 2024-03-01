@@ -155,6 +155,13 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <ol>
 
 <li>
+  <b>Unfulfilled Promises of Child Safety and Privacy: Portrayals and Use of Children in Smart Home Marketing</b><br>
+	Kaiwen Sun, Jingjie Li, <u>Yixin Zou</u>, Jenny Radesky, Christopher Brooks, Florian Schaub<br>
+	<i>Proceedings of the ACM on Human-Computer Interaction (CSCW)</i>. 2024.<br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/cscw2024-sun-preprint.pdf"><div class="color-button">preprint</div></a>
+</li><br>
+
+<li>
   <b>Cross-Contextual Examination of Older Adults' Privacy Concerns, Behaviors, and Vulnerabilities</b><br>
 	<u>Yixin Zou</u>, Kaiwen Sun, Tanisha Afnan, Ruba Abu-Salma, Robin Brewer, Florian Schaub<br>
 	<i>Proceedings on Privacy Enhancing Technologies (PoPETs)</i>. 2024.<br>
@@ -254,3 +261,19 @@ Conferences are the top-tier academic publishing venues in computer science and 
 </ol>
 
 <br>
+
+<h2>Dissertation</h2>
+
+<ol>
+
+<li>
+	<b>Understanding and Improving Consumers' Adoption of Online Privacy-Protective Behaviors</b><br>
+	<img src="/images/trophy.png" width="20"><i>ACM SIGCHI Outstanding Dissertation Award</i><br>
+	<u>Yixin Zou</u><br>
+	PhD Dissertation. University of Michigan, 2022.<br>
+  <a target="_blank" href="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/175700/yixinz_1.pdf?sequence=1"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/zou-dissertation.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2022dissertation.bib"><div class="color-button">BibTeX</div></a>
+</li>
+
+</ol>

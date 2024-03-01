@@ -37,7 +37,9 @@ Alternatively, if you are broadly interested in topics related to human-computer
 
 <h3>Informal chats</h3>
 
-If you simply want some advice or informal chats, please send me an email with your detailed question(s). Feel free to take a look at my <a target="_blank" href="https://yixinzou.github.io/statements/zou-research.pdf">research statement</a> and <a target="_blank" href="https://yixinzou.github.io/statements/zou-teaching.pdf">teaching statement</a> (last updated: January 2022) to get a sense of whether I am the right person to answer your question(s). I am happy to answer via email or set up a time to chat. I also offer public office hours (time permitting) -- schedule via <a href="https://calendly.com/yixinz/virtual-office-hours">Calendly</a>.
+If you simply want some advice or informal chats, please send me an email with your detailed question(s). I am happy to answer via email or set up a quick meeting. I also offer public office hours (time permitting) -- schedule via <a href="https://calendly.com/yixinz/virtual-office-hours">Calendly</a>.
+
+<!-- Feel free to take a look at my <a target="_blank" href="https://yixinzou.github.io/statements/zou-research.pdf">research statement</a> and <a target="_blank" href="https://yixinzou.github.io/statements/zou-teaching.pdf">teaching statement</a> (last updated: January 2022) to get a sense of whether I am the right person to answer your question(s).  -->
 
 <h3>Credit</h3>
 
