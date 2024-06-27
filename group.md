@@ -9,10 +9,10 @@ Since 2023, I lead the Human-Centered Security and Privacy group at the Max Plan
 A few directions of ongoing research in our group include:
 
 <ul>
-    <li><b>Accessibility</b>: making S&P technology more accessible to underserved populations, such as deaf and hard-of-hearing individuals and older adults</li>
-    <li><b>AI ethics</b>: developing approaches that enable a critical perception of AI/algorithmic systems among laypeople</li>
-    <li><b>Cross-cultural S&P</b>: examining S&P user experiences and advice in the majority world, outside the North American and Western European context</li>
-    <li><b>Digital threats</b>: understanding and measuring digital risks and harms that impact end users, such as scams and deceptive advertising</li>
+    <li><b>Accessibility</b>: e.g., making technology more accessible to underserved populations, such as deaf and hard-of-hearing individuals and older adults</li>
+    <li><b>AI ethics</b>: e.g., developing mechanisms that help laypeople better understand the risks and harms of artificial intelligence (AI) systems</li>
+    <li><b>Cross-cultural security and privacy</b>: e.g., examining people's experiences in the majority world outside the North American and Western European context</li>
+    <li><b>Trust and safety</b>: e.g., measuring scams on short-video sharing platforms and their impacts on young adults</li>
 </ul>
 
 <!-- Elissa: I use computational, economic, and social science methods to understand & model users’ safety decision-making processes. I specifically investigate inequities that arise in these processes and work directly with marginalized and at-risk communities to design systems that facilitate safety equitably and respectfully.
@@ -35,6 +35,7 @@ I am extremely lucky to work with the following people:
 
 <ul>
 <li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (since 2023)</li>
+<li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (since 2024)</li>
 </ul>
 
 <h3>Research Intern/Visiting Scholar</h3>
@@ -42,22 +43,20 @@ I am extremely lucky to work with the following people:
 <ul>
 <li><a href="https://kylebeadle.com">Kyle Beadle</a> (2024)</li>
 <li><a href="https://smiritykaushik.github.io">Smirity Kaushik</a> (2023-2024)</li>
-<li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a>* (2023-2024)</li>
-<li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (2023-2024)</li>
+<li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (2023-2024)</li>
 <li><a href="https://www.linkedin.com/in/emmanuel-tweneboah/">Emmanuel Tweneboah</a> (2024)</li>
 </ul>
 
 <h3>Alumni</h3>
 
 <ul>
-<li><a href="https://id.linkedin.com/in/princessa-cintaqia-5b2973147">Princessa Cintaqia</a> (research intern, 2023)</li>
-<li><a href="https://johannagunawan.com">Johanna Gunawan</a> (visiting PhD student, Northeastern University, 2023)</li>
-<li><a href="https://www.linkedin.com/in/yjackiehu/">Jackie Hu</a>* (research intern, 2023)</li>
-<!-- <li><a href="https://ischool.illinois.edu/people/smirity-kaushik">Smirity Kaushik</a> (visiting PhD student, UIUC, 2023)</li>
-<li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a>* (visiting PhD student, The George Washington University, 2023)</li> -->
-<li><a href="https://xinrutang.github.io">Xinru Tang</a> (research intern, 2023)</li>
+<li><a href="https://id.linkedin.com/in/princessa-cintaqia-5b2973147">Princessa Cintaqia</a> (research intern, 2023) --> PhD student, Boston University</li>
+<li><a href="https://johannagunawan.com">Johanna Gunawan</a> (visiting PhD student, Northeastern University, 2023) --> Assistant Professor, Maastricht University </li>
+<li><a href="https://www.linkedin.com/in/yjackiehu/">Jackie Hu</a> (research intern, 2023) --> PhD student, University of Michigan </li>
+<li><a href="https://xinrutang.github.io">Xinru Tang</a> (research intern, 2023) --> PhD student, UC Irvine </li>
+<li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (2023-2024)</li>
 
-<font size="2">(* co-advised with Dr. Elissa Redmiles)</font>
+<!-- <font size="2">(* co-advised with Dr. Elissa Redmiles)</font> -->
 </ul>
 
 Please feel free to reach out to any one of them if you are interested in learning what it's like to work with me. If you are interested in joining our group, please read <a href="https://yixinzou.github.io/joinus/">this page</a> first before reaching out to me.
