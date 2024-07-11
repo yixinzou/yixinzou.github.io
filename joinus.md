@@ -31,7 +31,7 @@ If you miss the summer application deadline or would like to work with me starti
 
 <h3>External collaboration/advising without funding commitment</h3>
 
-If you already have your funding sources and would like to collaborate on a project with me, please tell me upfront what you expect from me. What is the project for? What are the goals? Is there a timeline? What part of my expertise do you need? The more I know, the better I can judge whether I can help. The same rules of thumb also apply if you would like to explore the possibility of me serving on your Ph.D. committee.<br>
+If you already have your funding sources and would like to collaborate on a project with me, please tell me upfront what you expect from me. What is the project for? What are the goals? Is there a timeline? What part of my expertise do you need? The more I know, the better I can judge whether I can help. The same rules of thumb also apply if you would like me to serve on your Ph.D. committee or supervise your Bachelor's/Master's thesis.<br>
 
 Alternatively, if you are broadly interested in topics related to human-computer interaction/privacy/security, it is possible that I can find some existing projects in my group for you to join. Please email me if that is the case; my students and I will then pitch some projects to you.
 
