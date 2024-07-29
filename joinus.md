@@ -7,7 +7,7 @@ Hi there, thank you so much for your interest! Below, I have described some most
 
 Note for reaching out in general: I receive many emails a day and may not be able to respond to all. Please do not take it personally, as this reflects my limited bandwidth and does not say anything about your strengths and merits — but I promise to read your email. If this is the first time that you email me, I encourage you to send a lot of information. The more I know about you and your interests, the more likely it is that I will find your idea so fully awesome that I must write back.
 
-<b>Note (December 2023): I am no longer accepting Ph.D. or internship applications for the 2024 cycle. Please check this page again in Fall 2024 for possible open positions.</b>
+<b>Note (July 2024): I am accepting applications for postdocs/PhD students/interns in the 2024-2025 cycle.</b>
 
 <h3>Prospective postdocs/Ph.D. students</h3>
 
