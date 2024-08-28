@@ -54,7 +54,7 @@ I am extremely lucky to work with the following people:
 <li><a href="https://johannagunawan.com">Johanna Gunawan</a> (visiting PhD student, Northeastern University, 2023) --> Assistant Professor, Maastricht University </li>
 <li><a href="https://www.linkedin.com/in/yjackiehu/">Jackie Hu</a> (research intern, 2023) --> PhD student, University of Michigan </li>
 <li><a href="https://xinrutang.github.io">Xinru Tang</a> (research intern, 2023) --> PhD student, UC Irvine </li>
-<li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (2023-2024)</li>
+<li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (2023-2024) --> PhD student, MPI-SP</li>
 
 <!-- <font size="2">(* co-advised with Dr. Elissa Redmiles)</font> -->
 </ul>
