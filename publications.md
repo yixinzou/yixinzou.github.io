@@ -10,6 +10,25 @@ Conferences are the top-tier academic publishing venues in computer science and 
 
 \* shared first authorship.
 
+<h3>2025</h3>
+<ul>
+<li>
+  <b>Beyond “Vulnerable Populations”: A Unified Understanding of Vulnerability From A Socio-Ecological Perspective</b><br>
+	Xinru Tang, Gabriel Lima, Li Jiang, Lucy, Simko, <u>Yixin Zou</u><br>
+	To appear in Proceedings of the ACM on Human-Computer Interaction (CSCW)<br>
+</li><br>
+<li>
+  <b>Misalignments and Demographic Differences in Expected and Actual Privacy Settings on Facebook</b><br>
+	Byron Lowens, Sean Scarnecchia, Jane Im, Tanisha Afnan, Annie Chen, <u>Yixin Zou</u>, Florian Schaub<br>
+	To appear in Proceedings on Privacy Enhancing Technologies (PoPETs)<br>
+</li><br>
+<li>
+  <b>“What are they gonna do with my data?”: Privacy Expectations, Concerns, and Behaviors in Virtual Reality</b><br>
+	Abhinaya S.B., Abhishri Agrawal, Yaxing Yao, <u>Yixin Zou</u>, Anupam Das<br>
+	To appear in Proceedings on Privacy Enhancing Technologies (PoPETs)<br>
+</li><br>
+</ul>
+
 <h3>2024</h3>
 <ul>
 <li>
