@@ -14,7 +14,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <ul>
 <li>
   <b>Beyond “Vulnerable Populations”: A Unified Understanding of Vulnerability From A Socio-Ecological Perspective</b><br>
-	Xinru Tang, Gabriel Lima, Li Jiang, Lucy, Simko, <u>Yixin Zou</u><br>
+	Xinru Tang, Gabriel Lima, Li Jiang, Lucy Simko, <u>Yixin Zou</u><br>
 	To appear in Proceedings of the ACM on Human-Computer Interaction (CSCW)<br>
 </li><br>
 <li>
