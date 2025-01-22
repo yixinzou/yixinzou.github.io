@@ -16,16 +16,38 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <b>Beyond “Vulnerable Populations”: A Unified Understanding of Vulnerability From A Socio-Ecological Perspective</b><br>
 	Xinru Tang, Gabriel Lima, Li Jiang, Lucy Simko, <u>Yixin Zou</u><br>
 	To appear in Proceedings of the ACM on Human-Computer Interaction (CSCW)<br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/cscw2025-tang-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
   <b>Misalignments and Demographic Differences in Expected and Actual Privacy Settings on Facebook</b><br>
 	Byron Lowens, Sean Scarnecchia, Jane Im, Tanisha Afnan, Annie Chen, <u>Yixin Zou</u>, Florian Schaub<br>
-	To appear in Proceedings on Privacy Enhancing Technologies (PoPETs)<br>
+	<a target="_blank" href="https://petsymposium.org/popets/2025/popets-2025-0025.pdf"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-lowens.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/lowens2025misalignments.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 <li>
   <b>“What are they gonna do with my data?”: Privacy Expectations, Concerns, and Behaviors in Virtual Reality</b><br>
 	Abhinaya S.B., Abhishri Agrawal, Yaxing Yao, <u>Yixin Zou</u>, Anupam Das<br>
+	Proceedings on Privacy Enhancing Technologies (PoPETs), 2025(1), 58–77<br>
+	<a target="_blank" href="https://petsymposium.org/popets/2025/popets-2025-0005.pdf"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-sb.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/sb2025they.bib"><div class="color-button">BibTeX</div></a>
+</li><br>
+<li>
+  <b>Privacy Perceptions and Behaviors Towards Targeted Advertising on Social Media: A Cross-Country Study on the Effect of Culture and Religion</b><br>
+	Smirity Kaushik, Tanusree Sharma, Yaman Yu, Amna F. Ali, Bart Piet Knijnenburg, Yang Wang, <u>Yixin Zou</u><br>
 	To appear in Proceedings on Privacy Enhancing Technologies (PoPETs)<br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-kaushik-preprint.pdf"><div class="color-button">preprint</div></a>
+</li><br>
+<li>
+  <b>Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice</b><br>
+	Gabriel Lima, Nina Grgić-Hlača, Markus Langer <u>Yixin Zou</u><br>
+	To appear in ACM Conference on Human Factors in Computing Systems (CHI)<br>
+</li><br>
+<li>
+  <b>"Auntie, Please Don’t Fall for Those Smooth Talkers": How Chinese Younger Family Members Safeguard Seniors from Online Fraud</b><br>
+	Yue Deng, Changyang He, <u>Yixin Zou</u>, Bo Li<br>
+	To appear in ACM Conference on Human Factors in Computing Systems (CHI)<br>
 </li><br>
 </ul>
 
@@ -34,8 +56,10 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <li>
   <b>Encouraging Users to Change Breached Passwords Using the Protection Motivation Theory</b><br>
 	<u>Yixin Zou</u>, Khue Le, Peter Mayer, Alessandro Acquisti, Adam Aviv, Florian Schaub<br>
-	ACM Transactions on Computer-Human Interaction (TOCHI), to appear<br>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/tochi2024-zou-preprint.pdf"><div class="color-button">preprint</div></a>
+	ACM Transactions on Computer-Human Interaction (TOCHI), 31(5), 63:1–63:45<br>
+	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3689432"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/tochi2024-zou.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2024encouraging.bib"><div class="color-button">BibTeX</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/slides/cnil2024-zou-slides.pdf"><div class="color-button">slides</div></a>
 </li><br>
 <li>
