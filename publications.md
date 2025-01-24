@@ -19,8 +19,14 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/cscw2025-tang-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
+  <b>Digital Security Perceptions and Practices Around the World: A WEIRD vs. Non-WEIRD Comparison</b><br>
+	Franziska Herbert*, Collins W. Munyendo*, Jonas Hielscher, Steffen Becker, <u>Yixin Zou</u><br>
+	To appear in USENIX Security Symposium<br>
+</li><br>
+<li>
   <b>Misalignments and Demographic Differences in Expected and Actual Privacy Settings on Facebook</b><br>
 	Byron Lowens, Sean Scarnecchia, Jane Im, Tanisha Afnan, Annie Chen, <u>Yixin Zou</u>, Florian Schaub<br>
+	Proceedings on Privacy Enhancing Technologies (PoPETs), 2025(1), 456–471<br>
 	<a target="_blank" href="https://petsymposium.org/popets/2025/popets-2025-0025.pdf"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-lowens.pdf"><div class="color-button">pdf</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/lowens2025misalignments.bib"><div class="color-button">BibTeX</div></a>
