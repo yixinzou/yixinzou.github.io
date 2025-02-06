@@ -19,9 +19,10 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/cscw2025-tang-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
-  <b>Digital Security Perceptions and Practices Around the World: A WEIRD vs. Non-WEIRD Comparison</b><br>
+  <b>Digital Security Perceptions and Practices Around the World: A WEIRD Versus Non-WEIRD Comparison</b><br>
 	Franziska Herbert*, Collins W. Munyendo*, Jonas Hielscher, Steffen Becker, <u>Yixin Zou</u><br>
 	To appear in USENIX Security Symposium<br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec2025-herbert-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
   <b>Misalignments and Demographic Differences in Expected and Actual Privacy Settings on Facebook</b><br>
