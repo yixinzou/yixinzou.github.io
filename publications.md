@@ -50,11 +50,13 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <b>Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice</b><br>
 	Gabriel Lima, Nina Grgić-Hlača, Markus Langer <u>Yixin Zou</u><br>
 	To appear in ACM Conference on Human Factors in Computing Systems (CHI)<br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2025-lima-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
   <b>"Auntie, Please Don’t Fall for Those Smooth Talkers": How Chinese Younger Family Members Safeguard Seniors from Online Fraud</b><br>
 	Yue Deng, Changyang He, <u>Yixin Zou</u>, Bo Li<br>
 	To appear in ACM Conference on Human Factors in Computing Systems (CHI)<br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2025-deng-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 </ul>
 
