@@ -10,10 +10,12 @@ A few directions of ongoing research in our group include:
 
 <ul>
     <li><b>Accessibility</b>: e.g., making technology more accessible to underserved populations, such as deaf and hard-of-hearing individuals and older adults</li>
-    <li><b>AI ethics</b>: e.g., developing mechanisms that help laypeople better understand the risks and harms of artificial intelligence (AI) systems</li>
-    <li><b>Cross-cultural security and privacy</b>: e.g., examining people's experiences and advice received in the majority world outside the North American and Western European context</li>
-    <li><b>Trust and safety</b>: e.g., measuring how scams flow and impact users on social media platforms</li>
+    <li><b>Cross-cultural security and privacy</b>: e.g., examining security and privacy advice and experiences in the majority world</li>
+    <li><b>Responsible AI</b>: e.g., developing interventions that help laypeople better understand the risks and harms of artificial intelligence (AI) systems</li>
+    <li><b>Trust and safety</b>: e.g., auditing and mitigating emerging threats on social media platforms, such as scams and image-based sexual abuse</li>
 </ul>
+
+My group's research has been funded by the Max Planck Society, the German Research Foundation (Deutsche Forschungsgemeinschaft or DFG), Google, and Meta.
 
 <!-- Elissa: I use computational, economic, and social science methods to understand & model users’ safety decision-making processes. I specifically investigate inequities that arise in these processes and work directly with marginalized and at-risk communities to design systems that facilitate safety equitably and respectfully.
 
@@ -29,7 +31,7 @@ Nicki: I work to study, build, and deploy sociotechnical systems that improve th
 
 <h2>Group Members</h2>
 
-I am extremely lucky to work with the following people:
+I am extremely lucky to work with the following amazing people:
 
 <h3>Ph.D. Student</h3>
 
@@ -46,6 +48,7 @@ I am extremely lucky to work with the following people:
 <li><a href="https://www.mpi-sp.org/person/139000/75009">Emmanuel Tweneboah</a> (2024-2025)</li>
 <li>Marcos Silva (2025)</li>
 <li><a href="https://scholar.google.com/citations?user=B-n07usAAAAJ&hl=en">Xiaowei Chen</a> (2025)</li>
+<li><a href="https://warda97.github.io">Warda Usman</a> (2025)</li>
 <li><a href="https://www.mpi-sp.org/person/138994/75009">Yue Deng</a> (2025)</li>
 </ul>
 
