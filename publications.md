@@ -48,6 +48,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 </li><br>
 <li>
   <b>Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice</b><br>
+  <img src="/images/medal.png" width="20"><i>Best Paper Honorable Mention</i><br>
 	Gabriel Lima, Nina Grgić-Hlača, Markus Langer <u>Yixin Zou</u><br>
 	To appear in ACM Conference on Human Factors in Computing Systems (CHI)<br>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2025-lima-preprint.pdf"><div class="color-button">preprint</div></a>

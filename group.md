@@ -4,9 +4,9 @@ layout: page
 permalink: /group/
 ---
 
-Since 2023, I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy (MPI-SP). Our research seeks to empower end-users with more literacy and agency over their personal data when interacting with socio-technical systems. We are strong believers of interdisciplinary research, and always look for opportunities to engage with communities, companies, policymakers, and non-profit organizations to translate our research into practice. 
+Since 2023, I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy (MPI-SP). Our research seeks to empower end-users with more literacy and agency over their personal data when interacting with socio-technical systems. We are strong believers of interdisciplinary research and have established several collaborations with scholars in law and social sciences. We always look for opportunities to engage with communities, companies, policymakers, and non-profit organizations to translate our research into impacts. 
 
-A few directions of ongoing research in our group include:
+A few directions of ongoing research in my group include:
 
 <ul>
     <li><b>Accessibility</b>: e.g., making technology more accessible to underserved populations, such as deaf and hard-of-hearing individuals and older adults</li>
@@ -15,7 +15,7 @@ A few directions of ongoing research in our group include:
     <li><b>Trust and safety</b>: e.g., auditing and mitigating emerging threats on social media platforms, such as scams and image-based sexual abuse</li>
 </ul>
 
-My group's research has been funded by the Max Planck Society, the German Research Foundation (Deutsche Forschungsgemeinschaft or DFG), Google, and Meta.
+My group's research has been funded by the Max Planck Society, the German Research Foundation (Deutsche Forschungsgemeinschaft or "DFG"), Google, and Meta.
 
 <!-- Elissa: I use computational, economic, and social science methods to understand & model users’ safety decision-making processes. I specifically investigate inequities that arise in these processes and work directly with marginalized and at-risk communities to design systems that facilitate safety equitably and respectfully.
 
@@ -47,8 +47,8 @@ I am extremely lucky to work with the following amazing people:
 <li><a href="https://sites.psu.edu/ankolikade/">Ankolika De</a> (2025)</li>
 <li><a href="https://www.mpi-sp.org/person/139000/75009">Emmanuel Tweneboah</a> (2024-2025)</li>
 <li>Marcos Silva (2025)</li>
-<li><a href="https://scholar.google.com/citations?user=B-n07usAAAAJ&hl=en">Xiaowei Chen</a> (2025)</li>
 <li><a href="https://warda97.github.io">Warda Usman</a> (2025)</li>
+<li><a href="https://scholar.google.com/citations?user=B-n07usAAAAJ&hl=en">Xiaowei Chen</a> (2025)</li>
 <li><a href="https://www.mpi-sp.org/person/138994/75009">Yue Deng</a> (2025)</li>
 </ul>
 
