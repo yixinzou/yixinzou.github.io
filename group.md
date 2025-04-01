@@ -46,7 +46,7 @@ I am extremely lucky to work with the following amazing people:
 <ul>
 <li><a href="https://sites.psu.edu/ankolikade/">Ankolika De</a> (2025)</li>
 <li><a href="https://www.mpi-sp.org/person/139000/75009">Emmanuel Tweneboah</a> (2024-2025)</li>
-<li>Marcos Silva (2025)</li>
+<li><a href="https://marcosp70.github.io">Marcos Silva</a> (2025)</li>
 <li><a href="https://warda97.github.io">Warda Usman</a> (2025)</li>
 <li><a href="https://scholar.google.com/citations?user=B-n07usAAAAJ&hl=en">Xiaowei Chen</a> (2025)</li>
 <li><a href="https://www.mpi-sp.org/person/138994/75009">Yue Deng</a> (2025)</li>
