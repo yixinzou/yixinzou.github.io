@@ -4,18 +4,18 @@ layout: page
 permalink: /group/
 ---
 
-Since 2023, I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy (MPI-SP). Our research seeks to empower end-users with more literacy and agency over their personal data when interacting with socio-technical systems. We are strong believers of interdisciplinary research and have established several collaborations with scholars in law and social sciences. We always look for opportunities to engage with communities, companies, policymakers, and non-profit organizations to translate our research into impacts. 
-
-A few directions of ongoing research in my group include:
+Since 2023, I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy (MPI-SP). Our vision is to make technologies safer and more equitable for everyone, particularly for underserved communities. Below are a few topics we are currently working on: 
 
 <ul>
-    <li><b>Accessibility</b>: e.g., making technology more accessible to underserved populations, such as deaf and hard-of-hearing individuals and older adults</li>
-    <li><b>Cross-cultural security and privacy</b>: e.g., examining security and privacy advice and experiences in the majority world</li>
+    <li><b>Accessibility</b>: e.g., identifying and understanding the challenges faced by deaf and hard-of-hearing individuals and older adults</li>
+    <li><b>Cross-cultural studies</b>: e.g., examining security and privacy advice and experiences in the majority world</li>
     <li><b>Responsible AI</b>: e.g., developing interventions that help laypeople better understand the risks and harms of artificial intelligence (AI) systems</li>
-    <li><b>Trust and safety</b>: e.g., auditing and mitigating emerging threats on social media platforms, such as scams and image-based sexual abuse</li>
+    <li><b>Trust and safety</b>: e.g., auditing and mitigating emerging threats on online platforms, such as scams and image-based sexual abuse</li>
 </ul>
 
-My group's research has been funded by the Max Planck Society, the German Research Foundation (Deutsche Forschungsgemeinschaft or "DFG"), Google, and Meta.
+We are strong believers of interdisciplinary research and have established several collaborations with scholars in law and social sciences. We always look for opportunities to engage with communities, companies, policymakers, and non-profit organizations to translate our research into impacts.
+
+Our research has been funded by the Max Planck Society, the German Research Foundation (Deutsche Forschungsgemeinschaft or “DFG”), Google, and Meta.
 
 <!-- Elissa: I use computational, economic, and social science methods to understand & model users’ safety decision-making processes. I specifically investigate inequities that arise in these processes and work directly with marginalized and at-risk communities to design systems that facilitate safety equitably and respectfully.
 
