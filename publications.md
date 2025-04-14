@@ -47,6 +47,12 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-kaushik-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
+	<b>SoK: A Privacy Framework for Security Research Using Social Media Data</b><br>
+	Kyle Beadle, Kieron Ivy Turk, Aliai Eusebi, Mindy Tran, Marilyne Ordekian, Enrico Mariconti, <u>Yixin Zou</u>, Marie Vasek<br>
+	To appear in IEEE Symposium on Security and Privacy (Oakland) <br>
+  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/oakland2025-beadle-preprint.pdf"><div class="color-button">preprint</div></a>
+</li><br>
+<li>
   <b>Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice</b><br>
   <img src="/images/medal.png" width="20"><i>Best Paper Honorable Mention</i><br>
 	Gabriel Lima, Nina Grgić-Hlača, Markus Langer <u>Yixin Zou</u><br>
