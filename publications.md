@@ -56,14 +56,19 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <b>Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice</b><br>
   <img src="/images/medal.png" width="20"><i>Best Paper Honorable Mention</i><br>
 	Gabriel Lima, Nina Grgić-Hlača, Markus Langer <u>Yixin Zou</u><br>
-	To appear in ACM Conference on Human Factors in Computing Systems (CHI)<br>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2025-lima-preprint.pdf"><div class="color-button">preprint</div></a>
+	ACM Conference on Human Factors in Computing Systems (CHI), 1114:1–1114:30<br>
+	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3713536"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2025-lima.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/lima2025lay.bib"><div class="color-button">BibTeX</div></a>
+	<a target="_blank" href="https://www.youtube.com/watch?v=8ELB3_8X-OU"><div class="color-button">video</div></a>
 </li><br>
 <li>
   <b>"Auntie, Please Don’t Fall for Those Smooth Talkers": How Chinese Younger Family Members Safeguard Seniors from Online Fraud</b><br>
 	Yue Deng, Changyang He, <u>Yixin Zou</u>, Bo Li<br>
-	To appear in ACM Conference on Human Factors in Computing Systems (CHI)<br>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2025-deng-preprint.pdf"><div class="color-button">preprint</div></a>
+	ACM Conference on Human Factors in Computing Systems (CHI), 864:1–864:17<br>
+	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714137"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2025-deng.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/deng2025auntie.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 </ul>
 
