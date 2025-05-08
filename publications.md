@@ -15,14 +15,16 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <li>
   <b>Beyond “Vulnerable Populations”: A Unified Understanding of Vulnerability From A Socio-Ecological Perspective</b><br>
 	Xinru Tang, Gabriel Lima, Li Jiang, Lucy Simko, <u>Yixin Zou</u><br>
-	To appear in Proceedings of the ACM on Human-Computer Interaction (CSCW)<br>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/cscw2025-tang-preprint.pdf"><div class="color-button">preprint</div></a>
+	Proceedings of the ACM on Human-Computer Interaction 9(CSCW2), 37:1–37:30<br>
+	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3710935"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/cscw2025-tang.pdf"><div class="color-button">pdf</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/tang2025beyond.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 <li>
   <b>Digital Security Perceptions and Practices Around the World: A WEIRD Versus Non-WEIRD Comparison</b><br>
 	Franziska Herbert*, Collins W. Munyendo*, Jonas Hielscher, Steffen Becker, <u>Yixin Zou</u><br>
 	To appear in USENIX Security Symposium<br>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec2025-herbert-preprint.pdf"><div class="color-button">preprint</div></a>
+	<a target="_blank" href="https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-793-herbert.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
   <b>Misalignments and Demographic Differences in Expected and Actual Privacy Settings on Facebook</b><br>
@@ -43,8 +45,10 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <li>
   <b>Privacy Perceptions and Behaviors Towards Targeted Advertising on Social Media: A Cross-Country Study on the Effect of Culture and Religion</b><br>
 	Smirity Kaushik, Tanusree Sharma, Yaman Yu, Amna F. Ali, Bart Piet Knijnenburg, Yang Wang, <u>Yixin Zou</u><br>
-	To appear in Proceedings on Privacy Enhancing Technologies (PoPETs)<br>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-kaushik-preprint.pdf"><div class="color-button">preprint</div></a>
+	Proceedings on Privacy Enhancing Technologies (PoPETs), 2025(2), 188–210<br>
+	<a target="_blank" href="https://petsymposium.org/popets/2025/popets-2025-0057.pdf"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-kaushik.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/kaushik2025privacy.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 <li>
 	<b>SoK: A Privacy Framework for Security Research Using Social Media Data</b><br>
@@ -60,7 +64,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3713536"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2025-lima.pdf"><div class="color-button">pdf</div></a>
     <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/lima2025lay.bib"><div class="color-button">BibTeX</div></a>
-	<a target="_blank" href="https://www.youtube.com/watch?v=8ELB3_8X-OU"><div class="color-button">video</div></a>
+	<a target="_blank" href="https://www.youtube.com/watch?v=aSQUBopbEEk"><div class="color-button">video</div></a>
 </li><br>
 <li>
   <b>"Auntie, Please Don’t Fall for Those Smooth Talkers": How Chinese Younger Family Members Safeguard Seniors from Online Fraud</b><br>
@@ -69,6 +73,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714137"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2025-deng.pdf"><div class="color-button">pdf</div></a>
     <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/deng2025auntie.bib"><div class="color-button">BibTeX</div></a>
+	<a target="_blank" href="https://www.youtube.com/watch?v=vy-DYsN_GjM"><div class="color-button">video</div></a>
 </li><br>
 </ul>
 
@@ -81,7 +86,8 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3689432"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/tochi2024-zou.pdf"><div class="color-button">pdf</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2024encouraging.bib"><div class="color-button">BibTeX</div></a>
-	<a target="_blank" href="https://yixinzou.github.io/publications/slides/cnil2024-zou-slides.pdf"><div class="color-button">slides</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/slides/chi2025-zou-slides.pdf"><div class="color-button">slides</div></a>
+	<a target="_blank" href="https://www.youtube.com/watch?v=jtz4ruK5C0s"><div class="color-button">video</div></a>
 </li><br>
 <li>
   <b>Unfulfilled Promises of Child Safety and Privacy: Portrayals and Use of Children in Smart Home Marketing</b><br>
