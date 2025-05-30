@@ -13,7 +13,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <h3>2025</h3>
 <ul>
 <li>
-  <b>Beyond “Vulnerable Populations”: A Unified Understanding of Vulnerability From A Socio-Ecological Perspective</b><br>
+  <b>Beyond "Vulnerable Populations": A Unified Understanding of Vulnerability From A Socio-Ecological Perspective</b><br>
 	Xinru Tang, Gabriel Lima, Li Jiang, Lucy Simko, <u>Yixin Zou</u><br>
 	Proceedings of the ACM on Human-Computer Interaction 9(CSCW2), 37:1–37:30<br>
 	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3710935"><div class="color-button">link</div></a>
@@ -21,10 +21,20 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/tang2025beyond.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 <li>
+  <b>"No, I Can't Be a Security Personnel on Your Phone": Security and Privacy Threats From Sharing Infrastructure in Rural Ghana</b><br>
+	Emmanuel Tweneboah, Collins W. Munyendo, <u>Yixin Zou</u><br>
+	To appear in USENIX Security Symposium<br>
+</li><br>
+<li>
   <b>Digital Security Perceptions and Practices Around the World: A WEIRD Versus Non-WEIRD Comparison</b><br>
 	Franziska Herbert*, Collins W. Munyendo*, Jonas Hielscher, Steffen Becker, <u>Yixin Zou</u><br>
 	To appear in USENIX Security Symposium<br>
 	<a target="_blank" href="https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-793-herbert.pdf"><div class="color-button">preprint</div></a>
+</li><br>
+<li>
+  <b>More than Usability: Differential Access to Digital Security and Privacy</b><br>
+	Annalina Buckmann, Jan Magnus Nold, Yasemin Acar, <u>Yixin Zou</u><br>
+	To appear in Symposium on Usable Privacy and Security (SOUPS)<br>
 </li><br>
 <li>
   <b>Misalignments and Demographic Differences in Expected and Actual Privacy Settings on Facebook</b><br>
@@ -54,12 +64,14 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<b>SoK: A Privacy Framework for Security Research Using Social Media Data</b><br>
 	Kyle Beadle, Kieron Ivy Turk, Aliai Eusebi, Mindy Tran, Marilyne Ordekian, Enrico Mariconti, <u>Yixin Zou</u>, Marie Vasek<br>
 	To appear in IEEE Symposium on Security and Privacy (Oakland) <br>
-  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/oakland2025-beadle-preprint.pdf"><div class="color-button">preprint</div></a>
+  	<a target="_blank" href="https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00145"><div class="color-button">link</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2025-beadle.pdf"><div class="color-button">pdf</div></a>
+    <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/beadle2025sok.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 <li>
   <b>Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice</b><br>
   <img src="/images/medal.png" width="20"><i>Best Paper Honorable Mention</i><br>
-	Gabriel Lima, Nina Grgić-Hlača, Markus Langer <u>Yixin Zou</u><br>
+	Gabriel Lima, Nina Grgić-Hlača, Markus Langer, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI), 1114:1–1114:30<br>
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3713536"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/chi2025-lima.pdf"><div class="color-button">pdf</div></a>
@@ -119,10 +131,10 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	Franziska Herbert, Steffen Becker, Annalina Buckmann, Marvin Kowalewski, Jonas Hielscher, Yasemin Acar, Markus Dürmuth, <u>Yixin Zou</u>, Angela Sasse<br>
 	IEEE Symposium on Security and Privacy (Oakland), 27:1–27:19 <br>
 	<a target="_blank" href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a027/1RjEa3cNdeg"><div class="color-button">link</div></a>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/oakland2024-herbert.pdf"><div class="color-button">pdf</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2024-herbert.pdf"><div class="color-button">pdf</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/herbert2024digital.bib"><div class="color-button">BibTeX</div></a>
-   <a target="_blank" href="https://yixinzou.github.io/publications/slides/oakland2024-becker-slides.pdf"><div class="color-button">slides</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/slides/oakland2024-becker-poster.pdf"><div class="color-button">poster</div></a>
+   <a target="_blank" href="https://yixinzou.github.io/publications/slides/sp2024-becker-slides.pdf"><div class="color-button">slides</div></a>
+  <a target="_blank" href="https://yixinzou.github.io/publications/slides/sp2024-becker-poster.pdf"><div class="color-button">poster</div></a>
 </li><br>
 </ul>
 
