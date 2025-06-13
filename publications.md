@@ -24,6 +24,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <b>"No, I Can't Be a Security Personnel on Your Phone": Security and Privacy Threats From Sharing Infrastructure in Rural Ghana</b><br>
 	Emmanuel Tweneboah, Collins W. Munyendo, <u>Yixin Zou</u><br>
 	To appear in USENIX Security Symposium<br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sec2025-tweneboah-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
   <b>Digital Security Perceptions and Practices Around the World: A WEIRD Versus Non-WEIRD Comparison</b><br>
@@ -35,6 +36,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <b>More than Usability: Differential Access to Digital Security and Privacy</b><br>
 	Annalina Buckmann, Jan Magnus Nold, Yasemin Acar, <u>Yixin Zou</u><br>
 	To appear in Symposium on Usable Privacy and Security (SOUPS)<br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/soups2025-buckmann-preprint.pdf"><div class="color-button">preprint</div></a>
 </li><br>
 <li>
   <b>Misalignments and Demographic Differences in Expected and Actual Privacy Settings on Facebook</b><br>
@@ -204,7 +206,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<u>Yixin Zou</u>, Allison McDonald, Julia Narakornpichit, Nicola Dell, Thomas Ristenpart, Kevin Roundy, Florian Schaub, Acar Tamersoy<br>
 	USENIX Security Symposium, 429–446<br>
 	<a target="_blank" href="https://www.usenix.org/system/files/sec21-zou.pdf"><div class="color-button">link</div></a>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec2021-zou.pdf"><div class="color-button">pdf</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sec2021-zou.pdf"><div class="color-button">pdf</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2021role.bib"><div class="color-button">BibTeX</div></a>
 	<a target="_blank" href="https://news.umich.edu/computer-security-personnel-need-tools-training-to-assist-survivors-of-intimate-partner-violence/"><div class="color-button">press</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/slides/usenixsec2021-zou-slides.pdf"><div class="color-button">slides</div></a>
@@ -215,7 +217,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	Peter Mayer*, <u>Yixin Zou*</u>, Florian Schaub, Adam Aviv<br>
 	USENIX Security Symposium, 393–410<br>
   	<a target="_blank" href="https://www.usenix.org/system/files/sec21-mayer.pdf"><div class="color-button">link</div></a>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsec2021-mayer.pdf"><div class="color-button">pdf</div></a>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sec2021-mayer.pdf"><div class="color-button">pdf</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/bibtex/mayer2021now.bib"><div class="color-button">BibTeX</div></a>
 	<a target="_blank" href="https://www.si.umich.edu/about-umsi/news/data-breaches-most-victims-unaware-when-shown-evidence-multiple-compromised"><div class="color-button">press</div></a>
     <a target="_blank" href="https://yixinzou.github.io/publications/slides/usenixsec2021-mayer-slides.pdf"><div class="color-button">slides</div></a>
