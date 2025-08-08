@@ -3,7 +3,7 @@ url: "https://yixinzou.github.io"
 baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+# ins_logo: "./logo.jpg"
 
 tracking_id: #
 

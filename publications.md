@@ -3,7 +3,7 @@ layout: default
 permalink: /publications/
 ---
 
-<small>Below are selected publications. Please check my <a href="https://scholar.google.com/citations?user=ukyCsPAAAAAJ">Google Scholar</a> and <a target="_blank" href="https://yixinzou.github.io/cv/zou-cv.pdf">CV</a> for a complete list of publications.</small>
+<small>Below are selected publications. Please check my <a href="https://scholar.google.com/citations?user=ukyCsPAAAAAJ">Google Scholar</a> and <a target="_blank" href="https://yixinzou.github.io/zou-cv.pdf">CV</a> for a complete list of publications.</small>
 
 <small>In computer science and information science (CS/IS) research, top-tier conferences are highly selective venues for archival papers only, comparable to journals in other disciplines for their selectivity, visibility, and impact. Thus, the majority of my research is published in conference proceedings. One may refer to the <a href="https://www.core.edu.au/conference-portal">CORE Rankings</a> and the acceptance rate for a general idea of a conference's standing.</small>
 
