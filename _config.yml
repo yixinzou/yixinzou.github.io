@@ -8,13 +8,13 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-# footer_url: "https://github.com/ankitsultana"
 footer_text: |
-  <p>
+  <p style="text-align: center;">
     <a href="mailto:firstname.lastname@mpi-sp.org">Email</a> |
     <a href="https://scholar.google.com/citations?user=ukyCsPAAAAAJ">Google Scholar</a> |
     <a href="https://www.linkedin.com/in/yixinzou">LinkedIn</a>
   </p>
+  <div style="height: 40px;"></div>
 
 sass:
     style: compressed
