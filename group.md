@@ -1,33 +1,19 @@
 ---
-layout: page
-<!-- title: Human-Centered Security and Privacy group -->
+layout: default
 permalink: /group/
 ---
 
-Since 2023, I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy (MPI-SP). Our vision is to make technologies safer and more equitable for everyone, particularly for underserved communities. Below are a few topics we are currently working on: 
+Since 2023, I lead the Human-Centered Security and Privacy group at the Max Planck Institute for Security and Privacy (MPI-SP). Our work, at the intersection of human-computer interaction (HCI) and computer security and privacy (S&P), seeks to answer the question: How can we design computing technologies that are safe and equitable for everyone, particularly for marginalized and underserved communities? Below are a few topics we are currently working on: 
 
 <ul>
-    <li><b>Accessibility</b>: e.g., identifying and understanding the challenges faced by deaf and hard-of-hearing individuals and older adults</li>
-    <li><b>Cross-cultural studies</b>: e.g., examining security and privacy advice and experiences in the majority world</li>
-    <li><b>Responsible AI</b>: e.g., developing interventions that help laypeople better understand the risks and harms of artificial intelligence (AI) systems</li>
-    <li><b>Trust and safety</b>: e.g., auditing and mitigating emerging threats on online platforms, such as scams and image-based sexual abuse</li>
+    <li><b>Inclusive Security and Privacy</b>: <a target="_blank" href="https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-793-herbert.pdf">Global Comparison of Digital Security Perceptions</a> | <a target="_blank" href="https://yixinzou.github.io/publications/pdf/sec2025-tweneboah-preprint.pdf">Security and Privacy in Rural Ghana</a> | <a target="_blank" href="https://petsymposium.org/popets/2025/popets-2025-0057.pdf">Privacy Concerns Across Culture and Religion</a> | <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10628563">Security and Privacy Needs of d/Deaf Individuals</a> | <a target="_blank" href="https://dl.acm.org/doi/10.1145/3710935">Socio-Ecological Vulnerability Framework</a></li>
+    <li><b>Responsible AI</b>: <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3713536">Lay Perceptions of Algorithmic Discrimination</a> | <a target="_blank" href="https://arxiv.org/pdf/2505.07339?">Affirmative Algorithms (preprint)</a></li>
+    <li><b>Trust and Safety</b>: <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714137">Online Scams Targeting Older Adults</a> | <a target="_blank" href="https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00145">SoK: Privacy Framework for Social Media Research</a></li>
 </ul>
 
 We are strong believers of interdisciplinary research and have established several collaborations with scholars in law and social sciences. We always look for opportunities to engage with communities, companies, policymakers, and non-profit organizations to translate our research into impacts.
 
-Our research has been funded by the Max Planck Society, the German Research Foundation (Deutsche Forschungsgemeinschaft or “DFG”), Google, and Meta.
-
-<!-- Elissa: I use computational, economic, and social science methods to understand & model users’ safety decision-making processes. I specifically investigate inequities that arise in these processes and work directly with marginalized and at-risk communities to design systems that facilitate safety equitably and respectfully.
-
-Robin: I ask how experiences with technology can be made more accessible to digitally constrained communities. Specifically, I design, build, and study systems to better engage older adults and people with vision impairments who face barriers to accessing and engaging with technology. I also study how people in these communities are actively engaging digitally and how researchers and designers can learn from their strengths.
-
-Sauvik: Our work, at the intersection of HCI, AI and cybersecurity, is oriented around answering the question: How can we design systems that empower people with improved agency over their personal data and experiences online? 
-
-Asia: Our research centers around developing, examining and computationally operationalizing principles of responsible computing, data protection & governance, and digital well-being.
-
-Yaxing: I aim to enhance people's privacy literacy and empower them with more control of their privacy in our increasingly complicated socio-technical environment.
-
-Nicki: I work to study, build, and deploy sociotechnical systems that improve the lives of underserved communities in the United States and around the world. To achieve this goal, I utilize an interdisciplinary combination of techniques, including: (1) qualitative research to identify and understand the challenges faced by underserved communities; (2) measurement studies and analyses of existing technologies and usage patterns; (3) designing and building novel socio-technical systems that empower people to overcome challenges they face; (4) evaluating the systems I build through fieldwork and deployments with underserved communities; and (5) engaging with companies, governments, and non-profit organizations to transition the results of my work into practice. I believe that working "backwards"---from concrete, real-world problems to new theories and methodological frameworks---maximizes the potential for near-term societal impact while advancing the foundations of HCI research. -->
+Our research has been funded by the German Research Foundation (Deutsche Forschungsgemeinschaft or “DFG”), Google, and Meta.
 
 <h2>Group Members</h2>
 
@@ -46,7 +32,8 @@ I am extremely lucky to work with the following amazing people:
 <li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (since 2023)</li>
 <li><a href="https://www.mpi-sp.org/person/135780/2787">Mindy Tran</a> (since 2024)</li>
 <li><a href="https://www.mpi-sp.org/person/139267">Priyasha Chatterjee</a> (since 2024)</li>
-<li>Yasamin Golzar (since 2025, co-advised with Marcel Böhme)</li>
+<li><a href="https://www.mpi-sp.org/person/139040/2787">Yasamin Golzar</a> (since 2025, co-advised with Marcel Böhme)</li>
+<li>Guanming Shi (since 2025)</li>
 </ul>
 
 <h3>Research Interns/Visiting Scholars</h3>
@@ -64,7 +51,7 @@ I am extremely lucky to work with the following amazing people:
 <ul>
 <li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (visiting PhD student, the George Washington University, 2023-2024)</li>
 <li><a href="https://kylebeadle.com">Kyle Beadle</a> (visiting PhD student, University College London, 2024)</li>
-<li><a href="https://smiritykaushik.github.io">Smirity Kaushik</a> (visiting PhD student, University of Illinois at Urbana-Champaign, 2023-2024)</li>
+<li><a href="https://smiritykaushik.github.io">Smirity Kaushik</a> (visiting PhD student, University of Illinois at Urbana-Champaign, 2023-2024 --> Postdoc, the George Washington University)</li>
 <li><a href="https://yjwho.github.io">Jackie Hu</a> (research intern, 2023 --> PhD student, University of Michigan) </li>
 <li><a href="https://johannagunawan.com">Johanna Gunawan</a> (visiting PhD student, Northeastern University, 2023 --> Assistant Professor, Maastricht University) </li>
 <li><a href="https://www.mpi-sp.org/person/135780/2787">Mindy Tran</a> (research intern, 2023-2024 --> PhD student, MPI-SP)</li>
@@ -72,8 +59,6 @@ I am extremely lucky to work with the following amazing people:
 <li><a href="https://xinrutang.github.io">Xinru Tang</a> (research intern, 2023 --> PhD student, UC Irvine) </li>
 <!-- <font size="2">(* co-advised with Dr. Elissa Redmiles)</font> -->
 </ul>
-
-Please feel free to reach out to any one of them if you are interested in learning what it's like to work with me. If you are interested in joining our group, please read <a href="https://yixinzou.github.io/joinus/">this page</a> first before reaching out to me.
 
 <!-- 
 Before joining MPI-SP, I mentored several amazing undergraduate and graduate students while at University of Michigan, including:
