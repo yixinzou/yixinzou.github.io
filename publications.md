@@ -39,7 +39,8 @@ permalink: /publications/
 <br>
   <b>“What are they gonna do with my data?”: Privacy Expectations, Concerns, and Behaviors in Virtual Reality</b><br>
   <a target="_blank" href="https://petsymposium.org/popets/2025/popets-2025-0005.pdf">link</a> | 
-  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-sb.pdf">pdf</a> <br>
+  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-sb.pdf">pdf</a> | 
+  <a target="_blank" href="https://yixinzou.github.io/publications/slides/popets2025-abhinaya-slides.pdf">slides</a><br>
   Abhinaya S.B., Abhishri Agrawal, Yaxing Yao, <u>Yixin Zou</u>, Anupam Das<br>
   Proceedings on Privacy Enhancing Technologies (PoPETs)<br>
 <br>
