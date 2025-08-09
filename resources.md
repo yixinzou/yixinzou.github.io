@@ -18,6 +18,10 @@ There are also some invaluable resources that greatly helped me with my job sear
 <li><a href="https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub">"The academic job search for computer scientists in 10 questions"</a> by Nicolas Papernot and Elissa Redmiles</li>
 <li><a href="https://csguides.github.io/grad-job-guide/">"Computer Science Graduate Job and Interview Guide"</a> by Kevin Angstadt and Madeline Endres</li>
 
+<h3>Books</h3>
+
+I maintain a curated list of books on human-centered security, privacy, critical AI research, and research methods <a href="https://yixinzou.github.io/resources/books">here</a> -- both for my own use and to share with my group. If you're at MPI-SP or RUB and would like to borrow a physical copy, just drop me a message!
+
 <h3>Tools</h3>
 
 Below is a collection of software tools that I find useful for my research, teaching, and collaboration (section inspired by <a href="https://jantolsdorf.de/tools.html">Jan Tolsdorf</a>).
