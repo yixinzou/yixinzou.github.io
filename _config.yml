@@ -27,9 +27,7 @@ nav:
     link: "/publications/"
   - name: "Group"
     link: "/group/"
-# - name: "Resources"
-#    link: "/resources/"
-# - name: "Service"
-#    link: "/service/"
+  - name: "Service"
+    link: "/service/"
 
 
