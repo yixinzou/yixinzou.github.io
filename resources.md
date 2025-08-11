@@ -35,8 +35,8 @@ Additionally, I have shared the following guides with students and collaborators
 and <a href="https://docs.google.com/document/d/1ojOK15XxGgeNddfGjPlay2pUumSAxZb7mpLmIL3ZFYc/edit?tab=t.0#heading=h.nkvsyy6229en">template "cheat sheet" for letter writers</a></li>
 
 <li>Starting an advising relationship: templates for 
-<a href="https://chem.duke.edu/sites/chem.duke.edu/files/documents/Duke_Chemistry_%20Shared_Expectations_Document.pdf">developing shared expectations</a> (for PhD students and interns) 
-and <a href="hhttps://postdocs.stanford.edu/current-postdocs/navigating-your-individual-development-plan-idp/your-individual-development-plan">individual development plan</a> (for postdocs)</li>
+<a href="https://rackham.umich.edu/downloads/student-mentoring-handbook.pdf">developing shared expectations</a> (for PhD students and interns) 
+and <a href="https://postdocs.stanford.edu/current-postdocs/navigating-your-individual-development-plan-idp/your-individual-development-plan">individual development plan</a> (for postdocs)</li>
 
 <li>Navigating the PhD journey: 
   <a href="https://medium.com/navigating-academia/the-research-mosaic-analogy-the-mosaic-art-approach-to-a-dissertation-and-research-portfolio-dd7f9f81ce02">"The Mosaic Art Approach to a Dissertation and Research Portfolio"</a>

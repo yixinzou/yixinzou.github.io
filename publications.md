@@ -52,7 +52,9 @@ permalink: /publications/
 <br>
   <b>SoK: A Privacy Framework for Security Research Using Social Media Data</b><br>
   <a target="_blank" href="https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00145">link</a> | 
-  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2025-beadle.pdf">pdf</a> <br>
+  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2025-beadle.pdf">pdf</a> | 
+  <a target="_blank" href="https://yixinzou.github.io/publications/slides/oakland2025-beadle-slides.pdf">slides</a> |
+  <a target="_blank" href="https://yixinzou.github.io/publications/slides/oakland2025-beadle-poster.pdf">poster</a> <br>
   Kyle Beadle, Kieron Ivy Turk, Aliai Eusebi, Mindy Tran, Marilyne Ordekian, Enrico Mariconti, <u>Yixin Zou*</u>, Marie Vasek\*<br>
   IEEE Symposium on Security and Privacy (Oakland)<br>
   <span style="color: red;">Runner-up for CNIL-EHESS Award in Social Science</span><br>
