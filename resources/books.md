@@ -24,20 +24,20 @@ permalink: /resources/books
 
 **Research Methods**
 <li><a href="https://us.sagepub.com/en-us/nam/basics-of-qualitative-research/book235578">Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory</a> – Juliet Corbin and Anselm Strauss</li>
-<li><a href="https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067">Discovering Statistics Using R</a> – SAGE</li>
+<li><a href="https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067">Discovering Statistics Using R</a> – Andy Field, Jeremy Miles, and Zoë Field</li>
 <li><a href="https://www.routledge.com/Ethnography-for-the-Internet-Embedded-Embodied-and-Everyday/Hine/p/book/9780857855701?srsltid">Ethnography for the Internet</a> – Christine Hine</li>
-<li><a href="https://uk.sagepub.com/en-gb/eur/interviews/book239402">InterViews: Learning the Craft of Qualitative Research Interviewing</a> – SAGE</li>
+<li><a href="https://uk.sagepub.com/en-gb/eur/interviews/book239402">InterViews: Learning the Craft of Qualitative Research Interviewing</a> – Svend Brinkmann and Steinar Kvale </li>
 <li><a href="https://link.springer.com/book/10.1007/978-3-031-02235-7">Participatory Design</a> – Susanne Bødker, Christian Dindler, Ole S. Iversen, and Rachel C. Smith</li>
 <li><a href="https://www.goodreads.com/book/show/17553771-qualitative-data-analysis">Qualitative Data Analysis: A Methods Sourcebook</a> – Matthew B. Miles, Michael Huberman, and Johnny Saldaña</li>
-<li><a href="https://us.sagepub.com/en-us/nam/research-design/book270550">Research Design: Qualitative, Quantitative, and Mixed Methods Approaches</a> – John W. Creswell and J. David Creswell</li>
-<li><a href="https://www.sciencedirect.com/book/9780128053904/research-methods-in-human-computer-interaction">Research Methods in Human-Computer Interaction</a> – Jonathan Lazar, Jinjuan Heidi Feng and Harry Hochheiser</li>
+<li><a href="https://us.sagepub.com/en-us/nam/research-design/book270550">Research Design: Qualitative, Quantitative, and Mixed Methods Approaches</a> – John W. Creswell, and J. David Creswell</li>
+<li><a href="https://www.sciencedirect.com/book/9780128053904/research-methods-in-human-computer-interaction">Research Methods in Human-Computer Interaction</a> – Jonathan Lazar, Jinjuan Heidi Feng, and Harry Hochheiser</li>
 <li><a href="https://us.sagepub.com/en-us/nam/social-research-methods/book233436">Social Research Methods: Qualitative and Quantitative Approaches</a> – H. Russell Bernard</li>
 <li><a href="https://www.wiley.com/en-us/Survey+Methodology-p-9780470465462">Survey Methodology</a> – Robert M. Groves, Floyd J. Fowler Jr., Mick P. Couper, James M. Lepkowski, Eleanor Singer, and Roger Tourangeau </li>
 <li><a href="https://collegepublishing.sagepub.com/products/the-coding-manual-for-qualitative-researchers-4-273583">The Coding Manual for Qualitative Researchers</a> – Johnny Saldana</li>
 <li><a href="https://us.sagepub.com/en-us/nam/thematic-analysis/book248481">Thematic Analysis: A Practical Guide</a> – Virginia Braun and Victoria Clarke</li>
 
 **Privacy & Security**
-<li><a href="https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642787">Security Engineering: A Guide to Building Dependable Distributed Systems</a> – Wiley</li>
+<li><a href="https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642787">Security Engineering: A Guide to Building Dependable Distributed Systems</a> – Ross Anderson</li>
 <li><a href="https://link.springer.com/book/10.1007/978-3-642-04101-3">Understanding Cryptography</a> – Christof Paar and Jan Pelzl</li>
 <li><a href="https://scholarship.law.bu.edu/books/333/">Breached!: Why Data Security Law Fails and How to Improve It</a> – Daniel J. Solove and Woodrow Hartzog</li>
 <li><a href="https://global.oup.com/academic/product/why-privacy-matters-9780190939045?cc=de&lang=en&">Why Privacy Matters</a> – Neil Richards</li>
