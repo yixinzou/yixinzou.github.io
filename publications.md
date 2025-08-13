@@ -47,7 +47,8 @@ permalink: /publications/
 <br>
   <b>Privacy Perceptions and Behaviors Towards Targeted Advertising on Social Media: A Cross-Country Study on the Effect of Culture and Religion</b><br>
   <a target="_blank" href="https://petsymposium.org/popets/2025/popets-2025-0057.pdf">link</a> | 
-  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-kaushik.pdf">pdf</a> <br>
+  <a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-kaushik.pdf">pdf</a> | 
+  <a target="_blank" href="https://yixinzou.github.io/publications/slides/popets2025-kaushik-slides.pdf">slides</a> <br>
   Smirity Kaushik, Tanusree Sharma, Yaman Yu, Amna F. Ali, Bart Piet Knijnenburg, Yang Wang, <u>Yixin Zou</u><br>
   Proceedings on Privacy Enhancing Technologies (PoPETs)<br>
 <br>
