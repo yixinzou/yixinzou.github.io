@@ -17,12 +17,14 @@ permalink: /publications/
 	Proceedings of the ACM on Human-Computer Interaction (CSCW)<br>
 <br>
   <b>"No, I Can't Be a Security Personnel on Your Phone": Security and Privacy Threats From Sharing Infrastructure in Rural Ghana</b><br>
-  	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sec2025-tweneboah-preprint.pdf">preprint</a> <br>
+	<a target="_blank" href="https://www.usenix.org/system/files/usenixsecurity25-tweneboah.pdf">link</a> |
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsecurity25-tweneboah.pdf">pdf</a><br>
 	Emmanuel Tweneboah, Collins W. Munyendo, <u>Yixin Zou</u><br>
 	USENIX Security Symposium<br>
 <br>
   <b>Digital Security Perceptions and Practices Around the World: A WEIRD Versus Non-WEIRD Comparison</b><br>
-  	<a target="_blank" href="https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-793-herbert.pdf">preprint</a> <br>
+	<a target="_blank" href="https://www.usenix.org/system/files/usenixsecurity25-herbert.pdf">link</a> |
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsecurity25-herbert.pdf">pdf</a><br>
 	Franziska Herbert\*, Collins W. Munyendo\*, Jonas Hielscher, Steffen Becker, <u>Yixin Zou</u><br>
 	USENIX Security Symposium<br>
 <br>
