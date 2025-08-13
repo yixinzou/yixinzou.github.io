@@ -27,7 +27,8 @@ permalink: /publications/
 	USENIX Security Symposium<br>
 <br>
   <b>More than Usability: Differential Access to Digital Security and Privacy</b><br>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/soups2025-buckmann-preprint.pdf">preprint</a> <br>
+	<a target="_blank" href="https://www.usenix.org/system/files/soups2025-buckmann.pdf">link</a> |
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/soups2025-buckmann.pdf">pdf</a><br>
 	Annalina Buckmann, Jan Magnus Nold, Yasemin Acar, <u>Yixin Zou</u><br>
 	Symposium on Usable Privacy and Security (SOUPS)<br>
 <br>
