@@ -76,7 +76,7 @@ Below is a collection of software tools that I find useful for my research, teac
 
 **Literature Management**
 
-<li><a href="https://www.zotero.org">Zotero</a> (for managing literature, sharing libraries of related work, plugins available for Word, Google Docs, and Overleaf)</li>
+<li><a href="https://www.zotero.org">Zotero</a> (for managing literature, sharing libraries of related work, plugins available for Word, Google Docs, and Overleaf; also check out <a href="https://www.spur.science/resources/zotero/">this tutorial</a> by Nathan Malkin)</li>
 <li><a href="https://www.rayyan.ai">Rayyan</a> (for collaborating on systematic literature reviews and early-stage filtering)</li>
 <li><a href="https://flamingtempura.github.io/bibtex-tidy/index.html">Online BibTeX Tidy</a> (for cleaning and formatting BibTeX files)</li>
 
