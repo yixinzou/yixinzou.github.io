@@ -11,7 +11,7 @@ permalink: /service/
 
 <h3>Program Committee Membership</h3>
 
-Top-tier Conferences:
+Top-tier Venues:
 
 <li>IEEE EuroS&P: 2026</li>
 <li>ACM CHI: 2024, 2025, 2026</li>
