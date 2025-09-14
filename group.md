@@ -39,9 +39,8 @@ I am extremely lucky to work with the following amazing people:
 <h3>Research Interns/Visiting Scholars</h3>
 
 <ul>
-<li><a href="https://sites.psu.edu/ankolikade/">Ankolika De</a> (2025)</li>
+
 <li><a href="https://www.mpi-sp.org/person/139000/75009">Emmanuel Tweneboah</a> (2024-2025)</li>
-<li><a href="https://marcosp70.github.io">Marcos Silva</a> (2025)</li>
 <li><a href="https://scholar.google.com/citations?user=B-n07usAAAAJ&hl=en">Xiaowei Chen</a> (2025)</li>
 <li><a href="http://rebrand.ly/yuedeng">Yue Deng</a> (2025)</li>
 </ul>
@@ -49,6 +48,8 @@ I am extremely lucky to work with the following amazing people:
 <h3>Alumni</h3>
 
 <ul>
+<li><a href="https://sites.psu.edu/ankolikade/">Ankolika De</a> (visiting PhD student, Penn State University, 2025)</li>
+<li><a href="https://marcosp70.github.io">Marcos Silva</a> (research intern, 2025)</li>
 <li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (visiting PhD student, the George Washington University, 2023-2024)</li>
 <li><a href="https://kylebeadle.com">Kyle Beadle</a> (visiting PhD student, University College London, 2024)</li>
 <li><a href="https://smiritykaushik.github.io">Smirity Kaushik</a> (visiting PhD student, University of Illinois at Urbana-Champaign, 2023-2024 --> Postdoc, the George Washington University)</li>

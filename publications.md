@@ -9,6 +9,15 @@ permalink: /publications/
 
 <small>\* equal contributions.</small>
 
+<h3>2026</h3>
+  <b>"I Wonder if These Warnings Are Accurate": Security and Privacy Advice in Nine Majority World Countries</b><br>
+	Collins W. Munyendo, Veronica A. Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, Marcos Silva, Yue Deng, Mercy Omeiza,  Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Maryam Mustafa, Abhishek Bichhawat, Francisco Marmolejo-Cossio, Elissa Redmiles*, <u>Yixin Zou*</u><br>
+	IEEE Symposium on Security and Privacy (Oakland)<br>
+<br>
+  <b>Toward Inclusive Security and Privacy for Deaf and Hard-of-Hearing People: A Community-Based Interview Study</b><br>
+	Mindy Tran, Xinru Tang, Adryana Hutchinson, Adam J. Aviv, <u>Yixin Zou</u><br>
+	IEEE Symposium on Security and Privacy (Oakland)<br>
+
 <h3>2025</h3>
   <b>Beyond "Vulnerable Populations": A Unified Understanding of Vulnerability From A Socio-Ecological Perspective</b><br>
   	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3710935">link</a> | 
@@ -85,7 +94,7 @@ permalink: /publications/
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/tochi2024-zou.pdf">pdf</a> | 
 	<a target="_blank" href="https://yixinzou.github.io/publications/slides/chi2025-zou-slides.pdf">slides</a> | 
 	<a target="_blank" href="https://www.youtube.com/watch?v=jtz4ruK5C0s">video</a> <br>
-	<u>Yixin Zou</u>, Khue Le, Peter Mayer, Alessandro Acquisti, Adam Aviv, Florian Schaub<br>
+	<u>Yixin Zou</u>, Khue Le, Peter Mayer, Alessandro Acquisti, Adam J. Aviv, Florian Schaub<br>
 	ACM Transactions on Computer-Human Interaction (TOCHI)<br>
 	[Selected for presentation at the <a href="https://www.cnil.fr/en/privacy-research-day-2024-topics-registration">CNIL Privacy Day 2024</a>]<br>
 <br>
@@ -114,7 +123,7 @@ permalink: /publications/
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2024-herbert.pdf">pdf</a> | 
    <a target="_blank" href="https://yixinzou.github.io/publications/slides/sp2024-becker-slides.pdf">slides</a> | 
   <a target="_blank" href="https://yixinzou.github.io/publications/slides/sp2024-becker-poster.pdf">poster</a> <br>
-	Franziska Herbert, Steffen Becker, Annalina Buckmann, Marvin Kowalewski, Jonas Hielscher, Yasemin Acar, Markus Dürmuth, <u>Yixin Zou</u>, Angela Sasse<br>
+	Franziska Herbert, Steffen Becker, Annalina Buckmann, Marvin Kowalewski, Jonas Hielscher, Yasemin Acar, Markus Dürmuth, <u>Yixin Zou</u>, M. Angela Sasse<br>
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 
 <h3>2023</h3>
@@ -124,7 +133,7 @@ permalink: /publications/
 <a target="_blank" href="https://yixinzou.github.io/publications/pdf/tochi2023-mayer.pdf">pdf</a> |
 <a target="_blank" href="https://yixinzou.github.io/publications/slides/chi2024-mayer-slides.pdf">slides</a> |
 <a target="_blank" href="https://www.youtube.com/watch?v=36Sz0FNnZLI">video</a> <br>
-	Peter Mayer, <u>Yixin Zou</u>, Byron Lowens, Hunter Dyer, Khue Le, Florian Schaub, Adam Aviv<br>
+	Peter Mayer, <u>Yixin Zou</u>, Byron Lowens, Hunter Dyer, Khue Le, Florian Schaub, Adam J. Aviv<br>
 	ACM Transactions on Computer-Human Interaction (TOCHI)<br>
 [Selected for presentation at the <a href="https://www.ftc.gov/news-events/events/2024/03/privacycon-2024">FTC PrivacyCon 2024</a>]<br>
 
@@ -181,7 +190,7 @@ USENIX Security Symposium<br>
 <a target="_blank" href="https://www.si.umich.edu/about-umsi/news/data-breaches-most-victims-unaware-when-shown-evidence-multiple-compromised">press</a> | 
 <a target="_blank" href="https://yixinzou.github.io/publications/slides/usenixsec2021-mayer-slides.pdf">slides</a> | 
 <a target="_blank" href="https://www.usenix.org/conference/usenixsecurity21/presentation/mayer">video</a><br>
-Peter Mayer\*, <u>Yixin Zou*</u>, Florian Schaub, Adam Aviv<br>
+Peter Mayer\*, <u>Yixin Zou*</u>, Florian Schaub, Adam J. Aviv<br>
 USENIX Security Symposium<br>
 [Selected for presentation at the <a href="https://www.ftc.gov/news-events/events/2021/07/privacycon-2021">FTC PrivacyCon 2021</a>]<br>
 
