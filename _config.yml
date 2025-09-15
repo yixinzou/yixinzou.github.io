@@ -23,7 +23,7 @@ sass:
 
 nav:
   - name: "Bio"
-    link: /"bio/"
+    link: "/bio/"
   - name: "Publications"
     link: "/publications/"
   - name: "Group"
