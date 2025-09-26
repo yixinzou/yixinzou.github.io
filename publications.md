@@ -27,19 +27,22 @@ permalink: /publications/
 <br>
   <b>"No, I Can't Be a Security Personnel on Your Phone": Security and Privacy Threats From Sharing Infrastructure in Rural Ghana</b><br>
 	<a target="_blank" href="https://www.usenix.org/system/files/usenixsecurity25-tweneboah.pdf">link</a> |
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsecurity25-tweneboah.pdf">pdf</a><br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsecurity25-tweneboah.pdf">pdf</a> |
+	<a target="_blank" href="https://yixinzou.github.io/publications/slides/sec2025-tweneboah-slides.pdf">slides</a><br>
 	Emmanuel Tweneboah, Collins W. Munyendo, <u>Yixin Zou</u><br>
 	USENIX Security Symposium<br>
 <br>
   <b>Digital Security Perceptions and Practices Around the World: A WEIRD Versus Non-WEIRD Comparison</b><br>
 	<a target="_blank" href="https://www.usenix.org/system/files/usenixsecurity25-herbert.pdf">link</a> |
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsecurity25-herbert.pdf">pdf</a><br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsecurity25-herbert.pdf">pdf</a> |
+	<a target="_blank" href="https://yixinzou.github.io/publications/slides/sec2025-herbert-slides.pdf">slides</a><br>
 	Franziska Herbert\*, Collins W. Munyendo\*, Jonas Hielscher, Steffen Becker, <u>Yixin Zou</u><br>
 	USENIX Security Symposium<br>
 <br>
   <b>More than Usability: Differential Access to Digital Security and Privacy</b><br>
 	<a target="_blank" href="https://www.usenix.org/system/files/soups2025-buckmann.pdf">link</a> |
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/soups2025-buckmann.pdf">pdf</a><br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/soups2025-buckmann.pdf">pdf</a> |
+	<a target="_blank" href="https://yixinzou.github.io/publications/slides/soups2025-buckmann-slides.pdf">slides</a><br>
 	Annalina Buckmann, Jan Magnus Nold, Yasemin Acar, <u>Yixin Zou</u><br>
 	Symposium on Usable Privacy and Security (SOUPS)<br>
 <br>
