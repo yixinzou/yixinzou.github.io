@@ -24,6 +24,7 @@ I am extremely lucky to work with the following amazing people:
 <ul>
 <li><a href="https://homes.cs.washington.edu/~kentrell/">Kentrell Owens</a> (since 2025)</li>
 <li><a href="https://vrivera2017.github.io">Veronica Rivera</a> (since 2025)</li>
+<li><a href="https://scholar.google.com/citations?user=B-n07usAAAAJ&hl=en">Xiaowei Chen</a> (since 2025, co-advised with Thorsten Holz)</li>
 </ul>
 
 <h3>Ph.D. Students</h3>
@@ -40,8 +41,6 @@ I am extremely lucky to work with the following amazing people:
 
 <ul>
 
-<li><a href="https://www.mpi-sp.org/person/139000/75009">Emmanuel Tweneboah</a> (2024-2025)</li>
-<li><a href="https://scholar.google.com/citations?user=B-n07usAAAAJ&hl=en">Xiaowei Chen</a> (2025)</li>
 <li><a href="http://rebrand.ly/yuedeng">Yue Deng</a> (2025)</li>
 </ul>
 
@@ -50,6 +49,8 @@ I am extremely lucky to work with the following amazing people:
 <ul>
 <li><a href="https://sites.psu.edu/ankolikade/">Ankolika De</a> (visiting PhD student, Penn State University, 2025)</li>
 <li><a href="https://marcosp70.github.io">Marcos Silva</a> (research intern, 2025)</li>
+<li><a href="https://scholar.google.com/citations?user=B-n07usAAAAJ&hl=en">Xiaowei Chen</a> (visiting PhD student, University of Luxembourg, 2025 --> Postdoc, MPI-SP)</li>
+<li><a href="https://www.mpi-sp.org/person/139000/75009">Emmanuel Tweneboah</a> (reserch intern, 2024-2025 --> Master's student, Ruhr University Bochum)</li>
 <li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (visiting PhD student, the George Washington University, 2023-2024)</li>
 <li><a href="https://kylebeadle.com">Kyle Beadle</a> (visiting PhD student, University College London, 2024)</li>
 <li><a href="https://smiritykaushik.github.io">Smirity Kaushik</a> (visiting PhD student, University of Illinois at Urbana-Champaign, 2023-2024 --> Postdoc, the George Washington University)</li>
