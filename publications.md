@@ -24,6 +24,7 @@ permalink: /publications/
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/cscw2025-tang.pdf">pdf</a> <br>
 	Xinru Tang, Gabriel Lima, Li Jiang, Lucy Simko, <u>Yixin Zou</u><br>
 	Proceedings of the ACM on Human-Computer Interaction (CSCW)<br>
+	<span style="color: red;">Diversity and Inclusion Recognition</span><br>
 <br>
   <b>"No, I Can't Be a Security Personnel on Your Phone": Security and Privacy Threats From Sharing Infrastructure in Rural Ghana</b><br>
 	<a target="_blank" href="https://www.usenix.org/system/files/usenixsecurity25-tweneboah.pdf">link</a> |
