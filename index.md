@@ -19,7 +19,7 @@ Want a brief highlight of my work? Check out <a href="https://www.youtube.com/wa
 
 If you are interested in joining my group, or if you are seeking any form of advising or collaboration, please read <a href="https://yixinzou.github.io/joinus">this page</a>  first before reaching out to me.
 
-I am not hiring for postdocs, PhD students, or interns until the end of 2025. 
+<span style="color: red;">I am seeking 1–2 research interns to begin anytime in 2026. To apply, please submit your application via the CS@Max Planck Internship Program portal and email me once you've done so.</span>
 
 ## Selected Honors and Awards
 
