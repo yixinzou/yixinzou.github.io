@@ -11,10 +11,12 @@ permalink: /publications/
 
 <h3>2026</h3>
   <b>"I Wonder if These Warnings Are Accurate": Security and Privacy Advice in Nine Majority World Countries</b><br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2026-munyendo-preprint.pdf">preprint</a> <br>
 	Collins W. Munyendo, Veronica A. Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, Marcos Silva, Yue Deng, Mercy Omeiza,  Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Maryam Mustafa, Abhishek Bichhawat, Francisco Marmolejo-Cossio, Elissa Redmiles*, <u>Yixin Zou*</u><br>
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 <br>
   <b>Toward Inclusive Security and Privacy for Deaf and Hard-of-Hearing People: A Community-Based Interview Study</b><br>
+	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2026-tran-preprint.pdf">preprint</a> <br>
 	Mindy Tran, Xinru Tang, Adryana Hutchinson, Adam J. Aviv, <u>Yixin Zou</u><br>
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 
