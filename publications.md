@@ -35,6 +35,7 @@ permalink: /publications/
 	<a target="_blank" href="https://yixinzou.github.io/publications/slides/sec2025-tweneboah-poster.pdf">poster</a><br>
 	Emmanuel Tweneboah, Collins W. Munyendo, <u>Yixin Zou</u><br>
 	USENIX Security Symposium<br>
+	<span style="color: red;">Best Poster Award, NYC Privacy Day 2025</span><br>
 <br>
   <b>Digital Security Perceptions and Practices Around the World: A WEIRD Versus Non-WEIRD Comparison</b><br>
 	<a target="_blank" href="https://www.usenix.org/system/files/usenixsecurity25-herbert.pdf">link</a> |

@@ -13,7 +13,7 @@ Since 2023, I lead the Human-Centered Security and Privacy group at the Max Plan
 
 We are strong believers of interdisciplinary research and have established several collaborations with scholars in law and social sciences. We always look for opportunities to engage with communities, companies, policymakers, and non-profit organizations to translate our research into impacts.
 
-Our research has been funded by the German Research Foundation (Deutsche Forschungsgemeinschaft or “DFG”), Google, and Meta.
+Our research has been funded by the German Research Foundation (Deutsche Forschungsgemeinschaft or “DFG”), DAAD (German Academic Exchange Service), Google, and Meta.
 
 <h2>Group Members</h2>
 
@@ -24,17 +24,17 @@ I am extremely lucky to work with the following amazing people:
 <ul>
 <li><a href="https://homes.cs.washington.edu/~kentrell/">Kentrell Owens</a> (since 2025)</li>
 <li><a href="https://vrivera2017.github.io">Veronica Rivera</a> (since 2025)</li>
-<li><a href="https://scholar.google.com/citations?user=B-n07usAAAAJ&hl=en">Xiaowei Chen</a> (since 2025, co-advised with Thorsten Holz)</li>
+<li><a href="https://www.mpi-sp.org/person/142230/50437">Xiaowei Chen</a> (since 2025, co-advised with Thorsten Holz)</li>
 </ul>
 
 <h3>Ph.D. Students</h3>
 
 <ul>
 <li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (since 2023)</li>
-<li><a href="https://www.mpi-sp.org/person/135780/2787">Mindy Tran</a> (since 2024)</li>
-<li><a href="https://www.mpi-sp.org/person/139267">Priyasha Chatterjee</a> (since 2024)</li>
-<li><a href="https://www.mpi-sp.org/person/139040/2787">Yasamin Golzar</a> (since 2025, co-advised with Marcel Böhme)</li>
-<li>Guanming Shi (since 2025)</li>
+<li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (since 2024)</li>
+<li><a href="https://www.linkedin.com/in/priyashachatterjee/">Priyasha Chatterjee</a> (since 2024)</li>
+<li><a href="https://www.linkedin.com/in/yasamin-golzar-2bb7a11aa/">Yasamin Golzar</a> (since 2025, co-advised with Marcel Böhme)</li>
+<li><a href="https://www.linkedin.com/in/guanmingshi/">Guanming Shi</a> (since 2024)</li>
 </ul>
 
 <h3>Research Interns/Visiting Scholars</h3>
@@ -49,15 +49,15 @@ I am extremely lucky to work with the following amazing people:
 <ul>
 <li><a href="https://sites.psu.edu/ankolikade/">Ankolika De</a> (visiting PhD student, Penn State University, 2025)</li>
 <li><a href="https://marcosp70.github.io">Marcos Silva</a> (research intern, 2025)</li>
-<li><a href="https://scholar.google.com/citations?user=B-n07usAAAAJ&hl=en">Xiaowei Chen</a> (visiting PhD student, University of Luxembourg, 2025 --> Postdoc, MPI-SP)</li>
-<li><a href="https://www.mpi-sp.org/person/139000/75009">Emmanuel Tweneboah</a> (reserch intern, 2024-2025 --> Master's student, Ruhr University Bochum)</li>
+<li><a href="https://www.mpi-sp.org/person/142230/50437">Xiaowei Chen</a> (visiting PhD student, University of Luxembourg, 2025 --> Postdoc, MPI-SP)</li>
+<li><a href="https://www.linkedin.com/in/emmanuel-tweneboah/">Emmanuel Tweneboah</a> (reserch intern, 2024-2025 --> Master's student, Ruhr University Bochum)</li>
 <li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (visiting PhD student, the George Washington University, 2023-2024)</li>
 <li><a href="https://kylebeadle.com">Kyle Beadle</a> (visiting PhD student, University College London, 2024)</li>
 <li><a href="https://smiritykaushik.github.io">Smirity Kaushik</a> (visiting PhD student, University of Illinois at Urbana-Champaign, 2023-2024 --> Postdoc, the George Washington University)</li>
 <li><a href="https://yjwho.github.io">Jackie Hu</a> (research intern, 2023 --> PhD student, University of Michigan) </li>
 <li><a href="https://johannagunawan.com">Johanna Gunawan</a> (visiting PhD student, Northeastern University, 2023 --> Assistant Professor, Maastricht University) </li>
-<li><a href="https://www.mpi-sp.org/person/135780/2787">Mindy Tran</a> (research intern, 2023-2024 --> PhD student, MPI-SP)</li>
-<li><a href="https://www.mpi-sp.org/person/139036">Princessa Cintaqia</a> (research intern, 2023 --> PhD student, Boston University)</li>
+<li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (research intern, 2023-2024 --> PhD student, MPI-SP)</li>
+<li><a href="https://princessacintaqia.github.io/princessa-phd-site/">Princessa Cintaqia</a> (research intern, 2023 --> PhD student, Boston University)</li>
 <li><a href="https://xinrutang.github.io">Xinru Tang</a> (research intern, 2023 --> PhD student, UC Irvine) </li>
 <!-- <font size="2">(* co-advised with Dr. Elissa Redmiles)</font> -->
 </ul>
