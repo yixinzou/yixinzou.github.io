@@ -34,7 +34,7 @@ I am extremely lucky to work with the following amazing people:
 <li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (since 2024)</li>
 <li><a href="https://www.linkedin.com/in/priyashachatterjee/">Priyasha Chatterjee</a> (since 2024)</li>
 <li><a href="https://www.linkedin.com/in/yasamin-golzar-2bb7a11aa/">Yasamin Golzar</a> (since 2025, co-advised with Marcel Böhme)</li>
-<li><a href="https://www.linkedin.com/in/guanmingshi/">Guanming Shi</a> (since 2024)</li>
+<li><a href="https://www.linkedin.com/in/guanmingshi/">Guanming Shi</a> (since 2025)</li>
 </ul>
 
 <h3>Research Interns/Visiting Scholars</h3>
