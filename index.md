@@ -9,15 +9,15 @@ title: Yixin Zou
 
 Hello there! Thanks for thinking I'm interesting enough to check up on. If you've come this far, I encourage you to say hello before you leave :)
 
-My name is Yixin Zou (pronounced "Yee-Shin Zoh"). I am a tenure-track faculty member at the <a href="https://www.mpi-sp.org/">Max Planck Institute for Security and Privacy (MPI-SP)</a> in Bochum, Germany. I am also a principal investigator as part of the <a href="https://casa.rub.de/en/">CASA Cluster of Excellence</a> at <a href="https://www.ruhr-uni-bochum.de/en">Ruhr University Bochum (RUB)</a>. Before joining MPI-SP, I earned my Ph.D. in Information at the University of Michigan. My CV is available <a target="_blank" href="https://yixinzou.github.io/cv/zou-cv.pdf">here</a>.
+My name is Yixin Zou (pronounced "Yee-Shin Zoh"). I am a tenure-track faculty member at the <a href="https://www.mpi-sp.org/">Max Planck Institute for Security and Privacy (MPI-SP)</a> in Bochum, Germany. I am also a principal investigator as part of the <a href="https://casa.rub.de/en/">CASA Cluster of Excellence</a> at <a href="https://www.ruhr-uni-bochum.de/en">Ruhr University Bochum (RUB)</a>. Before joining MPI-SP, I earned my Ph.D. in Information at the University of Michigan. My CV is available <a target="_blank" href="../cv/zou-cv.pdf">here</a>.
 
-At MPI-SP, I lead the Human-Centered Security and Privacy group, where we conduct qualitative, quantitative, design, and measurement research aimed at making computing technologies safer and more equitable for everyone, especially marginalized and underserved communities. Visit our <a href="https://yixinzou.github.io/group">group page</a> to learn more about our current research directions and my amazing team members.
+At MPI-SP, I lead the Human-Centered Security and Privacy group, where we conduct qualitative, quantitative, design, and measurement research aimed at making computing technologies safer and more equitable for everyone, especially marginalized and underserved communities. Visit our <a href="../group">group page</a> to learn more about our current research directions and my amazing team members.
 
 Want a brief highlight of my work? Check out <a href="https://www.youtube.com/watch?v=emCIKFIbfso">this podcast</a> I did with Cube 5 titled "On the Way to More Digital Security and Privacy for All" as well as <a href="https://www.youtube.com/watch?v=2yvcE22QJ38">this video</a> I did with CASA that featured my day-to-day life. 
 
 ## Open Positions
 
-If you are interested in joining my group, or if you are seeking any form of advising or collaboration, please read <a href="https://yixinzou.github.io/joinus">this page</a>  first before reaching out to me.
+If you are interested in joining my group, or if you are seeking any form of advising or collaboration, please read <a href="../joinus">this page</a>  first before reaching out to me.
 
 <span style="color: red;">I do not intend to accept any new PhD students or postdocs in 2026.</span>
 

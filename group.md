@@ -7,7 +7,7 @@ I lead the Human-Centered Security and Privacy group at the Max Planck Institute
 
 <ul>
   <li><b>Accessible Computing</b>: 
-    <a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2026-tran-preprint.pdf">Security and Privacy Needs of Deaf and Hard-of-Hearing Communities</a> (IEEE S&P'26) |
+    <a target="_blank" href="../publications/pdf/sp2026-tran-preprint.pdf">Security and Privacy Needs of Deaf and Hard-of-Hearing Communities</a> (IEEE S&P'26) |
    <a target="_blank" href="https://dl.acm.org/doi/10.1145/3597638.3615653">Bridge Privacy and Accessibility Research</a> (ASSET'23 Workshop) | 
    <a target="_blank" href="https://petsymposium.org/popets/2024/popets-2024-0009.pdf"> Cross-Contextual Lens of Older Adults' Privacy Concerns and Behaviors</a> (PoPETs'25) | 
     Older Adults’ Experiences with Biometric Payment (CHI'26)
@@ -27,8 +27,8 @@ I lead the Human-Centered Security and Privacy group at the Max Planck Institute
   <li><b>Cultural Aspects of Security and Privacy</b>: 
     <a target="_blank" href="https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-793-herbert.pdf">Digital Security Practices in WEIRD vs. Non-WEIRD Countries</a> (SEC'25) | 
     <a target="_blank" href="https://petsymposium.org/popets/2025/popets-2025-0057.pdf">Perceptions of Targeted Advertising Across Cultures and Religions</a> (PoPETs'25) | 
-    <a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2026-munyendo-preprint.pdf">Security and Privacy Advice in the Majority World</a> (IEEE S&P'26) | 
-    <a target="_blank" href="https://yixinzou.github.io/publications/pdf/sec2025-tweneboah-preprint.pdf">Infrastructure Sharing in Rural Ghana</a> (SEC'25)
+    <a target="_blank" href="../publications/pdf/sp2026-munyendo-preprint.pdf">Security and Privacy Advice in the Majority World</a> (IEEE S&P'26) | 
+    <a target="_blank" href="https://www.usenix.org/system/files/usenixsecurity25-tweneboah.pdf">Infrastructure Sharing in Rural Ghana</a> (SEC'25)
   </li>
   <li><b>Responsible AI</b>: 
     <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3713536">Lay Perceptions of Algorithmic Discrimination</a> (CHI'25) | 

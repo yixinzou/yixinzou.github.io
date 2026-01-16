@@ -3,7 +3,7 @@ layout: default
 permalink: /publications/
 ---
 
-<small>Below are selected publications. Please check my <a href="https://scholar.google.com/citations?user=ukyCsPAAAAAJ">Google Scholar</a> and <a target="_blank" href="https://yixinzou.github.io/zou-cv.pdf">CV</a> for a complete list of publications.</small>
+<small>Below are selected publications. Please check my <a href="https://scholar.google.com/citations?user=ukyCsPAAAAAJ">Google Scholar</a> and <a target="_blank" href="../cv/zou-cv.pdf">CV</a> for a complete list of publications.</small>
 
 <small>In computer science and information science (CS/IS) research, top-tier conferences are highly selective venues for archival papers only, comparable to journals in other disciplines for their selectivity, visibility, and impact. Thus, the majority of my research is published in conference proceedings. One may refer to the <a href="https://www.core.edu.au/conference-portal">CORE Rankings</a> and the acceptance rate for a general idea of a conference's standing.</small>
 
@@ -11,12 +11,12 @@ permalink: /publications/
 
 <h3>2026</h3>
   <b>"I Wonder if These Warnings Are Accurate": Security and Privacy Advice in Nine Majority World Countries</b><br>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2026-munyendo-preprint.pdf">preprint</a> <br>
+	<a target="_blank" href="../publications/pdf/sp2026-munyendo-preprint.pdf">preprint</a> <br>
 	Collins W. Munyendo, Veronica A. Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, Marcos Silva, Yue Deng, Mercy Omeiza,  Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Maryam Mustafa, Abhishek Bichhawat, Francisco Marmolejo-Cossio, Elissa Redmiles*, <u>Yixin Zou*</u><br>
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 <br>
   <b>Toward Inclusive Security and Privacy for Deaf and Hard-of-Hearing People: A Community-Based Interview Study</b><br>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2026-tran-preprint.pdf">preprint</a> <br>
+	<a target="_blank" href="../publications/pdf/sp2026-tran-preprint.pdf">preprint</a> <br>
 	Mindy Tran, Xinru Tang, Adryana Hutchinson, Adam J. Aviv, <u>Yixin Zou</u><br>
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 <br>
@@ -51,16 +51,16 @@ permalink: /publications/
 <h3>2025</h3>
   <b>Beyond "Vulnerable Populations": A Unified Understanding of Vulnerability From A Socio-Ecological Perspective</b><br>
   	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3710935">link</a> | 
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/cscw2025-tang.pdf">pdf</a> <br>
+	<a target="_blank" href="../publications/pdf/cscw2025-tang.pdf">pdf</a> <br>
 	Xinru Tang, Gabriel Lima, Li Jiang, Lucy Simko, <u>Yixin Zou</u><br>
 	Proceedings of the ACM on Human-Computer Interaction (CSCW)<br>
 	<span style="color: red;">Diversity and Inclusion Recognition</span><br>
 <br>
   <b>"No, I Can't Be a Security Personnel on Your Phone": Security and Privacy Threats From Sharing Infrastructure in Rural Ghana</b><br>
 	<a target="_blank" href="https://www.usenix.org/system/files/usenixsecurity25-tweneboah.pdf">link</a> |
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/usenixsecurity25-tweneboah.pdf">pdf</a> |
-	<a target="_blank" href="https://yixinzou.github.io/publications/slides/sec2025-tweneboah-slides.pdf">slides</a> |
-	<a target="_blank" href="https://yixinzou.github.io/publications/slides/sec2025-tweneboah-poster.pdf">poster</a><br>
+	<a target="_blank" href="../publications/pdf/usenixsecurity25-tweneboah.pdf">pdf</a> |
+	<a target="_blank" href="../publications/slides/sec2025-tweneboah-slides.pdf">slides</a> |
+	<a target="_blank" href="../publications/slides/sec2025-tweneboah-poster.pdf">poster</a><br>
 	Emmanuel Tweneboah, Collins W. Munyendo, <u>Yixin Zou</u><br>
 	USENIX Security Symposium<br>
 	<span style="color: red;">Best Poster Award, NYC Privacy Day 2025</span><br>
