@@ -19,6 +19,34 @@ permalink: /publications/
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/sp2026-tran-preprint.pdf">preprint</a> <br>
 	Mindy Tran, Xinru Tang, Adryana Hutchinson, Adam J. Aviv, <u>Yixin Zou</u><br>
 	IEEE Symposium on Security and Privacy (Oakland)<br>
+<br>
+  <b>It Shouldn't Be This Difficult: Researcher Perspectives on Diversity and Inclusion in Usable Privacy and Security Research</b><br>
+	Priyasha Chatterjee, Smirity Kaushik, Karola Marky, <u>Yixin Zou</u><br>
+	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+<br>
+  <b>From Harm to Healing: Understanding Individual Resilience after Cybercrimes</b><br>
+	Xiaowei Chen, Mindy Tran, Yue Deng, Bhupendra Acharya, <u>Yixin Zou</u><br>
+	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+<br>
+  <b>What is Safety? Corporate Discourse, Power, and the Politics of Generative AI Safety</b><br>
+	Ankolika De, Gabriel Lima, <u>Yixin Zou</u><br>
+	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+<br>
+  <b>Experiencer, Helper, or Observer: Online Fraud Intervention for Older Adults Through a Role-Based Simulation Approach</b><br>
+	Yue Deng, Xiaowei Chen, Junxiang Liao, Bo Li, <u>Yixin Zou</u><br>
+	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+<br>
+  <b>"What If My Face Gets Scanned Without Consent:"  Understanding Older Adults' Experiences with Biometric Payment</b><br>
+	Yue Deng, Changyang He, Bo Li, <u>Yixin Zou</u><br>
+	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+<br>
+  <b>Do Citizens Agree with the EU AI Act? Public Perspectives on Risk and Regulation of AI Systems</b><br>
+	Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall, <u>Yixin Zou</u><br>
+	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+<br>
+  <b>“There Is No Way My Own Sister Would Scam Me:” Understanding Narratives Around Scam-Driven Human Trafficking Across Chinese Borders on Rednote</b><br>
+	Jiamin Zheng, Yue Deng, Jessica Chen, Shujun Li, <u>Yixin Zou</u>, Jingjie Li<br>
+	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 
 <h3>2025</h3>
   <b>Beyond "Vulnerable Populations": A Unified Understanding of Vulnerability From A Socio-Ecological Perspective</b><br>
