@@ -51,7 +51,9 @@ permalink: /publications/
 <h3>2025</h3>
   <b>Beyond "Vulnerable Populations": A Unified Understanding of Vulnerability From A Socio-Ecological Perspective</b><br>
   	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3710935">link</a> | 
-	<a target="_blank" href="../publications/pdf/cscw2025-tang.pdf">pdf</a> <br>
+	<a target="_blank" href="../publications/pdf/cscw2025-tang.pdf">pdf</a> | 
+	<a target="_blank" href="../publications/slides/cscw2025-tang-slides.pdf">slides</a> |
+	<a target="_blank" href="https://medium.com/acm-cscw/who-gets-to-be-vulnerable-populations-a-critical-look-at-the-concept-46ffbf1e7f9c">blog</a> <br>
 	Xinru Tang, Gabriel Lima, Li Jiang, Lucy Simko, <u>Yixin Zou</u><br>
 	Proceedings of the ACM on Human-Computer Interaction (CSCW)<br>
 	<span style="color: red;">Diversity and Inclusion Recognition</span><br>
