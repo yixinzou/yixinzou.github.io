@@ -8,9 +8,15 @@ I lead the Human-Centered Security and Privacy group at the Max Planck Institute
 <ul>
   <li><b>Accessible Computing</b>: 
     <a target="_blank" href="../publications/pdf/sp2026-tran-preprint.pdf">Security and Privacy Needs of Deaf and Hard-of-Hearing Communities</a> (IEEE S&P'26) |
-   <a target="_blank" href="https://dl.acm.org/doi/10.1145/3597638.3615653">Bridge Privacy and Accessibility Research</a> (ASSET'23 Workshop) | 
-   <a target="_blank" href="https://petsymposium.org/popets/2024/popets-2024-0009.pdf"> Cross-Contextual Lens of Older Adults' Privacy Concerns and Behaviors</a> (PoPETs'25) | 
+   <a target="_blank" href="https://dl.acm.org/doi/10.1145/3597638.3615653">Bridge Privacy and Accessibility Research</a> (ASSETS'23 Workshop) | 
+   <a target="_blank" href="https://petsymposium.org/popets/2024/popets-2024-0009.pdf"> Cross-Contextual Lens of Older Adults' Privacy Concerns and Behaviors</a> (PoPETs'24) | 
     Older Adults’ Experiences with Biometric Payment (CHI'26)
+  </li>
+  <li><b>Cultural Aspects of Security and Privacy</b>: 
+    <a target="_blank" href="https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-793-herbert.pdf">Digital Security Practices in WEIRD vs. Non-WEIRD Countries</a> (SEC'25) | 
+    <a target="_blank" href="https://petsymposium.org/popets/2025/popets-2025-0057.pdf">Perceptions of Targeted Advertising Across Cultures and Religions</a> (PoPETs'25) | 
+    <a target="_blank" href="../publications/pdf/sp2026-munyendo-preprint.pdf">Security and Privacy Advice in the Majority World</a> (IEEE S&P'26) | 
+    <a target="_blank" href="https://www.usenix.org/system/files/usenixsecurity25-tweneboah.pdf">Infrastructure Sharing in Rural Ghana</a> (SEC'25)
   </li>
   <li><b>Cybercrime Prevention and Defense</b>: 
     Anti-Scam Interventions Through Role-Based Simulations (CHI'26) |  
@@ -23,12 +29,6 @@ I lead the Human-Centered Security and Privacy group at the Max Planck Institute
     <a target="_blank" href="https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00145">Privacy Considerations for Research Using Social Media Data</a> (IEEE S&P'25) | 
     <a target="_blank" href="https://www.usenix.org/system/files/soups2025-buckmann.pdf">Differential Access to Digital Security and Privacy</a> (SOUPS'25) | 
     Improve Diversity and Inclusion in Usable Privacy and Security Research (CHI'26)
-  </li>
-  <li><b>Cultural Aspects of Security and Privacy</b>: 
-    <a target="_blank" href="https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-793-herbert.pdf">Digital Security Practices in WEIRD vs. Non-WEIRD Countries</a> (SEC'25) | 
-    <a target="_blank" href="https://petsymposium.org/popets/2025/popets-2025-0057.pdf">Perceptions of Targeted Advertising Across Cultures and Religions</a> (PoPETs'25) | 
-    <a target="_blank" href="../publications/pdf/sp2026-munyendo-preprint.pdf">Security and Privacy Advice in the Majority World</a> (IEEE S&P'26) | 
-    <a target="_blank" href="https://www.usenix.org/system/files/usenixsecurity25-tweneboah.pdf">Infrastructure Sharing in Rural Ghana</a> (SEC'25)
   </li>
   <li><b>Responsible AI</b>: 
     <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3713536">Lay Perceptions of Algorithmic Discrimination</a> (CHI'25) | 
@@ -78,7 +78,7 @@ I am extremely lucky to work with the following amazing people:
 <li><a href="https://marcosp70.github.io">Marcos Silva</a> (research intern, 2025)</li>
 <li><a href="https://www.mpi-sp.org/person/142230/50437">Xiaowei Chen</a> (visiting PhD student, University of Luxembourg, 2025 --> Postdoc, MPI-SP)</li>
 <li><a href="https://www.linkedin.com/in/emmanuel-tweneboah/">Emmanuel Tweneboah</a> (reserch intern, 2024-2025 --> Master's student, Ruhr University Bochum)</li>
-<li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (visiting PhD student, the George Washington University, 2023-2024)</li>
+<li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (visiting PhD student, the George Washington University, 2023-2024 --> Postdoc, UC Berkeley)</li>
 <li><a href="https://kylebeadle.com">Kyle Beadle</a> (visiting PhD student, University College London, 2024)</li>
 <li><a href="https://smiritykaushik.github.io">Smirity Kaushik</a> (visiting PhD student, University of Illinois at Urbana-Champaign, 2023-2024 --> Postdoc, the George Washington University)</li>
 <li><a href="https://yjwho.github.io">Jackie Hu</a> (research intern, 2023 --> PhD student, University of Michigan) </li>
