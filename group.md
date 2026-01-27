@@ -10,7 +10,7 @@ I lead the Human-Centered Security and Privacy group at the Max Planck Institute
     <a target="_blank" href="../publications/pdf/sp2026-tran-preprint.pdf">Security and Privacy Needs of Deaf and Hard-of-Hearing Communities</a> (IEEE S&P'26) |
    <a target="_blank" href="https://dl.acm.org/doi/10.1145/3597638.3615653">Bridge Privacy and Accessibility Research</a> (ASSETS'23 Workshop) | 
    <a target="_blank" href="https://petsymposium.org/popets/2024/popets-2024-0009.pdf"> Cross-Contextual Lens of Older Adults' Privacy Concerns and Behaviors</a> (PoPETs'24) | 
-    Older Adults’ Experiences with Biometric Payment (CHI'26)
+    <a target="_blank" href="https://arxiv.org/pdf/2601.12300"> Older Adults’ Experiences with Biometric Payment</a> (CHI'26)
   </li>
   <li><b>Cultural Aspects of Security and Privacy</b>: 
     <a target="_blank" href="https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-793-herbert.pdf">Digital Security Practices in WEIRD vs. Non-WEIRD Countries</a> (SEC'25) | 
@@ -19,8 +19,8 @@ I lead the Human-Centered Security and Privacy group at the Max Planck Institute
     <a target="_blank" href="https://www.usenix.org/system/files/usenixsecurity25-tweneboah.pdf">Infrastructure Sharing in Rural Ghana</a> (SEC'25)
   </li>
   <li><b>Cybercrime Prevention and Defense</b>: 
-    Anti-Scam Interventions Through Role-Based Simulations (CHI'26) |  
-    Individual Resilience After Cybercrime (CHI'26) | 
+    <a target="_blank" href="https://arxiv.org/pdf/2601.12324">Anti-Scam Interventions Through Role-Based Simulations</a> (CHI'26) |  
+    <a target="_blank" href="https://arxiv.org/pdf/2601.16050"> Individual Resilience After Cybercrime</a> (CHI'26) | 
     The Interplay Between Scams and Human Trafficking (CHI'26) | 
    <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714137">Intergenerational Support and Challenges in Online Scam Defense</a> (CHI'25)
   </li>
@@ -58,7 +58,7 @@ I am extremely lucky to work with the following amazing people:
 
 <ul>
 <li><a href="https://thegcamilo.github.io">Gabriel Lima</a> (since 2023)</li>
-<li><a href="https://www.linkedin.com/in/mindy-tran-01501a190/">Mindy Tran</a> (since 2024)</li>
+<li><a href="https://softalpaca.github.io">Mindy Tran</a> (since 2024)</li>
 <li><a href="https://www.linkedin.com/in/priyashachatterjee/">Priyasha Chatterjee</a> (since 2024)</li>
 <li><a href="https://www.linkedin.com/in/yasamin-golzar-2bb7a11aa/">Yasamin Golzar</a> (since 2025, co-advised with Marcel Böhme)</li>
 <li><a href="https://www.linkedin.com/in/guanmingshi/">Guanming Shi</a> (since 2025)</li>

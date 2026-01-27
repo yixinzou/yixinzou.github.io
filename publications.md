@@ -44,7 +44,7 @@ permalink: /publications/
 	Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
-  <b>“There Is No Way My Own Sister Would Scam Me:” Understanding Narratives Around Scam-Driven Human Trafficking Across Chinese Borders on Rednote</b><br>
+  <b>Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote</b><br>
 	Jiamin Zheng, Yue Deng, Jessica Chen, Shujun Li, <u>Yixin Zou</u>, Jingjie Li<br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 
