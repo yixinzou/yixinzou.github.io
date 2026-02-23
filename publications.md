@@ -16,35 +16,42 @@ permalink: /publications/
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 <br>
   <b>Toward Inclusive Security and Privacy for Deaf and Hard-of-Hearing People: A Community-Based Interview Study</b><br>
-	<a target="_blank" href="../publications/pdf/sp2026-tran-preprint.pdf">preprint</a> <br>
+	<a target="_blank" href="../publications/pdf/sp2026-tran-preprint.pdf">preprint</a><br>
 	Mindy Tran, Xinru Tang, Adryana Hutchinson, Adam J. Aviv, <u>Yixin Zou</u><br>
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 <br>
   <b>It Shouldn't Be This Difficult: Researcher Perspectives on Diversity and Inclusion in Usable Privacy and Security Research</b><br>
+  <a target="_blank" href="../publications/pdf/chi2026-chatterjee-preprint.pdf">preprint</a><br>
 	Priyasha Chatterjee, Smirity Kaushik, Karola Marky, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>From Harm to Healing: Understanding Individual Resilience after Cybercrimes</b><br>
+  <a target="_blank" href="../publications/pdf/chi2026-chen-preprint.pdf">preprint</a><br>
 	Xiaowei Chen, Mindy Tran, Yue Deng, Bhupendra Acharya, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>What is Safety? Corporate Discourse, Power, and the Politics of Generative AI Safety</b><br>
+  <a target="_blank" href="../publications/pdf/chi2026-de-preprint.pdf">preprint</a> <br> 
 	Ankolika De, Gabriel Lima, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>Experiencer, Helper, or Observer: Online Fraud Intervention for Older Adults Through a Role-Based Simulation Approach</b><br>
+  <a target="_blank" href="../publications/pdf/chi2026a-deng-preprint.pdf">preprint</a><br>
 	Yue Deng, Xiaowei Chen, Junxiang Liao, Bo Li, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>"What If My Face Gets Scanned Without Consent:"  Understanding Older Adults' Experiences with Biometric Payment</b><br>
+  <a target="_blank" href="../publications/pdf/chi2026b-deng-preprint.pdf">preprint</a> <br>
 	Yue Deng, Changyang He, Bo Li, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>Do Citizens Agree with the EU AI Act? Public Perspectives on Risk and Regulation of AI Systems</b><br>
+  <a target="_blank" href="../publications/pdf/chi2026-lima-preprint.pdf">preprint</a> <br>
 	Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote</b><br>
+  <a target="_blank" href="../publications/pdf/chi2026-zheng-preprint.pdf">preprint</a><br>
 	Jiamin Zheng, Yue Deng, Jessica Chen, Shujun Li, <u>Yixin Zou</u>, Jingjie Li<br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 

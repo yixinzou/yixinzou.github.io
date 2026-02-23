@@ -73,7 +73,7 @@ I am extremely lucky to work with the following amazing people:
 <h3>Alumni</h3>
 
 <ul>
-<li><a href="http://rebrand.ly/yuedeng">Yue Deng</a> (visiting PhD student, Hong Kong University of Science and Technology, 2025)</li>
+<li><a href="https://yuedenghci.github.io">Yue Deng</a> (visiting PhD student, Hong Kong University of Science and Technology, 2025)</li>
 <li><a href="https://sites.psu.edu/ankolikade/">Ankolika De</a> (visiting PhD student, Penn State University, 2025)</li>
 <li><a href="https://marcosp70.github.io">Marcos Silva</a> (research intern, 2025)</li>
 <li><a href="https://www.mpi-sp.org/person/142230/50437">Xiaowei Chen</a> (visiting PhD student, University of Luxembourg, 2025 --> Postdoc, MPI-SP)</li>
