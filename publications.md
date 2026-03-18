@@ -39,6 +39,7 @@ permalink: /publications/
   <a target="_blank" href="../publications/pdf/chi2026a-deng-preprint.pdf">preprint</a><br>
 	Yue Deng, Xiaowei Chen, Junxiang Liao, Bo Li, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+	<span style="color: red;">Best Paper Honorable Mention Award</span><br>
 <br>
   <b>"What If My Face Gets Scanned Without Consent:"  Understanding Older Adults' Experiences with Biometric Payment</b><br>
   <a target="_blank" href="../publications/pdf/chi2026b-deng-preprint.pdf">preprint</a> <br>
@@ -54,6 +55,7 @@ permalink: /publications/
   <a target="_blank" href="../publications/pdf/chi2026-zheng-preprint.pdf">preprint</a><br>
 	Jiamin Zheng, Yue Deng, Jessica Chen, Shujun Li, <u>Yixin Zou</u>, Jingjie Li<br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+	<span style="color: red;">Best Paper Award</span><br>
 
 <h3>2025</h3>
   <b>Beyond "Vulnerable Populations": A Unified Understanding of Vulnerability From A Socio-Ecological Perspective</b><br>

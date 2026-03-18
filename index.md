@@ -24,8 +24,9 @@ If you are interested in joining my group, or if you are seeking any form of adv
 ## Selected Honors and Awards
 
 <ul>
+<li>Best Paper Award, ACM Conference on Human Factors in Computing Systems (2026)</li>
+<li>Best Paper Honorable Mention, ACM Conference on Human Factors in Computing Systems (2026, 2025, 2020, 2019)</li>
 <li>Diversity and Inclusion Recognition, ACM Conference on Computer-Supported Cooperative Work and Social Computing (2025)</li>
-<li>Best Paper Honorable Mention, ACM Conference on Human Factors in Computing Systems (2025, 2020, 2019)</li>
 <li>Runner-up for CNIL-EHESS Award in Social Science (2025)</li>
 <li>Google Academic Research Award on Trust and Safety (2024)</li>
 <li>ACM SIGCHI Outstanding Dissertation Award (2024)</li>
