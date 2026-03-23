@@ -10,7 +10,7 @@ I lead the Human-Centered Security and Privacy group at the Max Planck Institute
     <a target="_blank" href="../publications/pdf/sp2026-tran-preprint.pdf">Security and Privacy Needs of Deaf and Hard-of-Hearing Communities</a> (IEEE S&P'26) |
    <a target="_blank" href="https://dl.acm.org/doi/10.1145/3597638.3615653">Bridge Privacy and Accessibility Research</a> (ASSETS'23 Workshop) | 
    <a target="_blank" href="https://petsymposium.org/popets/2024/popets-2024-0009.pdf"> Cross-Contextual Lens of Older Adults' Privacy Concerns and Behaviors</a> (PoPETs'24) | 
-    <a target="_blank" href="https://arxiv.org/pdf/2601.12300"> Older Adults’ Experiences with Biometric Payment</a> (CHI'26)
+    <a target="_blank" href="https://arxiv.org/pdf/2601.12300"> Older Adults' Experiences with Biometric Payment</a> (CHI'26)
   </li>
   <li><b>Cultural Aspects of Security and Privacy</b>: 
     <a target="_blank" href="https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-793-herbert.pdf">Digital Security Practices in WEIRD vs. Non-WEIRD Countries</a> (SEC'25) | 
@@ -21,19 +21,19 @@ I lead the Human-Centered Security and Privacy group at the Max Planck Institute
   <li><b>Cybercrime Prevention and Defense</b>: 
     <a target="_blank" href="https://arxiv.org/pdf/2601.12324">Anti-Scam Interventions Through Role-Based Simulations</a> (CHI'26) |  
     <a target="_blank" href="https://arxiv.org/pdf/2601.16050"> Individual Resilience After Cybercrime</a> (CHI'26) | 
-    The Interplay Between Scams and Human Trafficking (CHI'26) | 
+    <a target="_blank" href="../publications/pdf/chi2026-zheng-preprint.pdf">Scam-Driven Human Trafficking</a> (CHI'26) | 
    <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714137">Intergenerational Support and Challenges in Online Scam Defense</a> (CHI'25)
   </li>
   <li><b>Conceptual Tools and Frameworks for Researchers</b>: 
     <a target="_blank" href="https://dl.acm.org/doi/10.1145/3710935">A Socio-Ecological View of Vulnerability</a> (CSCW'25) | 
     <a target="_blank" href="https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00145">Privacy Considerations for Research Using Social Media Data</a> (IEEE S&P'25) | 
-    <a target="_blank" href="https://www.usenix.org/system/files/soups2025-buckmann.pdf">Differential Access to Digital Security and Privacy</a> (SOUPS'25) | 
-    Improve Diversity and Inclusion in Usable Privacy and Security Research (CHI'26)
+    <a target="_blank" href="https://arxiv.org/pdf/2511.13781">Human-Centered Threat Modeling in Practice</a> (IEEE S&P'26) | 
+    <a target="_blank" href="../publications/pdf/chi2026-chatterjee-preprint.pdf">Improve Diversity and Inclusion in Usable Privacy and Security Research</a> (CHI'26)
   </li>
   <li><b>Responsible AI</b>: 
     <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3713536">Lay Perceptions of Algorithmic Discrimination</a> (CHI'25) | 
-    Contrast Public Views on AI Risk with the EU AI Act (CHI'26) | 
-    Corporate Discourses on Generative AI Safety (CHI'26)
+    <a target="_blank" href="../publications/pdf/chi2026-lima-preprint.pdf">Contrast Public Views on AI Risk with the EU AI Act</a> (CHI'26) | 
+    <a target="_blank" href="../publications/pdf/chi2026-de-preprint.pdf">Corporate Discourses on Generative AI Safety</a> (CHI'26)
   </li>
 </ul>
 

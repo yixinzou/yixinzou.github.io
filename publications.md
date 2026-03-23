@@ -10,6 +10,10 @@ permalink: /publications/
 <small>\* equal contributions.</small>
 
 <h3>2026</h3>
+  <b>Revealed or Reinforced: How Assistive Technologies Shape the Experience with Dark Patterns for Blind and Low-Vision Users</b><br>
+	Agata Stanczyk, Mindy Tran, Tarini Saka, <u>Yixin Zou</u>, Veelasha Moonsamy<br>
+	ACM Conference on Designing Interactive Systems (DIS)<br>
+<br>
   <b>"I Wonder if These Warnings Are Accurate": Security and Privacy Advice in Nine Majority World Countries</b><br>
 	<a target="_blank" href="../publications/pdf/sp2026-munyendo-preprint.pdf">preprint</a> <br>
 	Collins W. Munyendo, Veronica A. Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, Marcos Silva, Yue Deng, Mercy Omeiza,  Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Maryam Mustafa, Abhishek Bichhawat, Francisco Marmolejo-Cossio, Elissa Redmiles*, <u>Yixin Zou*</u><br>
@@ -18,6 +22,11 @@ permalink: /publications/
   <b>Toward Inclusive Security and Privacy for Deaf and Hard-of-Hearing People: A Community-Based Interview Study</b><br>
 	<a target="_blank" href="../publications/pdf/sp2026-tran-preprint.pdf">preprint</a><br>
 	Mindy Tran, Xinru Tang, Adryana Hutchinson, Adam J. Aviv, <u>Yixin Zou</u><br>
+	IEEE Symposium on Security and Privacy (Oakland)<br>
+<br>
+  <b>Human-Centered Threat Modeling in Practice: Lessons, Challenges, and Paths Forward</b><br>
+	<a target="_blank" href="https://arxiv.org/pdf/2511.13781">preprint</a><br>
+	Warda Usman, <u>Yixin Zou</u>, Daniel Zappala<br>
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 <br>
   <b>It Shouldn't Be This Difficult: Researcher Perspectives on Diversity and Inclusion in Usable Privacy and Security Research</b><br>
