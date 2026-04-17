@@ -9,8 +9,8 @@ permalink: /service/
 
 <h3>Vice Program Chair / Track Chair / Area Chair </h3>
 
+<li>PoPETs: 2026, 2027</li>
 <li>ACM FAccT: 2026</li>
-<li>PoPETs: 2026</li>
 <li>ACM CCS: 2025 (Usability and Measurements Track Co-Chair with Emiliano De Cristofaro)</li>
 
 <h3>Program Committee Membership</h3>

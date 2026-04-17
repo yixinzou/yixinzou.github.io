@@ -10,7 +10,12 @@ permalink: /publications/
 <small>\* equal contributions.</small>
 
 <h3>2026</h3>
+  <b>Defining the Problem, Setting the Standard? Platform Narratives and Interventions for Digital Well-Being</b><br>
+	Yu Yamashita, Lin Kyi, Changyang He, Ankolika De, Maria Antoniak, <u>Yixin Zou</u>, Asia Biega<br>
+	ACM Conference on Fairness, Accountability, and Transparency (FAccT)<br>
+<br>
   <b>Revealed or Reinforced: How Assistive Technologies Shape the Experience with Dark Patterns for Blind and Low-Vision Users</b><br>
+  <a target="_blank" href="../publications/pdf/dis2026-stanczyk-preprint.pdf">preprint</a><br>
 	Agata Stanczyk, Mindy Tran, Tarini Saka, <u>Yixin Zou</u>, Veelasha Moonsamy<br>
 	ACM Conference on Designing Interactive Systems (DIS)<br>
 <br>
@@ -30,38 +35,45 @@ permalink: /publications/
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 <br>
   <b>It Shouldn't Be This Difficult: Researcher Perspectives on Diversity and Inclusion in Usable Privacy and Security Research</b><br>
-  <a target="_blank" href="../publications/pdf/chi2026-chatterjee-preprint.pdf">preprint</a><br>
+	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791487">link</a> | 
+	<a target="_blank" href="../publications/pdf/chi2026-chatterjee.pdf">pdf</a> <br>
 	Priyasha Chatterjee, Smirity Kaushik, Karola Marky, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>From Harm to Healing: Understanding Individual Resilience after Cybercrimes</b><br>
-  <a target="_blank" href="../publications/pdf/chi2026-chen-preprint.pdf">preprint</a><br>
+	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791486">link</a> | 
+	<a target="_blank" href="../publications/pdf/chi2026-chen.pdf">pdf</a> <br>
 	Xiaowei Chen, Mindy Tran, Yue Deng, Bhupendra Acharya, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>What is Safety? Corporate Discourse, Power, and the Politics of Generative AI Safety</b><br>
-  <a target="_blank" href="../publications/pdf/chi2026-de-preprint.pdf">preprint</a> <br> 
+	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791632">link</a> | 
+	<a target="_blank" href="../publications/pdf/chi2026-de.pdf">pdf</a> <br>
 	Ankolika De, Gabriel Lima, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>Experiencer, Helper, or Observer: Online Fraud Intervention for Older Adults Through a Role-Based Simulation Approach</b><br>
-  <a target="_blank" href="../publications/pdf/chi2026a-deng-preprint.pdf">preprint</a><br>
+	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791003">link</a> | 
+	<a target="_blank" href="../publications/pdf/chi2026a-deng.pdf">pdf</a> <br>
 	Yue Deng, Xiaowei Chen, Junxiang Liao, Bo Li, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 	<span style="color: red;">Best Paper Honorable Mention Award</span><br>
 <br>
   <b>"What If My Face Gets Scanned Without Consent:"  Understanding Older Adults' Experiences with Biometric Payment</b><br>
-  <a target="_blank" href="../publications/pdf/chi2026b-deng-preprint.pdf">preprint</a> <br>
+	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791562">link</a> | 
+	<a target="_blank" href="../publications/pdf/chi2026b-deng.pdf">pdf</a> <br>
 	Yue Deng, Changyang He, Bo Li, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>Do Citizens Agree with the EU AI Act? Public Perspectives on Risk and Regulation of AI Systems</b><br>
-  <a target="_blank" href="../publications/pdf/chi2026-lima-preprint.pdf">preprint</a> <br>
+	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3790535">link</a> | 
+	<a target="_blank" href="../publications/pdf/chi2026-lima.pdf">pdf</a> <br>
 	Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote</b><br>
-  <a target="_blank" href="../publications/pdf/chi2026-zheng-preprint.pdf">preprint</a><br>
+	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791786">link</a> | 
+	<a target="_blank" href="../publications/pdf/chi2026-zheng.pdf">pdf</a> <br>
 	Jiamin Zheng, Yue Deng, Jessica Chen, Shujun Li, <u>Yixin Zou</u>, Jingjie Li<br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 	<span style="color: red;">Best Paper Award</span><br>
