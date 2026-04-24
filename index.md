@@ -19,7 +19,7 @@ Want a brief highlight of my work? Check out <a href="https://www.youtube.com/wa
 
 If you are interested in joining my group, or if you are seeking any form of advising or collaboration, please read <a href="../joinus">this page</a>  first before reaching out to me.
 
-<span style="color: red;">I do not intend to accept any new PhD students or postdocs in 2026.</span>
+<span style="color: red;">I do not intend to accept any new interns, PhD students, or postdocs in 2026.</span>
 
 ## Selected Honors and Awards
 

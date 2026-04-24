@@ -36,44 +36,51 @@ permalink: /publications/
 <br>
   <b>It Shouldn't Be This Difficult: Researcher Perspectives on Diversity and Inclusion in Usable Privacy and Security Research</b><br>
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791487">link</a> | 
-	<a target="_blank" href="../publications/pdf/chi2026-chatterjee.pdf">pdf</a> <br>
+	<a target="_blank" href="../publications/pdf/chi2026-chatterjee.pdf">pdf</a> | 
+	<a target="_blank" href="../publications/slides/chi2026-chatterjee-slides.pdf">slides</a>  <br>
 	Priyasha Chatterjee, Smirity Kaushik, Karola Marky, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>From Harm to Healing: Understanding Individual Resilience after Cybercrimes</b><br>
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791486">link</a> | 
-	<a target="_blank" href="../publications/pdf/chi2026-chen.pdf">pdf</a> <br>
+	<a target="_blank" href="../publications/pdf/chi2026-chen.pdf">pdf</a> | 
+	<a target="_blank" href="../publications/slides/chi2026-chen-slides.pdf">slides</a> <br>
 	Xiaowei Chen, Mindy Tran, Yue Deng, Bhupendra Acharya, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>What is Safety? Corporate Discourse, Power, and the Politics of Generative AI Safety</b><br>
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791632">link</a> | 
-	<a target="_blank" href="../publications/pdf/chi2026-de.pdf">pdf</a> <br>
+	<a target="_blank" href="../publications/pdf/chi2026-de.pdf">pdf</a> | 
+	<a target="_blank" href="../publications/slides/chi2026-de-slides.pdf">slides</a>  <br>
 	Ankolika De, Gabriel Lima, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>Experiencer, Helper, or Observer: Online Fraud Intervention for Older Adults Through a Role-Based Simulation Approach</b><br>
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791003">link</a> | 
-	<a target="_blank" href="../publications/pdf/chi2026a-deng.pdf">pdf</a> <br>
+	<a target="_blank" href="../publications/pdf/chi2026a-deng.pdf">pdf</a> | 
+	<a target="_blank" href="../publications/slides/chi2026a-deng-slides.pdf">slides</a> <br>
 	Yue Deng, Xiaowei Chen, Junxiang Liao, Bo Li, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 	<span style="color: red;">Best Paper Honorable Mention Award</span><br>
 <br>
   <b>"What If My Face Gets Scanned Without Consent:"  Understanding Older Adults' Experiences with Biometric Payment</b><br>
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791562">link</a> | 
-	<a target="_blank" href="../publications/pdf/chi2026b-deng.pdf">pdf</a> <br>
+	<a target="_blank" href="../publications/pdf/chi2026b-deng.pdf">pdf</a> | 
+	<a target="_blank" href="../publications/slides/chi2026b-deng-slides.pdf">slides</a> <br> 
 	Yue Deng, Changyang He, Bo Li, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>Do Citizens Agree with the EU AI Act? Public Perspectives on Risk and Regulation of AI Systems</b><br>
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3790535">link</a> | 
-	<a target="_blank" href="../publications/pdf/chi2026-lima.pdf">pdf</a> <br>
+	<a target="_blank" href="../publications/pdf/chi2026-lima.pdf">pdf</a> | 
+	<a target="_blank" href="../publications/slides/chi2026-lima-slides.pdf">slides</a> <br>
 	Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 <br>
   <b>Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote</b><br>
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791786">link</a> | 
-	<a target="_blank" href="../publications/pdf/chi2026-zheng.pdf">pdf</a> <br>
+	<a target="_blank" href="../publications/pdf/chi2026-zheng.pdf">pdf</a> | 
+	<a target="_blank" href="../publications/slides/chi2026-zheng-slides.pdf">slides</a> <br> 
 	Jiamin Zheng, Yue Deng, Jessica Chen, Shujun Li, <u>Yixin Zou</u>, Jingjie Li<br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 	<span style="color: red;">Best Paper Award</span><br>
