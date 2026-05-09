@@ -20,12 +20,14 @@ permalink: /publications/
 	ACM Conference on Designing Interactive Systems (DIS)<br>
 <br>
   <b>"I Wonder if These Warnings Are Accurate": Security and Privacy Advice in Nine Majority World Countries</b><br>
-	<a target="_blank" href="../publications/pdf/sp2026-munyendo-preprint.pdf">preprint</a> <br>
+	<a target="_blank" href="https://doi.ieeecomputersociety.org/10.1109/SP63933.2026.00005">link</a> | 
+	<a target="_blank" href="../publications/pdf/sp2026-munyendo.pdf">pdf</a> <br>
 	Collins W. Munyendo, Veronica A. Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, Marcos Silva, Yue Deng, Mercy Omeiza,  Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Maryam Mustafa, Abhishek Bichhawat, Francisco Marmolejo-Cossio, Elissa Redmiles*, <u>Yixin Zou*</u><br>
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 <br>
   <b>Toward Inclusive Security and Privacy for Deaf and Hard-of-Hearing People: A Community-Based Interview Study</b><br>
-	<a target="_blank" href="../publications/pdf/sp2026-tran-preprint.pdf">preprint</a><br>
+	<a target="_blank" href="https://doi.ieeecomputersociety.org/10.1109/SP63933.2026.00027">link</a> | 
+	<a target="_blank" href="../publications/pdf/sp2026-tran.pdf">pdf</a> <br>
 	Mindy Tran, Xinru Tang, Adryana Hutchinson, Adam J. Aviv, <u>Yixin Zou</u><br>
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 <br>
@@ -54,6 +56,7 @@ permalink: /publications/
 	<a target="_blank" href="../publications/slides/chi2026-de-slides.pdf">slides</a>  <br>
 	Ankolika De, Gabriel Lima, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+ [Selected for presentation at the <a href="https://www.cnil.fr/en/privacy-research-day-2026">CNIL Privacy Day 2026</a>]<br>
 <br>
   <b>Experiencer, Helper, or Observer: Online Fraud Intervention for Older Adults Through a Role-Based Simulation Approach</b><br>
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791003">link</a> | 
@@ -76,6 +79,7 @@ permalink: /publications/
 	<a target="_blank" href="../publications/slides/chi2026-lima-slides.pdf">slides</a> <br>
 	Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+ [Selected for presentation at the <a href="https://www.cnil.fr/en/privacy-research-day-2026">CNIL Privacy Day 2026</a>]<br>
 <br>
   <b>Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote</b><br>
 	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3772318.3791786">link</a> | 
@@ -163,6 +167,7 @@ permalink: /publications/
   <a target="_blank" href="https://www.youtube.com/watch?v=vy-DYsN_GjM">video</a> <br>
   Yue Deng, Changyang He, <u>Yixin Zou</u>, Bo Li<br>
   ACM Conference on Human Factors in Computing Systems (CHI)<br>
+   [Selected for presentation at the <a href="https://www.cnil.fr/en/privacy-research-day-2026">CNIL Privacy Day 2026</a>]<br>
 
 <h3>2024</h3>
   <b>Encouraging Users to Change Breached Passwords Using the Protection Motivation Theory</b><br>
