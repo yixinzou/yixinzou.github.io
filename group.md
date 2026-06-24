@@ -49,7 +49,6 @@ I am extremely lucky to work with the following amazing people:
 
 <ul>
 <li><a href="https://homes.cs.washington.edu/~kentrell/">Kentrell Owens</a> (since 2025)</li>
-<li><a href="https://vrivera2017.github.io">Veronica Rivera</a> (since 2025)</li>
 <li><a href="https://chenetal.github.io">Xiaowei Chen</a> (since 2025, co-advised with Thorsten Holz)</li>
 <li><a href="https://tarinisaka.github.io">Tarini Saka</a> (since 2026)</li>
 </ul>
@@ -73,6 +72,7 @@ I am extremely lucky to work with the following amazing people:
 <h3>Alumni</h3>
 
 <ul>
+<li><a href="https://vrivera2017.github.io">Veronica Rivera</a> (Postdoc, 2025-2026 --> Assistant Professor, Georgia Tech)</li>
 <li><a href="https://yuedenghci.github.io">Yue Deng</a> (visiting PhD student, Hong Kong University of Science and Technology, 2025)</li>
 <li><a href="https://sites.psu.edu/ankolikade/">Ankolika De</a> (visiting PhD student, Penn State University, 2025)</li>
 <li><a href="https://marcosp70.github.io">Marcos Silva</a> (research intern, 2025)</li>

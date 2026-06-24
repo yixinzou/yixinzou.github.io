@@ -19,7 +19,8 @@ permalink: /publications/
 	ACM Conference on Fairness, Accountability, and Transparency (FAccT)<br>
 <br>
   <b>Revealed or Reinforced: How Assistive Technologies Shape the Experience with Dark Patterns for Blind and Low-Vision Users</b><br>
-  <a target="_blank" href="../publications/pdf/dis2026-stanczyk-preprint.pdf">preprint</a><br>
+	<a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3800645.3812887">link</a> | 
+	<a target="_blank" href="../publications/pdf/dis2026-stanczyk.pdf">pdf</a> <br>
 	Agata Stanczyk, Mindy Tran, Tarini Saka, <u>Yixin Zou</u>, Veelasha Moonsamy<br>
 	ACM Conference on Designing Interactive Systems (DIS)<br>
 <br>
@@ -83,6 +84,7 @@ permalink: /publications/
 	<a target="_blank" href="../publications/slides/chi2026-lima-slides.pdf">slides</a> <br>
 	Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall, <u>Yixin Zou</u><br>
 	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+	<span style="color: red;">CNIL-EHESS Award (Best Contribution in Social Science on Privacy Protection)</span><br>
  [Selected for presentation at the <a href="https://www.cnil.fr/en/privacy-research-day-2026">CNIL Privacy Day 2026</a>]<br>
 <br>
   <b>Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote</b><br>
@@ -154,7 +156,7 @@ permalink: /publications/
   <a target="_blank" href="../publications/slides/oakland2025-beadle-poster.pdf">poster</a> <br>
   Kyle Beadle, Kieron Ivy Turk, Aliai Eusebi, Mindy Tran, Marilyne Ordekian, Enrico Mariconti, <u>Yixin Zou*</u>, Marie Vasek\*<br>
   IEEE Symposium on Security and Privacy (Oakland)<br>
-  <span style="color: red;">Runner-up for CNIL-EHESS Award in Social Science</span><br>
+  <span style="color: red;">Runner-up for CNIL-EHESS Award (Best Contribution in Social Science on Privacy Protection)</span><br>
   [Selected for presentation at the <a href="https://www.cnil.fr/en/privacy-research-day-2025">CNIL Privacy Day 2025</a>]<br>
 <br>
   <b>Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice</b><br>
