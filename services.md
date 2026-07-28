@@ -15,9 +15,9 @@ permalink: /service/
 
 <h3>Program Committee Membership</h3>
 
+<li>ACM CHI: 2024 (Privacy & Security), 2025 (Privacy & Security), 2026 (Specific Applications), 2027</li>
 <li>ACM ASSETS: 2026</li>
 <li>IEEE EuroS&P: 2026</li>
-<li>ACM CHI: 2024 (Privacy & Security), 2025 (Privacy & Security), 2026 (Specific Applications)</li>
 <li>SOUPS: 2024, 2025, 2026</li>
 <li>PoPETs: 2023, 2025</li>
 <li>ACM CCS: 2023, 2024</li>

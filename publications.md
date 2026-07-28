@@ -11,10 +11,13 @@ permalink: /publications/
 
 <h3>2026</h3>
   <b>"You Have Been Selected as the Winner": Characterizing User-Reported Scams on TikTok</b><br>
+	<a target="_blank" href="../publications/pdf/soups2026-kaushik-preprint.pdf">preprint</a><br>
 	Smirity Kaushik, Kyle Beadle, Gauri Nayak, Madelyn Rose Sanfilippo, Mainack Mondal, Yang Wang, Sai Teja Peddinti, Jingjie Li, <u>Yixin Zou</u><br>
 	Symposium On Usable Privacy and Security (SOUPS)<br>
 <br>
   <b>Defining the Problem, Setting the Standard? Platform Narratives and Interventions for Digital Well-Being</b><br>
+	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3805689.3812409">link</a> | 
+	<a target="_blank" href="../publications/pdf/facct2026-yamashita.pdf">pdf</a> <br>
 	Yu Yamashita, Lin Kyi, Changyang He, Ankolika De, Maria Antoniak, <u>Yixin Zou</u>, Asia Biega<br>
 	ACM Conference on Fairness, Accountability, and Transparency (FAccT)<br>
 <br>
@@ -37,7 +40,8 @@ permalink: /publications/
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 <br>
   <b>Human-Centered Threat Modeling in Practice: Lessons, Challenges, and Paths Forward</b><br>
-	<a target="_blank" href="https://arxiv.org/pdf/2511.13781">preprint</a><br>
+	<a target="_blank" href="https://doi.ieeecomputersociety.org/10.1109/SP63933.2026.00144">link</a> | 
+	<a target="_blank" href="../publications/slides/sp2026-usman-poster.pdf">poster</a><br>
 	Warda Usman, <u>Yixin Zou</u>, Daniel Zappala<br>
 	IEEE Symposium on Security and Privacy (Oakland)<br>
 <br>

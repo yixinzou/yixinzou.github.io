@@ -9,7 +9,7 @@ Currently, I am the primary or co-instructor for the following courses at the Ru
 
 **212044: AI Ethics and Society**
 
-Lecture/Exercise \| Offered in 
+Lecture/Exercise \| Offered in WS 26/27, 
 <a href="https://vvz.ruhr-uni-bochum.de/campus/all/event.asp?gguid=0xE1CC2BF89382409FB7809D38FFA9A119&from=vvz&mode=own&tabID=1&tguid=0x72A1F066AE364472A0A8EFF9E1FC2DD1&objgguid=0x5F1DD6158D6F4B79A8B5DDFBB97D5954&lang=en">WS 25/26 <br>
 
 This is a Master's level course that examines the ethical, social, and political implications of artificial intelligence (AI). Drawing on perspectives from the social sciences and humanities rather than purely technical approaches, students explore how AI can perpetuate discrimination, bias, and injustice, the responsibilities of various actors when AI causes harm, the politics of AI datasets, approaches for explaining AI decision-making, auditing, regulation, and more. Through critical analysis and assignments, students learn to assess AI-caused harms, evaluate mitigation strategies, and reflect on how to design and deploy AI systems more equitably and responsibly.
