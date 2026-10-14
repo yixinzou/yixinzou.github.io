@@ -3,15 +3,12 @@ layout: default
 permalink: /service/
 ---
 
-<h3>Program Chair</h3>
-
-<li>USEC: 2023 (with Jacob Abbott)</li>
-
-<h3>Vice Program Chair / Track Chair / Area Chair </h3>
-
-<li>PoPETs: 2026, 2027</li>
-<li>ACM FAccT: 2026</li>
-<li>ACM CCS: 2025 (Usability and Measurements Track Co-Chair with Emiliano De Cristofaro)</li>
+<h3>Senior Organizing Roles</h3>
+<li>General Co-Chair: SCP 2027</li>
+<li>Panel Co-Chair: CHI 2027</li>
+<li>Vice Program Co-Chair: PoPETs 2026, 2027</li>
+<li>Track Co-Chair: ACM CCS 2025 (Usability and MEasurements)</li>
+<li>Program Co-Chair: USEC 2023</li>
 
 <h3>Program Committee Membership</h3>
 

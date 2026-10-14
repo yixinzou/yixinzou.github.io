@@ -75,12 +75,12 @@ I am extremely lucky to work with the following amazing people:
 <ul>
 <li><a href="https://vrivera2017.github.io">Veronica Rivera</a> (Postdoc, 2025-2026 --> Assistant Professor, Georgia Tech)</li>
 <li><a href="https://yuedenghci.github.io">Yue Deng</a> (visiting PhD student, Hong Kong University of Science and Technology, 2025)</li>
-<li><a href="https://sites.psu.edu/ankolikade/">Ankolika De</a> (visiting PhD student, Penn State University, 2025)</li>
-<li><a href="https://marcosp70.github.io">Marcos Silva</a> (research intern, 2025)</li>
+<li><a href="https://sites.psu.edu/ankolikade/">Ankolika De</a> (visiting PhD student, Penn State University, 2025 --> Postdoc, Vanderbilt University)</li>
+<li><a href="https://marcosp70.github.io">Marcos Silva</a> (research intern, 2025 --> Senior Intelligence Analyst, Wabtec)</li>
 <li><a href="https://chenetal.github.io">Xiaowei Chen</a> (visiting PhD student, University of Luxembourg, 2025 --> Postdoc, MPI-SP)</li>
 <li><a href="https://www.linkedin.com/in/emmanuel-tweneboah/">Emmanuel Tweneboah</a> (reserch intern, 2024-2025 --> Master's student, Ruhr University Bochum)</li>
 <li><a href="https://collinsmunyendo.github.io">Collins Munyendo</a> (visiting PhD student, the George Washington University, 2023-2024 --> Postdoc, UC Berkeley)</li>
-<li><a href="https://kylebeadle.com">Kyle Beadle</a> (visiting PhD student, University College London, 2024)</li>
+<li><a href="https://kylebeadle.com">Kyle Beadle</a> (visiting PhD student, University College London, 2024 --> Postdoc, Inria)</li>
 <li><a href="https://smiritykaushik.github.io">Smirity Kaushik</a> (visiting PhD student, University of Illinois at Urbana-Champaign, 2023-2024 --> Postdoc, the George Washington University)</li>
 <li><a href="https://yjwho.github.io">Jackie Hu</a> (research intern, 2023 --> PhD student, University of Michigan) </li>
 <li><a href="https://johannagunawan.com">Johanna Gunawan</a> (visiting PhD student, Northeastern University, 2023 --> Assistant Professor, Maastricht University) </li>
