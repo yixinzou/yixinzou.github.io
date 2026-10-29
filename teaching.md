@@ -5,7 +5,7 @@ permalink: /teaching/
 
 <h3>Courses</h3>
 
-Currently, I am the primary or co-instructor for the following courses at the Ruhr University Bochum (RUB).
+I have taught the following courses at the Ruhr University Bochum (RUB).
 
 **212044: AI Ethics and Society**
 
@@ -25,21 +25,4 @@ This is a Master's level course that aims to equip students with the knowledge a
 
 <h3>Theses</h3>
 
-For Bachelor's and Master's students at RUB: I offer thesis supervision on a limited basis. I do not have a pre-compiled list of thesis topics, as I prefer to find an individual thesis topic that is aligned with your interest and skills. As a foundation for discussing possible thesis topics, please take a look at my group's <a href="https://yixinzou.github.io/publications/">recent publications</a> and <a href="https://yixinzou.github.io/group/">current research directions</a>. 
-
-To apply for writing a thesis with me or express interest, please email me using the <a href="https://docs.google.com/document/d/e/2PACX-1vTMEJmM5nMil-2JedBT9lYkYnvdxQEJI2pdOnDgDl7KDFVGM8nmcOxpyrFAvxLss7Cp-u6XMciV_ZXQ/pub">email application template</a> by RUB HCS Chair. You may also include your academic transcript, resume, and other relevant materials. 
-
-Before I formally accept an application, I will usually ask you to write an exposé based on our initial discussions. The exposé should address the following points in roughly three pages:
-
-<li>Motivation: What is the research gap? Why is the problem that I want to investigate important? </li>
-<li>Related Work: What have others done in the area the specifically motivates my thesis?</li>
-<li>Method: Which method do I want to use? What are the specific research questions? Which resources are needed to carry out my research?</li>
-<li>Time plan: How long will writing the thesis take? How can I break it down into different work packages?</li>
-<li>Next steps: What are the specific next steps?</li>
-
-I will also provide feedback on the exposé. Once it is final, we can sign it as our thesis agreement and you can start the registration process at the examination office.
-
-**Completed Theses**
-
-<li>2025: Sophie-Charlotte Sommer (BSc) "Exploring Accessible and Inclusive IT Security: A Systematic Literature Review on Security Practices for People with Disabilities"</li>
-<li>2024: Agata Dominika Stanczyk (MSc) "Tracing the Transformation of Phishing in the Era of AI and Social Media"</li>
+For Bachelor's and Master's students at RUB, I offer thesis supervision on a limited basis together with postdocs and senior PhD students in my group. If you are interested in writing a thesis with us, please check out <a href="../thesis">this page</a> for more details. 

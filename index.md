@@ -17,9 +17,11 @@ Want a brief highlight of my work? Check out <a href="https://www.youtube.com/wa
 
 ## Open Positions
 
-If you are interested in joining my group, or if you are seeking any form of advising or collaboration, please read <a href="../joinus">this page</a>  first before reaching out to me.
+If you are interested in joining my group, or if you are seeking any form of advising or collaboration, please read the <a href="../joinus">"join us"</a> page first before reaching out to me.
 
-<span style="color: red;">For 2027, I am not hiring any PhD students or postdocs; I may or may not hire interns depending on my funding and bandwidth. For internship candidates, please submit your application to the <a href="https://www.cis.mpg.de/internships/">CS@Max Planck portal</a> and mention my name as faculty of interest. I unfortunately do not have the bandwidth to respond to individual email inquiries.</span>
+<span style="color: red;">For 2027, I am not hiring any PhD students or postdocs. For internship candidates, please submit your application to the <a href="https://www.cis.mpg.de/internships/">CS@Max Planck portal</a> and mention my name as faculty of interest. I unfortunately do not have the bandwidth to respond to individual email inquiries.</span>
+
+<span style="color: red;">My group is also open to supervising BSc/MSc thesis students! Check out our <a href="../thesis">thesis</a> page for more details.</span>
 
 ## Selected Honors and Awards
 

@@ -11,7 +11,8 @@ permalink: /publications/
 
 <h3>2026</h3>
   <b>"You Have Been Selected as the Winner": Characterizing User-Reported Scams on TikTok</b><br>
-	<a target="_blank" href="../publications/pdf/soups2026-kaushik-preprint.pdf">preprint</a><br>
+	<a target="_blank" href="https://www.usenix.org/system/files/soups2026-kaushik.pdf">link</a> | 
+	<a target="_blank" href="../publications/pdf/soups2026-kaushik.pdf">pdf</a> <br>
 	Smirity Kaushik, Kyle Beadle, Gauri Nayak, Madelyn Rose Sanfilippo, Mainack Mondal, Yang Wang, Sai Teja Peddinti, Jingjie Li, <u>Yixin Zou</u><br>
 	Symposium On Usable Privacy and Security (SOUPS)<br>
 <br>
