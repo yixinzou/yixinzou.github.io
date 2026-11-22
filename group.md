@@ -52,6 +52,7 @@ I am extremely lucky to work with the following amazing people:
 <li><a href="https://homes.cs.washington.edu/~kentrell/">Kentrell Owens</a> (since 2025)</li>
 <li><a href="https://chenetal.github.io">Xiaowei Chen</a> (since 2025, co-advised with Thorsten Holz)</li>
 <li><a href="https://tarinisaka.github.io">Tarini Saka</a> (since 2026)</li>
+<li><a href="https://yuedenghci.github.io">Yue Deng</a> (incoming)</li>
 </ul>
 
 <h3>Ph.D. Students</h3>
@@ -68,13 +69,14 @@ I am extremely lucky to work with the following amazing people:
 
 <ul>
 <li><a href="https://blogs.ed.ac.uk/yangheran_piao/">Yangheran (Lawrence) Piao</a> (2026-2027)</li>
+<li><a href="https://www.mpi-sp.org/person/157283/50437">Clemens Bade</a> (since 2026)</li>
 </ul>
 
 <h3>Alumni</h3>
 
 <ul>
 <li><a href="https://vrivera2017.github.io">Veronica Rivera</a> (Postdoc, 2025-2026 --> Assistant Professor, Georgia Tech)</li>
-<li><a href="https://yuedenghci.github.io">Yue Deng</a> (visiting PhD student, Hong Kong University of Science and Technology, 2025)</li>
+<li><a href="https://yuedenghci.github.io">Yue Deng</a> (visiting PhD student, Hong Kong University of Science and Technology, 2025 --> Postdoc, MPI-SP)</li>
 <li><a href="https://sites.psu.edu/ankolikade/">Ankolika De</a> (visiting PhD student, Penn State University, 2025 --> Postdoc, Vanderbilt University)</li>
 <li><a href="https://marcosp70.github.io">Marcos Silva</a> (research intern, 2025 --> Senior Intelligence Analyst, Wabtec)</li>
 <li><a href="https://chenetal.github.io">Xiaowei Chen</a> (visiting PhD student, University of Luxembourg, 2025 --> Postdoc, MPI-SP)</li>

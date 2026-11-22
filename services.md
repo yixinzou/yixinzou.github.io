@@ -5,6 +5,7 @@ permalink: /service/
 
 <h3>Senior Organizing Roles</h3>
 <li>General Co-Chair: SCP 2027</li>
+<li>Technical Papers Co-Chair: SOUPS 2027</li>
 <li>Panel Co-Chair: CHI 2027</li>
 <li>Vice Program Co-Chair: PoPETs 2026, 2027</li>
 <li>Track Co-Chair: ACM CCS 2025 (Usability and MEasurements)</li>
@@ -13,14 +14,14 @@ permalink: /service/
 <h3>Program Committee Membership</h3>
 
 <li>ACM CHI: 2024 (Privacy & Security), 2025 (Privacy & Security), 2026 (Specific Applications), 2027</li>
+<li>ACM CSCW: 2023, since 2026</li>
+<li>ACM FAccT: 2023, 2026, 2027</li>
 <li>ACM ASSETS: 2026</li>
 <li>IEEE EuroS&P: 2026</li>
 <li>SOUPS: 2024, 2025, 2026</li>
 <li>PoPETs: 2023, 2025</li>
 <li>ACM CCS: 2023, 2024</li>
 <li>USENIX Security Symposium: 2023</li>
-<li>ACM FAccT: 2023</li>
-<li>ACM CSCW: 2023</li>
 <li>RAID: 2022</li>
 
 <h3>Reviewing Awards and Recognitions</h3>
